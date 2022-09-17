@@ -1,0 +1,5422 @@
+{
+  "shows": [
+    {
+      "id": 1605291008582,
+      "diziad": "Masaba Masaba",
+      "diziresim": "https://dizist.co/upload/poster/masaba-masaba.jpg",
+      "dizilinker": "https://dizist.co/masaba-masaba"
+    },
+    {
+      "id": 1605291008584,
+      "diziad": "Black Panther",
+      "diziresim": "https://dizist.co/upload/poster/black-panther.jpg",
+      "dizilinker": "https://dizist.co/black-panther"
+    },
+    {
+      "id": 1605291008586,
+      "diziad": "Black",
+      "diziresim": "https://dizist.co/upload/poster/black.jpg",
+      "dizilinker": "https://dizist.co/black"
+    },
+    {
+      "id": 1605291008588,
+      "diziad": "Baki",
+      "diziresim": "https://dizist.co/upload/poster/baki.jpg",
+      "dizilinker": "https://dizist.co/baki"
+    },
+    {
+      "id": 1605291008590,
+      "diziad": "Bad Guys",
+      "diziresim": "https://dizist.co/upload/poster/bad-guys.jpg",
+      "dizilinker": "https://dizist.co/bad-guys"
+    },
+    {
+      "id": 1605291008592,
+      "diziad": "All Hail King Julien",
+      "diziresim": "https://dizist.co/upload/poster/all-hail-king-julien.jpg",
+      "dizilinker": "https://dizist.co/all-hail-king-julien"
+    },
+    {
+      "id": 1605291008595,
+      "diziad": "A Korean Odyssey",
+      "diziresim": "https://dizist.co/upload/poster/a-korean-odyssey.jpg",
+      "dizilinker": "https://dizist.co/a-korean-odyssey"
+    },
+    {
+      "id": 1605291008597,
+      "diziad": "Aggretsuko",
+      "diziresim": "https://dizist.co/upload/poster/aggretsuko.jpg",
+      "dizilinker": "https://dizist.co/aggretsuko"
+    },
+    {
+      "id": 1605291008600,
+      "diziad": "Rojst",
+      "diziresim": "https://dizist.co/upload/poster/rojst.jpg",
+      "dizilinker": "https://dizist.co/rojst"
+    },
+    {
+      "id": 1605291008601,
+      "diziad": "Amazing Stories",
+      "diziresim": "https://dizist.co/upload/poster/amazing-stories.jpg",
+      "dizilinker": "https://dizist.co/amazing-stories"
+    },
+    {
+      "id": 1605291008603,
+      "diziad": "100 Humans",
+      "diziresim": "https://dizist.co/upload/poster/100-humans.jpg",
+      "dizilinker": "https://dizist.co/100-humans"
+    },
+    {
+      "id": 1605291008606,
+      "diziad": "Devs",
+      "diziresim": "https://dizist.co/upload/poster/devs.jpg",
+      "dizilinker": "https://dizist.co/devs"
+    },
+    {
+      "id": 1605291008609,
+      "diziad": "Çukur",
+      "diziresim": "https://dizist.co/upload/poster/cukur.jpg",
+      "dizilinker": "https://dizist.co/cukur"
+    },
+    {
+      "id": 1605291008611,
+      "diziad": "Prodigal Son",
+      "diziresim": "https://dizist.co/upload/poster/prodigal-son.jpg",
+      "dizilinker": "https://dizist.co/prodigal-son"
+    },
+    {
+      "id": 1605291008614,
+      "diziad": "Bob Hearts Abishola",
+      "diziresim": "https://dizist.co/upload/poster/bob-hearts-abishola.jpg",
+      "dizilinker": "https://dizist.co/bob-hearts-abishola"
+    },
+    {
+      "id": 1605291008616,
+      "diziad": "Team Kaylie",
+      "diziresim": "https://dizist.co/upload/poster/team-kaylie.jpg",
+      "dizilinker": "https://dizist.co/team-kaylie"
+    },
+    {
+      "id": 1605291008618,
+      "diziad": "The Unicorn",
+      "diziresim": "https://dizist.co/upload/poster/the-unicorn.jpg",
+      "dizilinker": "https://dizist.co/the-unicorn"
+    },
+    {
+      "id": 1605291008620,
+      "diziad": "Snowpiercer",
+      "diziresim": "https://dizist.co/upload/poster/snowpiercer.jpg",
+      "dizilinker": "https://dizist.co/snowpiercer"
+    },
+    {
+      "id": 1605291008622,
+      "diziad": "The Last Kids on Earth",
+      "diziresim": "https://dizist.co/upload/poster/the-last-kids-on-earth.jpg",
+      "dizilinker": "https://dizist.co/the-last-kids-on-earth"
+    },
+    {
+      "id": 1605291008624,
+      "diziad": "Monarca",
+      "diziresim": "https://dizist.co/upload/poster/monarca.jpg",
+      "dizilinker": "https://dizist.co/monarca"
+    },
+    {
+      "id": 1605291008627,
+      "diziad": "A Confession",
+      "diziresim": "https://dizist.co/upload/poster/a-confession.jpg",
+      "dizilinker": "https://dizist.co/a-confession"
+    },
+    {
+      "id": 1605291008629,
+      "diziad": "See",
+      "diziresim": "https://dizist.co/upload/poster/see.jpg",
+      "dizilinker": "https://dizist.co/see"
+    },
+    {
+      "id": 1605291008631,
+      "diziad": "Marianne",
+      "diziresim": "https://dizist.co/upload/poster/marianne.jpg",
+      "dizilinker": "https://dizist.co/marianne"
+    },
+    {
+      "id": 1605291008633,
+      "diziad": "Unbelievable",
+      "diziresim": "https://dizist.co/upload/poster/unbelievable.jpg",
+      "dizilinker": "https://dizist.co/unbelievable"
+    },
+    {
+      "id": 1605291008636,
+      "diziad": "Undone",
+      "diziresim": "https://dizist.co/upload/poster/undone.jpg",
+      "dizilinker": "https://dizist.co/undone"
+    },
+    {
+      "id": 1605291008639,
+      "diziad": "The Mind, Explained",
+      "diziresim": "https://dizist.co/upload/poster/the-mind-explained.jpg",
+      "dizilinker": "https://dizist.co/the-mind-explained"
+    },
+    {
+      "id": 1605291008641,
+      "diziad": "Deep Water",
+      "diziresim": "https://dizist.co/upload/poster/deep-water.jpg",
+      "dizilinker": "https://dizist.co/deep-water"
+    },
+    {
+      "id": 1605291008644,
+      "diziad": "The I-Land",
+      "diziresim": "https://dizist.co/upload/poster/the-i-land.jpg",
+      "dizilinker": "https://dizist.co/the-i-land"
+    },
+    {
+      "id": 1605291008646,
+      "diziad": "The Capture",
+      "diziresim": "https://dizist.co/upload/poster/the-capture.jpg",
+      "dizilinker": "https://dizist.co/the-capture"
+    },
+    {
+      "id": 1605291008649,
+      "diziad": "Beforeigners",
+      "diziresim": "https://dizist.co/upload/poster/beforeigners.jpg",
+      "dizilinker": "https://dizist.co/beforeigners"
+    },
+    {
+      "id": 1605291008651,
+      "diziad": "The Spy",
+      "diziresim": "https://dizist.co/upload/poster/the-spy.jpg",
+      "dizilinker": "https://dizist.co/the-spy"
+    },
+    {
+      "id": 1605291008653,
+      "diziad": "Brassic",
+      "diziresim": "https://dizist.co/upload/poster/brassic.jpg",
+      "dizilinker": "https://dizist.co/brassic"
+    },
+    {
+      "id": 1605291008655,
+      "diziad": "Lambs of God",
+      "diziresim": "https://dizist.co/upload/poster/lambs-of-god.jpg",
+      "dizilinker": "https://dizist.co/lambs-of-god"
+    },
+    {
+      "id": 1605291008658,
+      "diziad": "Rust Valley Restorers",
+      "diziresim": "https://dizist.co/upload/poster/rust-valley-restorers.jpg",
+      "dizilinker": "https://dizist.co/rust-valley-restorers"
+    },
+    {
+      "id": 1605291008660,
+      "diziad": "13 Commandments",
+      "diziresim": "https://dizist.co/upload/poster/13-commandments.jpg",
+      "dizilinker": "https://dizist.co/13-commandments"
+    },
+    {
+      "id": 1605291008662,
+      "diziad": "Carole & Tuesday",
+      "diziresim": "https://dizist.co/upload/poster/carole-and-tuesday.jpg",
+      "dizilinker": "https://dizist.co/carole-and-tuesday"
+    },
+    {
+      "id": 1605291008664,
+      "diziad": "The A List",
+      "diziresim": "https://dizist.co/upload/poster/the-a-list.jpg",
+      "dizilinker": "https://dizist.co/the-a-list"
+    },
+    {
+      "id": 1605291008666,
+      "diziad": "The Dark Crystal: Age of Resistance",
+      "diziresim": "https://dizist.co/upload/poster/the-dark-crystal-age-of-resistance.jpg",
+      "dizilinker": "https://dizist.co/the-dark-crystal-age-of-resistance"
+    },
+    {
+      "id": 1605291008669,
+      "diziad": "Styling Hollywood",
+      "diziresim": "https://dizist.co/upload/poster/styling-hollywood.jpg",
+      "dizilinker": "https://dizist.co/styling-hollywood"
+    },
+    {
+      "id": 1605291008673,
+      "diziad": "45 Revoluciones",
+      "diziresim": "https://dizist.co/upload/poster/45-revoluciones.jpg",
+      "dizilinker": "https://dizist.co/45-revoluciones"
+    },
+    {
+      "id": 1605291008677,
+      "diziad": "The Mandalorian",
+      "diziresim": "https://dizist.co/upload/poster/the-mandalorian.jpg",
+      "dizilinker": "https://dizist.co/the-mandalorian"
+    },
+    {
+      "id": 1605291008681,
+      "diziad": "Hyperdrive",
+      "diziresim": "https://dizist.co/upload/poster/hyperdrive.jpg",
+      "dizilinker": "https://dizist.co/hyperdrive"
+    },
+    {
+      "id": 1605291008684,
+      "diziad": "Love Alarm",
+      "diziresim": "https://dizist.co/upload/poster/love-alarm.jpg",
+      "dizilinker": "https://dizist.co/love-alarm"
+    },
+    {
+      "id": 1605291008695,
+      "diziad": "Arthdal Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/arthdal-chronicles.jpg",
+      "dizilinker": "https://dizist.co/arthdal-chronicles"
+    },
+    {
+      "id": 1605291008697,
+      "diziad": "Find Me in Paris",
+      "diziresim": "https://dizist.co/upload/poster/find-me-in-paris.jpg",
+      "dizilinker": "https://dizist.co/find-me-in-paris"
+    },
+    {
+      "id": 1605291008699,
+      "diziad": "On Becoming a God in Central Florida",
+      "diziresim": "https://dizist.co/upload/poster/on-becoming-a-god-in-central-florida.jpg",
+      "dizilinker": "https://dizist.co/on-becoming-a-god-in-central-florida"
+    },
+    {
+      "id": 1605291008701,
+      "diziad": "Two Sentence Horror Stories",
+      "diziresim": "https://dizist.co/upload/poster/two-sentence-horror-stories.jpg",
+      "dizilinker": "https://dizist.co/two-sentence-horror-stories"
+    },
+    {
+      "id": 1605291008703,
+      "diziad": "Victim Number 8",
+      "diziresim": "https://dizist.co/upload/poster/victim-number-8.jpg",
+      "dizilinker": "https://dizist.co/victim-number-8"
+    },
+    {
+      "id": 1605291008706,
+      "diziad": "Frontera verde",
+      "diziresim": "https://dizist.co/upload/poster/frontera-verde.jpg",
+      "dizilinker": "https://dizist.co/frontera-verde"
+    },
+    {
+      "id": 1605291008708,
+      "diziad": "State of the Union",
+      "diziresim": "https://dizist.co/upload/poster/state-of-the-union.jpg",
+      "dizilinker": "https://dizist.co/state-of-the-union"
+    },
+    {
+      "id": 1605291008710,
+      "diziad": "No Good Nick",
+      "diziresim": "https://dizist.co/upload/poster/no-good-nick.jpg",
+      "dizilinker": "https://dizist.co/no-good-nick"
+    },
+    {
+      "id": 1605291008712,
+      "diziad": "Why Women Kill",
+      "diziresim": "https://dizist.co/upload/poster/why-women-kill.jpg",
+      "dizilinker": "https://dizist.co/why-women-kill"
+    },
+    {
+      "id": 1605291008714,
+      "diziad": "This Way Up",
+      "diziresim": "https://dizist.co/upload/poster/this-way-up.jpg",
+      "dizilinker": "https://dizist.co/this-way-up"
+    },
+    {
+      "id": 1605291008717,
+      "diziad": "Sintonia",
+      "diziresim": "https://dizist.co/upload/poster/sintonia.jpg",
+      "dizilinker": "https://dizist.co/sintonia"
+    },
+    {
+      "id": 1605291008720,
+      "diziad": "Pearson",
+      "diziresim": "https://dizist.co/upload/poster/pearson.jpg",
+      "dizilinker": "https://dizist.co/pearson"
+    },
+    {
+      "id": 1605291008722,
+      "diziad": "The Naked Director",
+      "diziresim": "https://dizist.co/upload/poster/the-naked-director.jpg",
+      "dizilinker": "https://dizist.co/the-naked-director"
+    },
+    {
+      "id": 1605291008725,
+      "diziad": "Free Meek",
+      "diziresim": "https://dizist.co/upload/poster/free-meek.jpg",
+      "dizilinker": "https://dizist.co/free-meek"
+    },
+    {
+      "id": 1605291008727,
+      "diziad": "Wu Assassins",
+      "diziresim": "https://dizist.co/upload/poster/wu-assassins.jpg",
+      "dizilinker": "https://dizist.co/wu-assassins"
+    },
+    {
+      "id": 1605291008730,
+      "diziad": "BH90210",
+      "diziresim": "https://dizist.co/upload/poster/bh90210.jpg",
+      "dizilinker": "https://dizist.co/bh90210"
+    },
+    {
+      "id": 1605291008732,
+      "diziad": "Batwoman",
+      "diziresim": "https://dizist.co/upload/poster/batwoman.jpg",
+      "dizilinker": "https://dizist.co/batwoman"
+    },
+    {
+      "id": 1605291008734,
+      "diziad": "Another Life",
+      "diziresim": "https://dizist.co/upload/poster/another-life.jpg",
+      "dizilinker": "https://dizist.co/another-life"
+    },
+    {
+      "id": 1605291008737,
+      "diziad": "The Unsettling",
+      "diziresim": "https://dizist.co/upload/poster/the-unsettling.jpg",
+      "dizilinker": "https://dizist.co/the-unsettling"
+    },
+    {
+      "id": 1605291008739,
+      "diziad": "Das Boot",
+      "diziresim": "https://dizist.co/upload/poster/das-boot.jpg",
+      "dizilinker": "https://dizist.co/das-boot"
+    },
+    {
+      "id": 1605291008742,
+      "diziad": "Pennyworth",
+      "diziresim": "https://dizist.co/upload/poster/pennyworth.jpg",
+      "dizilinker": "https://dizist.co/pennyworth"
+    },
+    {
+      "id": 1605291008744,
+      "diziad": "Star Trek: Picard",
+      "diziresim": "https://dizist.co/upload/poster/star-trek-picard.jpg",
+      "dizilinker": "https://dizist.co/star-trek-picard"
+    },
+    {
+      "id": 1605291008746,
+      "diziad": "The Witcher",
+      "diziresim": "https://dizist.co/upload/poster/the-witcher.jpg",
+      "dizilinker": "https://dizist.co/the-witcher"
+    },
+    {
+      "id": 1605291008749,
+      "diziad": "Typewriter",
+      "diziresim": "https://dizist.co/upload/poster/typewriter.jpg",
+      "dizilinker": "https://dizist.co/typewriter"
+    },
+    {
+      "id": 1605291008751,
+      "diziad": "Final Space",
+      "diziresim": "https://dizist.co/upload/poster/final-space.jpg",
+      "dizilinker": "https://dizist.co/final-space"
+    },
+    {
+      "id": 1605291008754,
+      "diziad": "Grand Hotel",
+      "diziresim": "https://dizist.co/upload/poster/grand-hotel.jpg",
+      "dizilinker": "https://dizist.co/grand-hotel"
+    },
+    {
+      "id": 1605291008758,
+      "diziad": "Pandora",
+      "diziresim": "https://dizist.co/upload/poster/pandora.jpg",
+      "dizilinker": "https://dizist.co/pandora"
+    },
+    {
+      "id": 1605291008761,
+      "diziad": "The Boys",
+      "diziresim": "https://dizist.co/upload/poster/the-boys.jpg",
+      "dizilinker": "https://dizist.co/the-boys"
+    },
+    {
+      "id": 1605291008763,
+      "diziad": "Carnival Row",
+      "diziresim": "https://dizist.co/upload/poster/carnival-row.jpg",
+      "dizilinker": "https://dizist.co/carnival-row"
+    },
+    {
+      "id": 1605291008766,
+      "diziad": "Taco Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/taco-chronicles.jpg",
+      "dizilinker": "https://dizist.co/taco-chronicles"
+    },
+    {
+      "id": 1605291008769,
+      "diziad": "Blown Away",
+      "diziresim": "https://dizist.co/upload/poster/blown-away.jpg",
+      "dizilinker": "https://dizist.co/blown-away"
+    },
+    {
+      "id": 1605291008771,
+      "diziad": "Extreme Engagement",
+      "diziresim": "https://dizist.co/upload/poster/extreme-engagement.jpg",
+      "dizilinker": "https://dizist.co/extreme-engagement"
+    },
+    {
+      "id": 1605291008773,
+      "diziad": "The Planets",
+      "diziresim": "https://dizist.co/upload/poster/the-planets.jpg",
+      "dizilinker": "https://dizist.co/the-planets"
+    },
+    {
+      "id": 1605291008776,
+      "diziad": "The Rook",
+      "diziresim": "https://dizist.co/upload/poster/the-rook.jpg",
+      "dizilinker": "https://dizist.co/the-rook"
+    },
+    {
+      "id": 1605291008778,
+      "diziad": "FightWorld",
+      "diziresim": "https://dizist.co/upload/poster/fightworld.jpg",
+      "dizilinker": "https://dizist.co/fightworld"
+    },
+    {
+      "id": 1605291008780,
+      "diziad": "Great News",
+      "diziresim": "https://dizist.co/upload/poster/great-news.jpg",
+      "dizilinker": "https://dizist.co/great-news"
+    },
+    {
+      "id": 1605291008783,
+      "diziad": "Family Business",
+      "diziresim": "https://dizist.co/upload/poster/family-business.jpg",
+      "dizilinker": "https://dizist.co/family-business"
+    },
+    {
+      "id": 1605291008785,
+      "diziad": "O Escolhido",
+      "diziresim": "https://dizist.co/upload/poster/o-escolhido.jpg",
+      "dizilinker": "https://dizist.co/o-escolhido"
+    },
+    {
+      "id": 1605291008788,
+      "diziad": "Dope",
+      "diziresim": "https://dizist.co/upload/poster/dope.jpg",
+      "dizilinker": "https://dizist.co/dope"
+    },
+    {
+      "id": 1605291008790,
+      "diziad": "Reef Break",
+      "diziresim": "https://dizist.co/upload/poster/reef-break.jpg",
+      "dizilinker": "https://dizist.co/reef-break"
+    },
+    {
+      "id": 1605291008793,
+      "diziad": "Cooked",
+      "diziresim": "https://dizist.co/upload/poster/cooked.jpg",
+      "dizilinker": "https://dizist.co/cooked"
+    },
+    {
+      "id": 1605291008796,
+      "diziad": "Chernobyl Documentary",
+      "diziresim": "https://dizist.co/upload/poster/chernobyl-documentary.jpg",
+      "dizilinker": "https://dizist.co/chernobyl-documentary"
+    },
+    {
+      "id": 1605291008799,
+      "diziad": "Euphoria",
+      "diziresim": "https://dizist.co/upload/poster/euphoria.jpg",
+      "dizilinker": "https://dizist.co/euphoria"
+    },
+    {
+      "id": 1605291008812,
+      "diziad": "Brave Miss World",
+      "diziresim": "https://dizist.co/upload/poster/brave-miss-world.jpg",
+      "dizilinker": "https://dizist.co/brave-miss-world"
+    },
+    {
+      "id": 1605291008815,
+      "diziad": "Back with the Ex",
+      "diziresim": "https://dizist.co/upload/poster/back-with-the-ex.jpg",
+      "dizilinker": "https://dizist.co/back-with-the-ex"
+    },
+    {
+      "id": 1605291008817,
+      "diziad": "Champions",
+      "diziresim": "https://dizist.co/upload/poster/champions.jpg",
+      "dizilinker": "https://dizist.co/champions"
+    },
+    {
+      "id": 1605291008819,
+      "diziad": "Jett",
+      "diziresim": "https://dizist.co/upload/poster/jett.jpg",
+      "dizilinker": "https://dizist.co/jett"
+    },
+    {
+      "id": 1605291008822,
+      "diziad": "Leila",
+      "diziresim": "https://dizist.co/upload/poster/leila.jpg",
+      "dizilinker": "https://dizist.co/leila"
+    },
+    {
+      "id": 1605291008824,
+      "diziad": "Too Old to Die Young",
+      "diziresim": "https://dizist.co/upload/poster/too-old-to-die-young.jpg",
+      "dizilinker": "https://dizist.co/too-old-to-die-young"
+    },
+    {
+      "id": 1605291008826,
+      "diziad": "Trinkets",
+      "diziresim": "https://dizist.co/upload/poster/trinkets.jpg",
+      "dizilinker": "https://dizist.co/trinkets"
+    },
+    {
+      "id": 1605291008829,
+      "diziad": "The Alcàsser Murders",
+      "diziresim": "https://dizist.co/upload/poster/the-alcasser-murders.jpg",
+      "dizilinker": "https://dizist.co/the-alcasser-murders"
+    },
+    {
+      "id": 1605291008831,
+      "diziad": "Wild Bill",
+      "diziresim": "https://dizist.co/upload/poster/wild-bill.jpg",
+      "dizilinker": "https://dizist.co/wild-bill"
+    },
+    {
+      "id": 1605291008833,
+      "diziad": "Jinn",
+      "diziresim": "https://dizist.co/upload/poster/jinn.jpg",
+      "dizilinker": "https://dizist.co/jinn"
+    },
+    {
+      "id": 1605291008836,
+      "diziad": "Ask the Doctor",
+      "diziresim": "https://dizist.co/upload/poster/ask-the-doctor.jpg",
+      "dizilinker": "https://dizist.co/ask-the-doctor"
+    },
+    {
+      "id": 1605291008839,
+      "diziad": "All About the Washingtons",
+      "diziresim": "https://dizist.co/upload/poster/all-about-the-washingtons.jpg",
+      "dizilinker": "https://dizist.co/all-about-the-washingtons"
+    },
+    {
+      "id": 1605291008843,
+      "diziad": "L.A.'s Finest",
+      "diziresim": "https://dizist.co/upload/poster/l-a-s-finest.jpg",
+      "dizilinker": "https://dizist.co/l-a-s-finest"
+    },
+    {
+      "id": 1605291008846,
+      "diziad": "Afflicted",
+      "diziresim": "https://dizist.co/upload/poster/afflicted.jpg",
+      "dizilinker": "https://dizist.co/afflicted"
+    },
+    {
+      "id": 1605291009238,
+      "diziad": "Gentleman Jack",
+      "diziresim": "https://dizist.co/upload/poster/gentleman-jack.jpg",
+      "dizilinker": "https://dizist.co/gentleman-jack"
+    },
+    {
+      "id": 1605291009241,
+      "diziad": "Year of the Rabbit",
+      "diziresim": "https://dizist.co/upload/poster/year-of-the-rabbit.jpg",
+      "dizilinker": "https://dizist.co/year-of-the-rabbit"
+    },
+    {
+      "id": 1605291009244,
+      "diziad": "Big Little Lies",
+      "diziresim": "https://dizist.co/upload/poster/big-little-lies.jpg",
+      "dizilinker": "https://dizist.co/big-little-lies"
+    },
+    {
+      "id": 1605291009247,
+      "diziad": "The Spanish Princess",
+      "diziresim": "https://dizist.co/upload/poster/the-spanish-princess.jpg",
+      "dizilinker": "https://dizist.co/the-spanish-princess"
+    },
+    {
+      "id": 1605291009254,
+      "diziad": "Uspjeh",
+      "diziresim": "https://dizist.co/upload/poster/uspjeh.jpg",
+      "dizilinker": "https://dizist.co/uspjeh"
+    },
+    {
+      "id": 1605291009259,
+      "diziad": "Tales of the City",
+      "diziresim": "https://dizist.co/upload/poster/tales-of-the-city.jpg",
+      "dizilinker": "https://dizist.co/tales-of-the-city"
+    },
+    {
+      "id": 1605291009273,
+      "diziad": "72 Dangerous Animals: Australia",
+      "diziresim": "https://dizist.co/upload/poster/72-dangerous-animals-australia.jpg",
+      "dizilinker": "https://dizist.co/72-dangerous-animals-australia"
+    },
+    {
+      "id": 1605291009277,
+      "diziad": "City on a Hill",
+      "diziresim": "https://dizist.co/upload/poster/city-on-a-hill.jpg",
+      "dizilinker": "https://dizist.co/city-on-a-hill"
+    },
+    {
+      "id": 1605291009281,
+      "diziad": "Playing with Fire (Jugar Con Fuego)",
+      "diziresim": "https://dizist.co/upload/poster/playing-with-fire-jugar-con-fuego.jpg",
+      "dizilinker": "https://dizist.co/playing-with-fire-jugar-con-fuego"
+    },
+    {
+      "id": 1605291009284,
+      "diziad": "American Princess",
+      "diziresim": "https://dizist.co/upload/poster/american-princess.jpg",
+      "dizilinker": "https://dizist.co/american-princess"
+    },
+    {
+      "id": 1605291009286,
+      "diziad": "Black Spot",
+      "diziresim": "https://dizist.co/upload/poster/black-spot.jpg",
+      "dizilinker": "https://dizist.co/black-spot"
+    },
+    {
+      "id": 1605291009289,
+      "diziad": "The Blacklist",
+      "diziresim": "https://dizist.co/upload/poster/the-blacklist.jpg",
+      "dizilinker": "https://dizist.co/the-blacklist"
+    },
+    {
+      "id": 1605291009292,
+      "diziad": "Perpetual Grace LTD",
+      "diziresim": "https://dizist.co/upload/poster/perpetual-grace-ltd.jpg",
+      "dizilinker": "https://dizist.co/perpetual-grace-ltd"
+    },
+    {
+      "id": 1605291009296,
+      "diziad": "72 Cutest Animals",
+      "diziresim": "https://dizist.co/upload/poster/72-cutest-animals.jpg",
+      "dizilinker": "https://dizist.co/72-cutest-animals"
+    },
+    {
+      "id": 1605291009300,
+      "diziad": "72 Dangerous Animals: Asia",
+      "diziresim": "https://dizist.co/upload/poster/72-dangerous-animals-asia.jpg",
+      "dizilinker": "https://dizist.co/72-dangerous-animals-asia"
+    },
+    {
+      "id": 1605291009304,
+      "diziad": "NOS4A2",
+      "diziresim": "https://dizist.co/upload/poster/nos4a2.jpg",
+      "dizilinker": "https://dizist.co/nos4a2"
+    },
+    {
+      "id": 1605291009306,
+      "diziad": "Swamp Thing",
+      "diziresim": "https://dizist.co/upload/poster/swamp-thing.jpg",
+      "dizilinker": "https://dizist.co/swamp-thing"
+    },
+    {
+      "id": 1605291009309,
+      "diziad": "El Recluso",
+      "diziresim": "https://dizist.co/upload/poster/el-recluso.jpg",
+      "dizilinker": "https://dizist.co/el-recluso"
+    },
+    {
+      "id": 1605291009311,
+      "diziad": "How to Sell Drugs Online (Fast)",
+      "diziresim": "https://dizist.co/upload/poster/how-to-sell-drugs-online-fast.jpg",
+      "dizilinker": "https://dizist.co/how-to-sell-drugs-online-fast"
+    },
+    {
+      "id": 1605291009314,
+      "diziad": "When They See Us",
+      "diziresim": "https://dizist.co/upload/poster/when-they-see-us.jpg",
+      "dizilinker": "https://dizist.co/when-they-see-us"
+    },
+    {
+      "id": 1605291009316,
+      "diziad": "The InBetween",
+      "diziresim": "https://dizist.co/upload/poster/the-inbetween.jpg",
+      "dizilinker": "https://dizist.co/the-inbetween"
+    },
+    {
+      "id": 1605291009319,
+      "diziad": "The Hot Zone",
+      "diziresim": "https://dizist.co/upload/poster/the-hot-zone.jpg",
+      "dizilinker": "https://dizist.co/the-hot-zone"
+    },
+    {
+      "id": 1605291009323,
+      "diziad": "What/If",
+      "diziresim": "https://dizist.co/upload/poster/what-if.jpg",
+      "dizilinker": "https://dizist.co/what-if"
+    },
+    {
+      "id": 1605291009327,
+      "diziad": "Alta Mar - High Seas",
+      "diziresim": "https://dizist.co/upload/poster/alta-mar.jpg",
+      "dizilinker": "https://dizist.co/alta-mar"
+    },
+    {
+      "id": 1605291009330,
+      "diziad": "She's Gotta Have It",
+      "diziresim": "https://dizist.co/upload/poster/shes-gotta-have-it.jpg",
+      "dizilinker": "https://dizist.co/shes-gotta-have-it"
+    },
+    {
+      "id": 1605291009332,
+      "diziad": "Dynasty",
+      "diziresim": "https://dizist.co/upload/poster/dynasty.jpg",
+      "dizilinker": "https://dizist.co/dynasty"
+    },
+    {
+      "id": 1605291009335,
+      "diziad": "Easy",
+      "diziresim": "https://dizist.co/upload/poster/easy.jpg",
+      "dizilinker": "https://dizist.co/easy"
+    },
+    {
+      "id": 1605291009338,
+      "diziad": "The Society",
+      "diziresim": "https://dizist.co/upload/poster/the-society.jpg",
+      "dizilinker": "https://dizist.co/the-society"
+    },
+    {
+      "id": 1605291009342,
+      "diziad": "Blood & Treasure",
+      "diziresim": "https://dizist.co/upload/poster/blood-treasure.jpg",
+      "dizilinker": "https://dizist.co/blood-treasure"
+    },
+    {
+      "id": 1605291009345,
+      "diziad": "Shrill",
+      "diziresim": "https://dizist.co/upload/poster/shrill.jpg",
+      "dizilinker": "https://dizist.co/shrill"
+    },
+    {
+      "id": 1605291009348,
+      "diziad": "Chernobyl",
+      "diziresim": "https://dizist.co/upload/poster/chernobyl.jpg",
+      "dizilinker": "https://dizist.co/chernobyl"
+    },
+    {
+      "id": 1605291009351,
+      "diziad": "Undercover",
+      "diziresim": "https://dizist.co/upload/poster/undercover.jpg",
+      "dizilinker": "https://dizist.co/undercover"
+    },
+    {
+      "id": 1605291009354,
+      "diziad": "Dead to Me",
+      "diziresim": "https://dizist.co/upload/poster/dead-to-me.jpg",
+      "dizilinker": "https://dizist.co/dead-to-me"
+    },
+    {
+      "id": 1605291009357,
+      "diziad": "Games People Play",
+      "diziresim": "https://dizist.co/upload/poster/games-people-play.jpg",
+      "dizilinker": "https://dizist.co/games-people-play"
+    },
+    {
+      "id": 1605291009360,
+      "diziad": "Fosse Verdon",
+      "diziresim": "https://dizist.co/upload/poster/fosse-verdon.jpg",
+      "dizilinker": "https://dizist.co/fosse-verdon"
+    },
+    {
+      "id": 1605291009362,
+      "diziad": "Star Trek: Enterprise",
+      "diziresim": "https://dizist.co/upload/poster/star-trek-enterprise.jpg",
+      "dizilinker": "https://dizist.co/star-trek-enterprise"
+    },
+    {
+      "id": 1605291009373,
+      "diziad": "Ghosts",
+      "diziresim": "https://dizist.co/upload/poster/ghosts.jpg",
+      "dizilinker": "https://dizist.co/ghosts"
+    },
+    {
+      "id": 1605291009375,
+      "diziad": "Bless This Mess",
+      "diziresim": "https://dizist.co/upload/poster/bless-this-mess.jpg",
+      "dizilinker": "https://dizist.co/bless-this-mess"
+    },
+    {
+      "id": 1605291009378,
+      "diziad": "Chambers",
+      "diziresim": "https://dizist.co/upload/poster/chambers.jpg",
+      "dizilinker": "https://dizist.co/chambers"
+    },
+    {
+      "id": 1605291009381,
+      "diziad": "Bonding",
+      "diziresim": "https://dizist.co/upload/poster/bonding.jpg",
+      "dizilinker": "https://dizist.co/bonding"
+    },
+    {
+      "id": 1605291009384,
+      "diziad": "Ramy",
+      "diziresim": "https://dizist.co/upload/poster/ramy.jpg",
+      "dizilinker": "https://dizist.co/ramy"
+    },
+    {
+      "id": 1605291009386,
+      "diziad": "Huge in France",
+      "diziresim": "https://dizist.co/upload/poster/huge-in-france.jpg",
+      "dizilinker": "https://dizist.co/huge-in-france"
+    },
+    {
+      "id": 1605291009389,
+      "diziad": "Warrior",
+      "diziresim": "https://dizist.co/upload/poster/warrior.jpg",
+      "dizilinker": "https://dizist.co/warrior"
+    },
+    {
+      "id": 1605291009393,
+      "diziad": "The Code",
+      "diziresim": "https://dizist.co/upload/poster/the-code.jpg",
+      "dizilinker": "https://dizist.co/the-code"
+    },
+    {
+      "id": 1605291009397,
+      "diziad": "Black Summer",
+      "diziresim": "https://dizist.co/upload/poster/black-summer.jpg",
+      "dizilinker": "https://dizist.co/black-summer"
+    },
+    {
+      "id": 1605291009400,
+      "diziad": "Whiskey Cavalier",
+      "diziresim": "https://dizist.co/upload/poster/whiskey-cavalier.jpg",
+      "dizilinker": "https://dizist.co/whiskey-cavalier"
+    },
+    {
+      "id": 1605291009403,
+      "diziad": "The Twilight Zone",
+      "diziresim": "https://dizist.co/upload/poster/the-twilight-zone.jpg",
+      "dizilinker": "https://dizist.co/the-twilight-zone"
+    },
+    {
+      "id": 1605291009407,
+      "diziad": "Happy!",
+      "diziresim": "https://dizist.co/upload/poster/happy.jpg",
+      "dizilinker": "https://dizist.co/happy"
+    },
+    {
+      "id": 1605291009411,
+      "diziad": "The Bay",
+      "diziresim": "https://dizist.co/upload/poster/the-bay.jpg",
+      "dizilinker": "https://dizist.co/the-bay"
+    },
+    {
+      "id": 1605291009414,
+      "diziad": "The Act",
+      "diziresim": "https://dizist.co/upload/poster/the-act.jpg",
+      "dizilinker": "https://dizist.co/the-act"
+    },
+    {
+      "id": 1605291009417,
+      "diziad": "The Murders",
+      "diziresim": "https://dizist.co/upload/poster/the-murders.jpg",
+      "dizilinker": "https://dizist.co/the-murders"
+    },
+    {
+      "id": 1605291009420,
+      "diziad": "The Village",
+      "diziresim": "https://dizist.co/upload/poster/the-village.jpg",
+      "dizilinker": "https://dizist.co/the-village"
+    },
+    {
+      "id": 1605291009422,
+      "diziad": "Pretty Little Liars: The Perfectionists",
+      "diziresim": "https://dizist.co/upload/poster/pretty-little-liars-the-perfectionists.jpg",
+      "dizilinker": "https://dizist.co/pretty-little-liars-the-perfectionists"
+    },
+    {
+      "id": 1605291009425,
+      "diziad": "The Name of the Rose",
+      "diziresim": "https://dizist.co/upload/poster/the-name-of-the-rose.jpg",
+      "dizilinker": "https://dizist.co/the-name-of-the-rose"
+    },
+    {
+      "id": 1605291009428,
+      "diziad": "Flack",
+      "diziresim": "https://dizist.co/upload/poster/flack.jpg",
+      "dizilinker": "https://dizist.co/flack"
+    },
+    {
+      "id": 1605291009431,
+      "diziad": "Dix pour cent",
+      "diziresim": "https://dizist.co/upload/poster/dix-pour-cent.jpg",
+      "dizilinker": "https://dizist.co/dix-pour-cent"
+    },
+    {
+      "id": 1605291009433,
+      "diziad": "Good Girls",
+      "diziresim": "https://dizist.co/upload/poster/good-girls.jpg",
+      "dizilinker": "https://dizist.co/good-girls"
+    },
+    {
+      "id": 1605291009436,
+      "diziad": "Shadow",
+      "diziresim": "https://dizist.co/upload/poster/shadow.jpg",
+      "dizilinker": "https://dizist.co/shadow"
+    },
+    {
+      "id": 1605291009440,
+      "diziad": "The Order",
+      "diziresim": "https://dizist.co/upload/poster/the-order.jpg",
+      "dizilinker": "https://dizist.co/the-order"
+    },
+    {
+      "id": 1605291009444,
+      "diziad": "The Widow",
+      "diziresim": "https://dizist.co/upload/poster/the-widow.jpg",
+      "dizilinker": "https://dizist.co/the-widow"
+    },
+    {
+      "id": 1605291009448,
+      "diziad": "Traitors",
+      "diziresim": "https://dizist.co/upload/poster/traitors.jpg",
+      "dizilinker": "https://dizist.co/traitors"
+    },
+    {
+      "id": 1605291009452,
+      "diziad": "Doom Patrol",
+      "diziresim": "https://dizist.co/upload/poster/doom-patrol.jpg",
+      "dizilinker": "https://dizist.co/doom-patrol"
+    },
+    {
+      "id": 1605291009457,
+      "diziad": "The Umbrella Academy",
+      "diziresim": "https://dizist.co/upload/poster/the-umbrella-academy.jpg",
+      "dizilinker": "https://dizist.co/the-umbrella-academy"
+    },
+    {
+      "id": 1605291009461,
+      "diziad": "Weird City",
+      "diziresim": "https://dizist.co/upload/poster/weird-city.jpg",
+      "dizilinker": "https://dizist.co/weird-city"
+    },
+    {
+      "id": 1605291009465,
+      "diziad": "Hanna",
+      "diziresim": "https://dizist.co/upload/poster/hanna.jpg",
+      "dizilinker": "https://dizist.co/hanna"
+    },
+    {
+      "id": 1605291009469,
+      "diziad": "Fam",
+      "diziresim": "https://dizist.co/upload/poster/fam.jpg",
+      "dizilinker": "https://dizist.co/fam"
+    },
+    {
+      "id": 1605291009473,
+      "diziad": "Black Earth Rising",
+      "diziresim": "https://dizist.co/upload/poster/black-earth-rising.jpg",
+      "dizilinker": "https://dizist.co/black-earth-rising"
+    },
+    {
+      "id": 1605291009478,
+      "diziad": "Wayne",
+      "diziresim": "https://dizist.co/upload/poster/wayne.jpg",
+      "dizilinker": "https://dizist.co/wayne"
+    },
+    {
+      "id": 1605291009484,
+      "diziad": "Roswell, New Mexico",
+      "diziresim": "https://dizist.co/upload/poster/roswell-new-mexico.jpg",
+      "dizilinker": "https://dizist.co/roswell-new-mexico"
+    },
+    {
+      "id": 1605291009491,
+      "diziad": "Guilt",
+      "diziresim": "https://dizist.co/upload/poster/guilt.jpg",
+      "dizilinker": "https://dizist.co/guilt"
+    },
+    {
+      "id": 1605291009495,
+      "diziad": "The Passage",
+      "diziresim": "https://dizist.co/upload/poster/the-passage.jpg",
+      "dizilinker": "https://dizist.co/the-passage"
+    },
+    {
+      "id": 1605291009499,
+      "diziad": "Dogs of Berlin",
+      "diziresim": "https://dizist.co/upload/poster/dogs-of-berlin.jpg",
+      "dizilinker": "https://dizist.co/dogs-of-berlin"
+    },
+    {
+      "id": 1605291009502,
+      "diziad": "Sex Education",
+      "diziresim": "https://dizist.co/upload/poster/sex-education.jpg",
+      "dizilinker": "https://dizist.co/sex-education"
+    },
+    {
+      "id": 1605291009504,
+      "diziad": "I'm Sorry",
+      "diziresim": "https://dizist.co/upload/poster/im-sorry.jpg",
+      "dizilinker": "https://dizist.co/im-sorry"
+    },
+    {
+      "id": 1605291009507,
+      "diziad": "Cleaning Up",
+      "diziresim": "https://dizist.co/upload/poster/cleaning-up.jpg",
+      "dizilinker": "https://dizist.co/cleaning-up"
+    },
+    {
+      "id": 1605291009510,
+      "diziad": "Manhunt",
+      "diziresim": "https://dizist.co/upload/poster/manhunt.jpg",
+      "dizilinker": "https://dizist.co/manhunt"
+    },
+    {
+      "id": 1605291009514,
+      "diziad": "Project Blue Book",
+      "diziresim": "https://dizist.co/upload/poster/project-blue-book.jpg",
+      "dizilinker": "https://dizist.co/project-blue-book"
+    },
+    {
+      "id": 1605291009516,
+      "diziad": "Coroner",
+      "diziresim": "https://dizist.co/upload/poster/coroner.jpg",
+      "dizilinker": "https://dizist.co/coroner"
+    },
+    {
+      "id": 1605291009519,
+      "diziad": "Les Misérables",
+      "diziresim": "https://dizist.co/upload/poster/les-misrables.jpg",
+      "dizilinker": "https://dizist.co/les-misrables"
+    },
+    {
+      "id": 1605291009522,
+      "diziad": "Top Boy",
+      "diziresim": "https://dizist.co/upload/poster/top-boy.jpg",
+      "dizilinker": "https://dizist.co/top-boy"
+    },
+    {
+      "id": 1605291009525,
+      "diziad": "Memories of the Alhambra",
+      "diziresim": "https://dizist.co/upload/poster/memories-of-the-alhambra.jpg",
+      "dizilinker": "https://dizist.co/memories-of-the-alhambra"
+    },
+    {
+      "id": 1605291009528,
+      "diziad": "Hitler's Circle of Evil",
+      "diziresim": "https://dizist.co/upload/poster/hitlers-circle-of-evil.jpg",
+      "dizilinker": "https://dizist.co/hitlers-circle-of-evil"
+    },
+    {
+      "id": 1605291009531,
+      "diziad": "Selection Day",
+      "diziresim": "https://dizist.co/upload/poster/selection-day.jpg",
+      "dizilinker": "https://dizist.co/selection-day"
+    },
+    {
+      "id": 1605291009534,
+      "diziad": "Black Mirror: Bandersnatch",
+      "diziresim": "https://dizist.co/upload/poster/black-mirror-bandersnatch.jpg",
+      "dizilinker": "https://dizist.co/black-mirror-bandersnatch"
+    },
+    {
+      "id": 1605291009537,
+      "diziad": "Grisse",
+      "diziresim": "https://dizist.co/upload/poster/grisse.jpg",
+      "dizilinker": "https://dizist.co/grisse"
+    },
+    {
+      "id": 1605291009540,
+      "diziad": "Cathedral of the sea",
+      "diziresim": "https://dizist.co/upload/poster/cathedral-of-the-sea.jpg",
+      "dizilinker": "https://dizist.co/cathedral-of-the-sea"
+    },
+    {
+      "id": 1605291009543,
+      "diziad": "Shtisel",
+      "diziresim": "https://dizist.co/upload/poster/shtisel.jpg",
+      "dizilinker": "https://dizist.co/shtisel"
+    },
+    {
+      "id": 1605291009547,
+      "diziad": "Jack Whitehall: Travels with My Father",
+      "diziresim": "https://dizist.co/upload/poster/jack-whitehall-travels-with-my-father.jpg",
+      "dizilinker": "https://dizist.co/jack-whitehall-travels-with-my-father"
+    },
+    {
+      "id": 1605291009552,
+      "diziad": "Apartment 23",
+      "diziresim": "https://dizist.co/upload/poster/apartment-23.jpg",
+      "dizilinker": "https://dizist.co/apartment-23"
+    },
+    {
+      "id": 1605291009556,
+      "diziad": "Crazy Ex-Girlfriend",
+      "diziresim": "https://dizist.co/upload/poster/crazy-ex-girlfriend.jpg",
+      "dizilinker": "https://dizist.co/crazy-ex-girlfriend"
+    },
+    {
+      "id": 1605291009560,
+      "diziad": "Fresh Meat",
+      "diziresim": "https://dizist.co/upload/poster/fresh-meat.jpg",
+      "dizilinker": "https://dizist.co/fresh-meat"
+    },
+    {
+      "id": 1605291009565,
+      "diziad": "Nicky, Ricky, Dicky & Dawn",
+      "diziresim": "https://dizist.co/upload/poster/nicky-ricky-dicky-dawn.jpg",
+      "dizilinker": "https://dizist.co/nicky-ricky-dicky-dawn"
+    },
+    {
+      "id": 1605291009568,
+      "diziad": "Danger & Eggs",
+      "diziresim": "https://dizist.co/upload/poster/danger-eggs.jpg",
+      "dizilinker": "https://dizist.co/danger-eggs"
+    },
+    {
+      "id": 1605291009571,
+      "diziad": "The ABC Murders",
+      "diziresim": "https://dizist.co/upload/poster/the-abc-murders.jpg",
+      "dizilinker": "https://dizist.co/the-abc-murders"
+    },
+    {
+      "id": 1605291009574,
+      "diziad": "Al Hayba",
+      "diziresim": "https://dizist.co/upload/poster/al-hayba.jpg",
+      "dizilinker": "https://dizist.co/al-hayba"
+    },
+    {
+      "id": 1605291009578,
+      "diziad": "Fugitiva",
+      "diziresim": "https://dizist.co/upload/poster/fugitiva.jpg",
+      "dizilinker": "https://dizist.co/fugitiva"
+    },
+    {
+      "id": 1605291009581,
+      "diziad": "7 Days Out",
+      "diziresim": "https://dizist.co/upload/poster/7-days-out.jpg",
+      "dizilinker": "https://dizist.co/7-days-out"
+    },
+    {
+      "id": 1605291009584,
+      "diziad": "Loudermilk",
+      "diziresim": "https://dizist.co/upload/poster/loudermilk.jpg",
+      "dizilinker": "https://dizist.co/loudermilk"
+    },
+    {
+      "id": 1605291009587,
+      "diziad": "Berlin Station",
+      "diziresim": "https://dizist.co/upload/poster/berlin-station.jpg",
+      "dizilinker": "https://dizist.co/berlin-station"
+    },
+    {
+      "id": 1605291009591,
+      "diziad": "The Innocent Man",
+      "diziresim": "https://dizist.co/upload/poster/the-innocent-man.jpg",
+      "dizilinker": "https://dizist.co/the-innocent-man"
+    },
+    {
+      "id": 1605291009859,
+      "diziad": "Zone Blanche",
+      "diziresim": "https://dizist.co/upload/poster/zone-blanche.jpg",
+      "dizilinker": "https://dizist.co/zone-blanche"
+    },
+    {
+      "id": 1605291009862,
+      "diziad": "Him & Her",
+      "diziresim": "https://dizist.co/upload/poster/him-her.jpg",
+      "dizilinker": "https://dizist.co/him-her"
+    },
+    {
+      "id": 1605291009866,
+      "diziad": "Watership Down",
+      "diziresim": "https://dizist.co/upload/poster/watership-down.jpg",
+      "dizilinker": "https://dizist.co/watership-down"
+    },
+    {
+      "id": 1605291009869,
+      "diziad": "Champaign ILL",
+      "diziresim": "https://dizist.co/upload/poster/champaign-ill.jpg",
+      "dizilinker": "https://dizist.co/champaign-ill"
+    },
+    {
+      "id": 1605291009872,
+      "diziad": "3Below: Tales of Arcadia",
+      "diziresim": "https://dizist.co/upload/poster/3below-tales-of-arcadia.jpg",
+      "dizilinker": "https://dizist.co/3below-tales-of-arcadia"
+    },
+    {
+      "id": 1605291009875,
+      "diziad": "Deadly Class",
+      "diziresim": "https://dizist.co/upload/poster/deadly-class.jpg",
+      "dizilinker": "https://dizist.co/deadly-class"
+    },
+    {
+      "id": 1605291009879,
+      "diziad": "Parfum",
+      "diziresim": "https://dizist.co/upload/poster/parfum.jpg",
+      "dizilinker": "https://dizist.co/parfum"
+    },
+    {
+      "id": 1605291009883,
+      "diziad": "Diablero",
+      "diziresim": "https://dizist.co/upload/poster/diablero.jpg",
+      "dizilinker": "https://dizist.co/diablero"
+    },
+    {
+      "id": 1605291009887,
+      "diziad": "Derry Girls",
+      "diziresim": "https://dizist.co/upload/poster/derry-girls.jpg",
+      "dizilinker": "https://dizist.co/derry-girls"
+    },
+    {
+      "id": 1605291009891,
+      "diziad": "The Romanoffs",
+      "diziresim": "https://dizist.co/upload/poster/the-romanoffs.jpg",
+      "dizilinker": "https://dizist.co/the-romanoffs"
+    },
+    {
+      "id": 1605291009895,
+      "diziad": "The Truth About the Harry Quebert Affair",
+      "diziresim": "https://dizist.co/upload/poster/the-truth-about-the-harry-quebert-affair.jpg",
+      "dizilinker": "https://dizist.co/the-truth-about-the-harry-quebert-affair"
+    },
+    {
+      "id": 1605291009899,
+      "diziad": "Dystopia",
+      "diziresim": "https://dizist.co/upload/poster/dystopia.jpg",
+      "dizilinker": "https://dizist.co/dystopia"
+    },
+    {
+      "id": 1605291009902,
+      "diziad": "Hero Mask",
+      "diziresim": "https://dizist.co/upload/poster/hero-mask.jpg",
+      "dizilinker": "https://dizist.co/hero-mask"
+    },
+    {
+      "id": 1605291009912,
+      "diziad": "Welcome to the Family",
+      "diziresim": "https://dizist.co/upload/poster/welcome-to-the-family.jpg",
+      "dizilinker": "https://dizist.co/welcome-to-the-family"
+    },
+    {
+      "id": 1605291009917,
+      "diziad": "The Client List",
+      "diziresim": "https://dizist.co/upload/poster/the-client-list.jpg",
+      "dizilinker": "https://dizist.co/the-client-list"
+    },
+    {
+      "id": 1605291009921,
+      "diziad": "Jane the Virgin",
+      "diziresim": "https://dizist.co/upload/poster/jane-the-virgin.jpg",
+      "dizilinker": "https://dizist.co/jane-the-virgin"
+    },
+    {
+      "id": 1605291009926,
+      "diziad": "Medal of Honor",
+      "diziresim": "https://dizist.co/upload/poster/medal-of-honor.jpg",
+      "dizilinker": "https://dizist.co/medal-of-honor"
+    },
+    {
+      "id": 1605291009931,
+      "diziad": "Transferts",
+      "diziresim": "https://dizist.co/upload/poster/transferts.jpg",
+      "dizilinker": "https://dizist.co/transferts"
+    },
+    {
+      "id": 1605291009936,
+      "diziad": "100 Days to Victory",
+      "diziresim": "https://dizist.co/upload/poster/100-days-to-victory.jpg",
+      "dizilinker": "https://dizist.co/100-days-to-victory"
+    },
+    {
+      "id": 1605291009942,
+      "diziad": "The Gymkhana Files",
+      "diziresim": "https://dizist.co/upload/poster/the-gymkhana-files.jpg",
+      "dizilinker": "https://dizist.co/the-gymkhana-files"
+    },
+    {
+      "id": 1605291009946,
+      "diziad": "The Fix",
+      "diziresim": "https://dizist.co/upload/poster/the-fix.jpg",
+      "dizilinker": "https://dizist.co/the-fix"
+    },
+    {
+      "id": 1605291009952,
+      "diziad": "Tidelands",
+      "diziresim": "https://dizist.co/upload/poster/tidelands.jpg",
+      "dizilinker": "https://dizist.co/tidelands"
+    },
+    {
+      "id": 1605291009957,
+      "diziad": "Soupçons - The Staircase",
+      "diziresim": "https://dizist.co/upload/poster/soupcons-the-staircase.jpg",
+      "dizilinker": "https://dizist.co/soupcons-the-staircase"
+    },
+    {
+      "id": 1605291009962,
+      "diziad": "S.W.A.T.",
+      "diziresim": "https://dizist.co/upload/poster/s-w-a-t.jpg",
+      "dizilinker": "https://dizist.co/s-w-a-t"
+    },
+    {
+      "id": 1605291009967,
+      "diziad": "Good Trouble",
+      "diziresim": "https://dizist.co/upload/poster/good-trouble.jpg",
+      "dizilinker": "https://dizist.co/good-trouble"
+    },
+    {
+      "id": 1605291009972,
+      "diziad": "Good Omens",
+      "diziresim": "https://dizist.co/upload/poster/good-omens.jpg",
+      "dizilinker": "https://dizist.co/good-omens"
+    },
+    {
+      "id": 1605291009977,
+      "diziad": "American Playboy: The Hugh Hefner Story",
+      "diziresim": "https://dizist.co/upload/poster/american-playboy-the-hugh-hefner-story.jpg",
+      "dizilinker": "https://dizist.co/american-playboy-the-hugh-hefner-story"
+    },
+    {
+      "id": 1605291009983,
+      "diziad": "Ripper Street",
+      "diziresim": "https://dizist.co/upload/poster/ripper-street.jpg",
+      "dizilinker": "https://dizist.co/ripper-street"
+    },
+    {
+      "id": 1605291009988,
+      "diziad": "The Protector - Hakan: Muhafız",
+      "diziresim": "https://dizist.co/upload/poster/the-protector-hakan-muhafiz.jpg",
+      "dizilinker": "https://dizist.co/the-protector-hakan-muhafiz"
+    },
+    {
+      "id": 1605291009994,
+      "diziad": "Meteor Garden",
+      "diziresim": "https://dizist.co/upload/poster/meteor-garden.jpg",
+      "dizilinker": "https://dizist.co/meteor-garden"
+    },
+    {
+      "id": 1605291009999,
+      "diziad": "The Bridge",
+      "diziresim": "https://dizist.co/upload/poster/the-bridge.jpg",
+      "dizilinker": "https://dizist.co/the-bridge"
+    },
+    {
+      "id": 1605291010014,
+      "diziad": "Nightflyers",
+      "diziresim": "https://dizist.co/upload/poster/nightflyers.jpg",
+      "dizilinker": "https://dizist.co/nightflyers"
+    },
+    {
+      "id": 1605291010019,
+      "diziad": "Baby",
+      "diziresim": "https://dizist.co/upload/poster/baby.jpg",
+      "dizilinker": "https://dizist.co/baby"
+    },
+    {
+      "id": 1605291010024,
+      "diziad": "1983",
+      "diziresim": "https://dizist.co/upload/poster/1983.jpg",
+      "dizilinker": "https://dizist.co/1983"
+    },
+    {
+      "id": 1605291010029,
+      "diziad": "A Million Little Things",
+      "diziresim": "https://dizist.co/upload/poster/a-million-little-things.jpg",
+      "dizilinker": "https://dizist.co/a-million-little-things"
+    },
+    {
+      "id": 1605291010034,
+      "diziad": "Goosebumps",
+      "diziresim": "https://dizist.co/upload/poster/goosebumps.jpg",
+      "dizilinker": "https://dizist.co/goosebumps"
+    },
+    {
+      "id": 1605291010039,
+      "diziad": "Mrs. Wilson",
+      "diziresim": "https://dizist.co/upload/poster/mrs-wilson.jpg",
+      "dizilinker": "https://dizist.co/mrs-wilson"
+    },
+    {
+      "id": 1605291010044,
+      "diziad": "Patriot",
+      "diziresim": "https://dizist.co/upload/poster/patriot.jpg",
+      "dizilinker": "https://dizist.co/patriot"
+    },
+    {
+      "id": 1605291010049,
+      "diziad": "Heimebane",
+      "diziresim": "https://dizist.co/upload/poster/heimebane.jpg",
+      "dizilinker": "https://dizist.co/heimebane"
+    },
+    {
+      "id": 1605291010054,
+      "diziad": "SEAL Team",
+      "diziresim": "https://dizist.co/upload/poster/seal-team.jpg",
+      "dizilinker": "https://dizist.co/seal-team"
+    },
+    {
+      "id": 1605291010059,
+      "diziad": "Manifest",
+      "diziresim": "https://dizist.co/upload/poster/manifest.jpg",
+      "dizilinker": "https://dizist.co/manifest"
+    },
+    {
+      "id": 1605291010065,
+      "diziad": "Frontier",
+      "diziresim": "https://dizist.co/upload/poster/frontier.jpg",
+      "dizilinker": "https://dizist.co/frontier"
+    },
+    {
+      "id": 1605291010070,
+      "diziad": "Ordeal by Innocence",
+      "diziresim": "https://dizist.co/upload/poster/ordeal-by-innocence.jpg",
+      "dizilinker": "https://dizist.co/ordeal-by-innocence"
+    },
+    {
+      "id": 1605291010076,
+      "diziad": "Dynasties",
+      "diziresim": "https://dizist.co/upload/poster/dynasties.jpg",
+      "dizilinker": "https://dizist.co/dynasties"
+    },
+    {
+      "id": 1605291010082,
+      "diziad": "Escape at Dannemora",
+      "diziresim": "https://dizist.co/upload/poster/escape-at-dannemora.jpg",
+      "dizilinker": "https://dizist.co/escape-at-dannemora"
+    },
+    {
+      "id": 1605291010087,
+      "diziad": "Kings",
+      "diziresim": "https://dizist.co/upload/poster/kings.jpg",
+      "dizilinker": "https://dizist.co/kings"
+    },
+    {
+      "id": 1605291010092,
+      "diziad": "Mirzapur",
+      "diziresim": "https://dizist.co/upload/poster/mirzapur.jpg",
+      "dizilinker": "https://dizist.co/mirzapur"
+    },
+    {
+      "id": 1605291010095,
+      "diziad": "The Kominsky Method",
+      "diziresim": "https://dizist.co/upload/poster/the-kominsky-method.jpg",
+      "dizilinker": "https://dizist.co/the-kominsky-method"
+    },
+    {
+      "id": 1605291010099,
+      "diziad": "Narcos: Mexico",
+      "diziresim": "https://dizist.co/upload/poster/narcos-mexico.jpg",
+      "dizilinker": "https://dizist.co/narcos-mexico"
+    },
+    {
+      "id": 1605291010102,
+      "diziad": "Startup",
+      "diziresim": "https://dizist.co/upload/poster/startup.jpg",
+      "dizilinker": "https://dizist.co/startup"
+    },
+    {
+      "id": 1605291010105,
+      "diziad": "Origin",
+      "diziresim": "https://dizist.co/upload/poster/origin.jpg",
+      "dizilinker": "https://dizist.co/origin"
+    },
+    {
+      "id": 1605291010109,
+      "diziad": "Kriger",
+      "diziresim": "https://dizist.co/upload/poster/kriger.jpg",
+      "dizilinker": "https://dizist.co/kriger"
+    },
+    {
+      "id": 1605291010113,
+      "diziad": "Distrito Salvaje",
+      "diziresim": "https://dizist.co/upload/poster/distrito-salvaje.jpg",
+      "dizilinker": "https://dizist.co/distrito-salvaje"
+    },
+    {
+      "id": 1605291010118,
+      "diziad": "God Friended Me",
+      "diziresim": "https://dizist.co/upload/poster/god-friended-me.jpg",
+      "dizilinker": "https://dizist.co/god-friended-me"
+    },
+    {
+      "id": 1605291010121,
+      "diziad": "The Little Drummer Girl",
+      "diziresim": "https://dizist.co/upload/poster/the-little-drummer-girl.jpg",
+      "dizilinker": "https://dizist.co/the-little-drummer-girl"
+    },
+    {
+      "id": 1605291010125,
+      "diziad": "Medici: Masters of Florence",
+      "diziresim": "https://dizist.co/upload/poster/medici-masters-of-florence.jpg",
+      "dizilinker": "https://dizist.co/medici-masters-of-florence"
+    },
+    {
+      "id": 1605291010128,
+      "diziad": "Homecoming",
+      "diziresim": "https://dizist.co/upload/poster/homecoming.jpg",
+      "dizilinker": "https://dizist.co/homecoming"
+    },
+    {
+      "id": 1605291010132,
+      "diziad": "Tell Me a Story",
+      "diziresim": "https://dizist.co/upload/poster/tell-me-a-story.jpg",
+      "dizilinker": "https://dizist.co/tell-me-a-story"
+    },
+    {
+      "id": 1605291010135,
+      "diziad": "Bad Blood",
+      "diziresim": "https://dizist.co/upload/poster/bad-blood.jpg",
+      "dizilinker": "https://dizist.co/bad-blood"
+    },
+    {
+      "id": 1605291010139,
+      "diziad": "Kidding",
+      "diziresim": "https://dizist.co/upload/poster/kidding.jpg",
+      "dizilinker": "https://dizist.co/kidding"
+    },
+    {
+      "id": 1605291010145,
+      "diziad": "Star Wars Resistance",
+      "diziresim": "https://dizist.co/upload/poster/star-wars-resistance.jpg",
+      "dizilinker": "https://dizist.co/star-wars-resistance"
+    },
+    {
+      "id": 1605291010149,
+      "diziad": "Legacies",
+      "diziresim": "https://dizist.co/upload/poster/legacies.jpg",
+      "dizilinker": "https://dizist.co/legacies"
+    },
+    {
+      "id": 1605291010152,
+      "diziad": "Chilling Adventures of Sabrina",
+      "diziresim": "https://dizist.co/upload/poster/chilling-adventures-of-sabrina.jpg",
+      "dizilinker": "https://dizist.co/chilling-adventures-of-sabrina"
+    },
+    {
+      "id": 1605291010156,
+      "diziad": "Light as a Feather",
+      "diziresim": "https://dizist.co/upload/poster/light-as-a-feather.jpg",
+      "dizilinker": "https://dizist.co/light-as-a-feather"
+    },
+    {
+      "id": 1605291010161,
+      "diziad": "The Rookie",
+      "diziresim": "https://dizist.co/upload/poster/the-rookie.jpg",
+      "dizilinker": "https://dizist.co/the-rookie"
+    },
+    {
+      "id": 1605291010166,
+      "diziad": "The Kids Are Alright",
+      "diziresim": "https://dizist.co/upload/poster/the-kids-are-alright.jpg",
+      "dizilinker": "https://dizist.co/the-kids-are-alright"
+    },
+    {
+      "id": 1605291010169,
+      "diziad": "James Cameron's Story of Science Fiction",
+      "diziresim": "https://dizist.co/upload/poster/james-camerons-story-of-science-fiction.jpg",
+      "dizilinker": "https://dizist.co/james-camerons-story-of-science-fiction"
+    },
+    {
+      "id": 1605291010173,
+      "diziad": "Titans",
+      "diziresim": "https://dizist.co/upload/poster/titans.jpg",
+      "dizilinker": "https://dizist.co/titans"
+    },
+    {
+      "id": 1605291010177,
+      "diziad": "Three Girls",
+      "diziresim": "https://dizist.co/upload/poster/three-girls.jpg",
+      "dizilinker": "https://dizist.co/three-girls"
+    },
+    {
+      "id": 1605291010180,
+      "diziad": "The Haunting of Hill House",
+      "diziresim": "https://dizist.co/upload/poster/the-haunting-of-hill-house.jpg",
+      "dizilinker": "https://dizist.co/the-haunting-of-hill-house"
+    },
+    {
+      "id": 1605291010184,
+      "diziad": "Into the Dark",
+      "diziresim": "https://dizist.co/upload/poster/into-the-dark.jpg",
+      "dizilinker": "https://dizist.co/into-the-dark"
+    },
+    {
+      "id": 1605291010188,
+      "diziad": "Elite",
+      "diziresim": "https://dizist.co/upload/poster/elite.jpg",
+      "dizilinker": "https://dizist.co/elite"
+    },
+    {
+      "id": 1605291010191,
+      "diziad": "Mr. Inbetween",
+      "diziresim": "https://dizist.co/upload/poster/mr-inbetween.jpg",
+      "dizilinker": "https://dizist.co/mr-inbetween"
+    },
+    {
+      "id": 1605291010195,
+      "diziad": "New Amsterdam 2018",
+      "diziresim": "https://dizist.co/upload/poster/new-amsterdam-2018.jpg",
+      "dizilinker": "https://dizist.co/new-amsterdam-2018"
+    },
+    {
+      "id": 1605291010200,
+      "diziad": "FBI",
+      "diziresim": "https://dizist.co/upload/poster/fbi.jpg",
+      "dizilinker": "https://dizist.co/fbi"
+    },
+    {
+      "id": 1605291010203,
+      "diziad": "The Good Cop",
+      "diziresim": "https://dizist.co/upload/poster/the-good-cop.jpg",
+      "dizilinker": "https://dizist.co/the-good-cop"
+    },
+    {
+      "id": 1605291010207,
+      "diziad": "Maniac",
+      "diziresim": "https://dizist.co/upload/poster/maniac.jpg",
+      "dizilinker": "https://dizist.co/maniac"
+    },
+    {
+      "id": 1605291010213,
+      "diziad": "American Horror Story",
+      "diziresim": "https://dizist.co/upload/poster/american-horror-story.jpg",
+      "dizilinker": "https://dizist.co/american-horror-story"
+    },
+    {
+      "id": 1605291010217,
+      "diziad": "Skam Italia",
+      "diziresim": "https://dizist.co/upload/poster/skam-italia.jpg",
+      "dizilinker": "https://dizist.co/skam-italia"
+    },
+    {
+      "id": 1605291010221,
+      "diziad": "Skam",
+      "diziresim": "https://dizist.co/upload/poster/skam.jpg",
+      "dizilinker": "https://dizist.co/skam"
+    },
+    {
+      "id": 1605291010226,
+      "diziad": "Wrecked",
+      "diziresim": "https://dizist.co/upload/poster/wrecked.jpg",
+      "dizilinker": "https://dizist.co/wrecked"
+    },
+    {
+      "id": 1605291010230,
+      "diziad": "You",
+      "diziresim": "https://dizist.co/upload/poster/you.jpg",
+      "dizilinker": "https://dizist.co/you"
+    },
+    {
+      "id": 1605291010234,
+      "diziad": "Sweetbitter",
+      "diziresim": "https://dizist.co/upload/poster/sweetbitter.jpg",
+      "dizilinker": "https://dizist.co/sweetbitter"
+    },
+    {
+      "id": 1605291010238,
+      "diziad": "Ingobernable",
+      "diziresim": "https://dizist.co/upload/poster/ingobernable.jpg",
+      "dizilinker": "https://dizist.co/ingobernable"
+    },
+    {
+      "id": 1605291010242,
+      "diziad": "The First",
+      "diziresim": "https://dizist.co/upload/poster/the-first.jpg",
+      "dizilinker": "https://dizist.co/the-first"
+    },
+    {
+      "id": 1605291010247,
+      "diziad": "The Dragon Prince",
+      "diziresim": "https://dizist.co/upload/poster/the-dragon-prince.jpg",
+      "dizilinker": "https://dizist.co/the-dragon-prince"
+    },
+    {
+      "id": 1605291010251,
+      "diziad": "Press",
+      "diziresim": "https://dizist.co/upload/poster/press.jpg",
+      "dizilinker": "https://dizist.co/press"
+    },
+    {
+      "id": 1605291010255,
+      "diziad": "Bad Banks",
+      "diziresim": "https://dizist.co/upload/poster/bad-banks.jpg",
+      "dizilinker": "https://dizist.co/bad-banks"
+    },
+    {
+      "id": 1605291010259,
+      "diziad": "Mayans M.C.",
+      "diziresim": "https://dizist.co/upload/poster/mayans-m-c-.jpg",
+      "dizilinker": "https://dizist.co/mayans-m-c-"
+    },
+    {
+      "id": 1605291010263,
+      "diziad": "Paradise PD",
+      "diziresim": "https://dizist.co/upload/poster/paradise-pd.jpg",
+      "dizilinker": "https://dizist.co/paradise-pd"
+    },
+    {
+      "id": 1605291010267,
+      "diziad": "Yellowstone",
+      "diziresim": "https://dizist.co/upload/poster/yellowstone.jpg",
+      "dizilinker": "https://dizist.co/yellowstone"
+    },
+    {
+      "id": 1605291010272,
+      "diziad": "A Discovery of Witches",
+      "diziresim": "https://dizist.co/upload/poster/a-discovery-of-witches.jpg",
+      "dizilinker": "https://dizist.co/a-discovery-of-witches"
+    },
+    {
+      "id": 1605291010276,
+      "diziad": "The Purge",
+      "diziresim": "https://dizist.co/upload/poster/the-purge.jpg",
+      "dizilinker": "https://dizist.co/the-purge"
+    },
+    {
+      "id": 1605291010281,
+      "diziad": "One Dollar",
+      "diziresim": "https://dizist.co/upload/poster/one-dollar.jpg",
+      "dizilinker": "https://dizist.co/one-dollar"
+    },
+    {
+      "id": 1605291010287,
+      "diziad": "El marginal",
+      "diziresim": "https://dizist.co/upload/poster/el-marginal.jpg",
+      "dizilinker": "https://dizist.co/el-marginal"
+    },
+    {
+      "id": 1605291010292,
+      "diziad": "Jack Ryan",
+      "diziresim": "https://dizist.co/upload/poster/jack-ryan.jpg",
+      "dizilinker": "https://dizist.co/jack-ryan"
+    },
+    {
+      "id": 1605291010297,
+      "diziad": "Bodyguard",
+      "diziresim": "https://dizist.co/upload/poster/bodyguard.jpg",
+      "dizilinker": "https://dizist.co/bodyguard"
+    },
+    {
+      "id": 1605291010300,
+      "diziad": "Collateral",
+      "diziresim": "https://dizist.co/upload/poster/collateral.jpg",
+      "dizilinker": "https://dizist.co/collateral"
+    },
+    {
+      "id": 1605291010304,
+      "diziad": "Hidden",
+      "diziresim": "https://dizist.co/upload/poster/hidden.jpg",
+      "dizilinker": "https://dizist.co/hidden"
+    },
+    {
+      "id": 1605291010308,
+      "diziad": "Disenchantment",
+      "diziresim": "https://dizist.co/upload/poster/disenchantment.jpg",
+      "dizilinker": "https://dizist.co/disenchantment"
+    },
+    {
+      "id": 1605291010678,
+      "diziad": "Karppi",
+      "diziresim": "https://dizist.co/upload/poster/karppi.jpg",
+      "dizilinker": "https://dizist.co/karppi"
+    },
+    {
+      "id": 1605291010693,
+      "diziad": "Ghoul",
+      "diziresim": "https://dizist.co/upload/poster/ghoul.jpg",
+      "dizilinker": "https://dizist.co/ghoul"
+    },
+    {
+      "id": 1605291010700,
+      "diziad": "The Innocents",
+      "diziresim": "https://dizist.co/upload/poster/the-innocents.jpg",
+      "dizilinker": "https://dizist.co/the-innocents"
+    },
+    {
+      "id": 1605291010705,
+      "diziad": "Ultraviolet",
+      "diziresim": "https://dizist.co/upload/poster/ultraviolet.jpg",
+      "dizilinker": "https://dizist.co/ultraviolet"
+    },
+    {
+      "id": 1605291010710,
+      "diziad": "La casa de las flores",
+      "diziresim": "https://dizist.co/upload/poster/la-casa-de-las-flores.jpg",
+      "dizilinker": "https://dizist.co/la-casa-de-las-flores"
+    },
+    {
+      "id": 1605291010715,
+      "diziad": "Insatiable",
+      "diziresim": "https://dizist.co/upload/poster/insatiable.jpg",
+      "dizilinker": "https://dizist.co/insatiable"
+    },
+    {
+      "id": 1605291010719,
+      "diziad": "Lodge 49",
+      "diziresim": "https://dizist.co/upload/poster/lodge-49.jpg",
+      "dizilinker": "https://dizist.co/lodge-49"
+    },
+    {
+      "id": 1605291010723,
+      "diziad": "Castle Rock",
+      "diziresim": "https://dizist.co/upload/poster/castle-rock.jpg",
+      "dizilinker": "https://dizist.co/castle-rock"
+    },
+    {
+      "id": 1605291010727,
+      "diziad": "Unforgotten",
+      "diziresim": "https://dizist.co/upload/poster/unforgotten.jpg",
+      "dizilinker": "https://dizist.co/unforgotten"
+    },
+    {
+      "id": 1605291010731,
+      "diziad": "Queen Sugar",
+      "diziresim": "https://dizist.co/upload/poster/queen-sugar.jpg",
+      "dizilinker": "https://dizist.co/queen-sugar"
+    },
+    {
+      "id": 1605291010735,
+      "diziad": "The Outpost",
+      "diziresim": "https://dizist.co/upload/poster/the-outpost.jpg",
+      "dizilinker": "https://dizist.co/the-outpost"
+    },
+    {
+      "id": 1605291010739,
+      "diziad": "Sharp Objects",
+      "diziresim": "https://dizist.co/upload/poster/sharp-objects.jpg",
+      "dizilinker": "https://dizist.co/sharp-objects"
+    },
+    {
+      "id": 1605291010743,
+      "diziad": "Free Rein",
+      "diziresim": "https://dizist.co/upload/poster/free-rein.jpg",
+      "dizilinker": "https://dizist.co/free-rein"
+    },
+    {
+      "id": 1605291010747,
+      "diziad": "Glow",
+      "diziresim": "https://dizist.co/upload/poster/glow.jpg",
+      "dizilinker": "https://dizist.co/glow"
+    },
+    {
+      "id": 1605291010759,
+      "diziad": "Sacred Games",
+      "diziresim": "https://dizist.co/upload/poster/sacred-games.jpg",
+      "dizilinker": "https://dizist.co/sacred-games"
+    },
+    {
+      "id": 1605291010763,
+      "diziad": "Condor",
+      "diziresim": "https://dizist.co/upload/poster/condor.jpg",
+      "dizilinker": "https://dizist.co/condor"
+    },
+    {
+      "id": 1605291010767,
+      "diziad": "The Hollow",
+      "diziresim": "https://dizist.co/upload/poster/the-hollow.jpg",
+      "dizilinker": "https://dizist.co/the-hollow"
+    },
+    {
+      "id": 1605291010771,
+      "diziad": "Cloak & Dagger",
+      "diziresim": "https://dizist.co/upload/poster/cloak-dagger.jpg",
+      "dizilinker": "https://dizist.co/cloak-dagger"
+    },
+    {
+      "id": 1605291010777,
+      "diziad": "Impulse",
+      "diziresim": "https://dizist.co/upload/poster/impulse.jpg",
+      "dizilinker": "https://dizist.co/impulse"
+    },
+    {
+      "id": 1605291010781,
+      "diziad": "Grand Prix Driver",
+      "diziresim": "https://dizist.co/upload/poster/grand-prix-driver.jpg",
+      "dizilinker": "https://dizist.co/grand-prix-driver"
+    },
+    {
+      "id": 1605291010785,
+      "diziad": "Reverie",
+      "diziresim": "https://dizist.co/upload/poster/reverie.jpg",
+      "dizilinker": "https://dizist.co/reverie"
+    },
+    {
+      "id": 1605291010790,
+      "diziad": "Legit",
+      "diziresim": "https://dizist.co/upload/poster/legit.jpg",
+      "dizilinker": "https://dizist.co/legit"
+    },
+    {
+      "id": 1605291010794,
+      "diziad": "Trollhunters",
+      "diziresim": "https://dizist.co/upload/poster/trollhunters.jpg",
+      "dizilinker": "https://dizist.co/trollhunters"
+    },
+    {
+      "id": 1605291010800,
+      "diziad": "Unsolved",
+      "diziresim": "https://dizist.co/upload/poster/unsolved.jpg",
+      "dizilinker": "https://dizist.co/unsolved"
+    },
+    {
+      "id": 1605291010804,
+      "diziad": "Killing Eve",
+      "diziresim": "https://dizist.co/upload/poster/killing-eve.jpg",
+      "dizilinker": "https://dizist.co/killing-eve"
+    },
+    {
+      "id": 1605291010809,
+      "diziad": "Le Chalet",
+      "diziresim": "https://dizist.co/upload/poster/le-chalet.jpg",
+      "dizilinker": "https://dizist.co/le-chalet"
+    },
+    {
+      "id": 1605291010813,
+      "diziad": "A Very English Scandal",
+      "diziresim": "https://dizist.co/upload/poster/a-very-english-scandal.jpg",
+      "dizilinker": "https://dizist.co/a-very-english-scandal"
+    },
+    {
+      "id": 1605291010817,
+      "diziad": "Feud",
+      "diziresim": "https://dizist.co/upload/poster/_qq_7856_qq_.jpg",
+      "dizilinker": "https://dizist.co/feud"
+    },
+    {
+      "id": 1605291010821,
+      "diziad": "The Defiant Ones",
+      "diziresim": "https://dizist.co/upload/poster/the-defiant-ones.jpg",
+      "dizilinker": "https://dizist.co/the-defiant-ones"
+    },
+    {
+      "id": 1605291010826,
+      "diziad": "The Crossing",
+      "diziresim": "https://dizist.co/upload/poster/the-crossing.jpg",
+      "dizilinker": "https://dizist.co/the-crossing"
+    },
+    {
+      "id": 1605291010831,
+      "diziad": "Innocent",
+      "diziresim": "https://dizist.co/upload/poster/innocent.jpg",
+      "dizilinker": "https://dizist.co/innocent"
+    },
+    {
+      "id": 1605291010835,
+      "diziad": "Cobra Kai",
+      "diziresim": "https://dizist.co/upload/poster/_qq_6055_qq_.jpg",
+      "dizilinker": "https://dizist.co/cobra-kai"
+    },
+    {
+      "id": 1605291010840,
+      "diziad": "Velvet Collection",
+      "diziresim": "https://dizist.co/upload/poster/velvet-collection.jpg",
+      "dizilinker": "https://dizist.co/velvet-collection"
+    },
+    {
+      "id": 1605291010844,
+      "diziad": "Goliath",
+      "diziresim": "https://dizist.co/upload/poster/goliath.jpg",
+      "dizilinker": "https://dizist.co/goliath"
+    },
+    {
+      "id": 1605291010849,
+      "diziad": "Life Sentence",
+      "diziresim": "https://dizist.co/upload/poster/life-sentence.jpg",
+      "dizilinker": "https://dizist.co/life-sentence"
+    },
+    {
+      "id": 1605291010853,
+      "diziad": "The Rain",
+      "diziresim": "https://dizist.co/upload/poster/_qq_8186_qq_.jpg",
+      "dizilinker": "https://dizist.co/the-rain"
+    },
+    {
+      "id": 1605291010860,
+      "diziad": "Lost in Space",
+      "diziresim": "https://dizist.co/upload/poster/lost-in-space.jpg",
+      "dizilinker": "https://dizist.co/lost-in-space"
+    },
+    {
+      "id": 1605291010864,
+      "diziad": "Tabula Rasa",
+      "diziresim": "https://dizist.co/upload/poster/tabula-rasa.jpg",
+      "dizilinker": "https://dizist.co/tabula-rasa"
+    },
+    {
+      "id": 1605291010869,
+      "diziad": "Instinct",
+      "diziresim": "https://dizist.co/upload/poster/instinct.jpg",
+      "dizilinker": "https://dizist.co/instinct"
+    },
+    {
+      "id": 1605291010874,
+      "diziad": "Harrow",
+      "diziresim": "https://dizist.co/upload/poster/harrow.jpg",
+      "dizilinker": "https://dizist.co/harrow"
+    },
+    {
+      "id": 1605291010879,
+      "diziad": "30 Rock",
+      "diziresim": "https://dizist.co/upload/poster/30-rock.jpg",
+      "dizilinker": "https://dizist.co/30-rock"
+    },
+    {
+      "id": 1605291010883,
+      "diziad": "The Oath",
+      "diziresim": "https://dizist.co/upload/poster/the-oath.jpg",
+      "dizilinker": "https://dizist.co/the-oath"
+    },
+    {
+      "id": 1605291010887,
+      "diziad": "Drug Lords",
+      "diziresim": "https://dizist.co/upload/poster/drug-lords.jpg",
+      "dizilinker": "https://dizist.co/drug-lords"
+    },
+    {
+      "id": 1605291010892,
+      "diziad": "Grenseland",
+      "diziresim": "https://dizist.co/upload/poster/grenseland.jpg",
+      "dizilinker": "https://dizist.co/grenseland"
+    },
+    {
+      "id": 1605291010897,
+      "diziad": "Flint Town",
+      "diziresim": "https://dizist.co/upload/poster/flint-town.jpg",
+      "dizilinker": "https://dizist.co/flint-town"
+    },
+    {
+      "id": 1605291010902,
+      "diziad": "The Terror",
+      "diziresim": "https://dizist.co/upload/poster/the-terror.jpg",
+      "dizilinker": "https://dizist.co/the-terror"
+    },
+    {
+      "id": 1605291010906,
+      "diziad": "Siren",
+      "diziresim": "https://dizist.co/upload/poster/siren.jpg",
+      "dizilinker": "https://dizist.co/siren"
+    },
+    {
+      "id": 1605291010910,
+      "diziad": "Vis a Vis",
+      "diziresim": "https://dizist.co/upload/poster/vis-a-vis.jpg",
+      "dizilinker": "https://dizist.co/vis-a-vis"
+    },
+    {
+      "id": 1605291010914,
+      "diziad": "The End Of The F***ing World",
+      "diziresim": "https://dizist.co/upload/poster/the-end-of-the-fing-world.jpg",
+      "dizilinker": "https://dizist.co/the-end-of-the-fing-world"
+    },
+    {
+      "id": 1605291010919,
+      "diziad": "Krypton",
+      "diziresim": "https://dizist.co/upload/poster/krypton.jpg",
+      "dizilinker": "https://dizist.co/krypton"
+    },
+    {
+      "id": 1605291010923,
+      "diziad": "Seven Seconds",
+      "diziresim": "https://dizist.co/upload/poster/seven-seconds.jpg",
+      "dizilinker": "https://dizist.co/seven-seconds"
+    },
+    {
+      "id": 1605291010928,
+      "diziad": "The Dresden Files",
+      "diziresim": "https://dizist.co/upload/poster/the-dresden-files.jpg",
+      "dizilinker": "https://dizist.co/the-dresden-files"
+    },
+    {
+      "id": 1605291010932,
+      "diziad": "Stargate Origins",
+      "diziresim": "https://dizist.co/upload/poster/stargate-origins.jpg",
+      "dizilinker": "https://dizist.co/stargate-origins"
+    },
+    {
+      "id": 1605291010938,
+      "diziad": "Secret and Lies",
+      "diziresim": "https://dizist.co/upload/poster/secrets-and-lies.jpg",
+      "dizilinker": "https://dizist.co/secrets-and-lies"
+    },
+    {
+      "id": 1605291010945,
+      "diziad": "Black Lightning",
+      "diziresim": "https://dizist.co/upload/poster/black-lightning.jpg",
+      "dizilinker": "https://dizist.co/black-lightning"
+    },
+    {
+      "id": 1605291010950,
+      "diziad": "Chance",
+      "diziresim": "https://dizist.co/upload/poster/chance.jpg",
+      "dizilinker": "https://dizist.co/chance"
+    },
+    {
+      "id": 1605291010954,
+      "diziad": "Star Trek: Discovery",
+      "diziresim": "https://dizist.co/upload/poster/star-trek-discovery.jpg",
+      "dizilinker": "https://dizist.co/star-trek-discovery"
+    },
+    {
+      "id": 1605291010958,
+      "diziad": "Counterpart",
+      "diziresim": "https://dizist.co/upload/poster/counterpart.jpg",
+      "dizilinker": "https://dizist.co/counterpart"
+    },
+    {
+      "id": 1605291010962,
+      "diziad": "Requiem",
+      "diziresim": "https://dizist.co/upload/poster/requiem.jpg",
+      "dizilinker": "https://dizist.co/requiem"
+    },
+    {
+      "id": 1605291010966,
+      "diziad": "Altered Carbon",
+      "diziresim": "https://dizist.co/upload/poster/altered-carbon.jpg",
+      "dizilinker": "https://dizist.co/altered-carbon"
+    },
+    {
+      "id": 1605291010970,
+      "diziad": "The Alienist",
+      "diziresim": "https://dizist.co/upload/poster/the-alienist.jpg",
+      "dizilinker": "https://dizist.co/the-alienist"
+    },
+    {
+      "id": 1605291010976,
+      "diziad": "Mosaic",
+      "diziresim": "https://dizist.co/upload/poster/mosaic.jpg",
+      "dizilinker": "https://dizist.co/mosaic"
+    },
+    {
+      "id": 1605291010981,
+      "diziad": "Philip K. Dick's Electric Dreams",
+      "diziresim": "https://dizist.co/upload/poster/philip-k-dicks-electric-dreams.jpg",
+      "dizilinker": "https://dizist.co/philip-k-dicks-electric-dreams"
+    },
+    {
+      "id": 1605291010985,
+      "diziad": "The Chi",
+      "diziresim": "https://dizist.co/upload/poster/the-chi.jpg",
+      "dizilinker": "https://dizist.co/the-chi"
+    },
+    {
+      "id": 1605291010989,
+      "diziad": "The Good Doctor",
+      "diziresim": "https://dizist.co/upload/poster/the-good-doctor.jpg",
+      "dizilinker": "https://dizist.co/the-good-doctor"
+    },
+    {
+      "id": 1605291010995,
+      "diziad": "Bron Broen",
+      "diziresim": "https://dizist.co/upload/poster/bron-broen.jpg",
+      "dizilinker": "https://dizist.co/bron-broen"
+    },
+    {
+      "id": 1605291011002,
+      "diziad": "La casa de papel",
+      "diziresim": "https://dizist.co/upload/poster/la-casa-de-papel.jpg",
+      "dizilinker": "https://dizist.co/la-casa-de-papel"
+    },
+    {
+      "id": 1605291011007,
+      "diziad": "Law & Order True Crime",
+      "diziresim": "https://dizist.co/upload/poster/law-order-true-crime.jpg",
+      "dizilinker": "https://dizist.co/law-order-true-crime"
+    },
+    {
+      "id": 1605291011012,
+      "diziad": "Knightfall",
+      "diziresim": "https://dizist.co/upload/poster/knightfall.jpg",
+      "dizilinker": "https://dizist.co/knightfall"
+    },
+    {
+      "id": 1605291011019,
+      "diziad": "Dark",
+      "diziresim": "https://dizist.co/upload/poster/dark.jpg",
+      "dizilinker": "https://dizist.co/dark"
+    },
+    {
+      "id": 1605291011024,
+      "diziad": "The Marvelous Mrs. Maisel",
+      "diziresim": "https://dizist.co/upload/poster/the-marvelous-mrs-maisel.jpg",
+      "dizilinker": "https://dizist.co/the-marvelous-mrs-maisel"
+    },
+    {
+      "id": 1605291011030,
+      "diziad": "Runaways",
+      "diziresim": "https://dizist.co/upload/poster/runaways.jpg",
+      "dizilinker": "https://dizist.co/runaways"
+    },
+    {
+      "id": 1605291011035,
+      "diziad": "Young Sheldon",
+      "diziresim": "https://dizist.co/upload/poster/young-sheldon.jpg",
+      "dizilinker": "https://dizist.co/young-sheldon"
+    },
+    {
+      "id": 1605291011039,
+      "diziad": "Future Man",
+      "diziresim": "https://dizist.co/upload/poster/future-man.jpg",
+      "dizilinker": "https://dizist.co/future-man"
+    },
+    {
+      "id": 1605291011044,
+      "diziad": "The Lord of the Rings - Yüzüklerin Efendisi Dizi",
+      "diziresim": "https://dizist.co/upload/poster/the-lord-of-the-rings-yuzuklerin-efendisi-dizi.jpg",
+      "dizilinker": "https://dizist.co/the-lord-of-the-rings-yuzuklerin-efendisi-dizi"
+    },
+    {
+      "id": 1605291011049,
+      "diziad": "Damnation",
+      "diziresim": "https://dizist.co/upload/poster/damnation.jpg",
+      "dizilinker": "https://dizist.co/damnation"
+    },
+    {
+      "id": 1605291011054,
+      "diziad": "Gunpowder",
+      "diziresim": "https://dizist.co/upload/poster/gunpowder.jpg",
+      "dizilinker": "https://dizist.co/gunpowder"
+    },
+    {
+      "id": 1605291011059,
+      "diziad": "Freakish",
+      "diziresim": "https://dizist.co/upload/poster/freakish.jpg",
+      "dizilinker": "https://dizist.co/freakish"
+    },
+    {
+      "id": 1605291011063,
+      "diziad": "Vikingane",
+      "diziresim": "https://dizist.co/upload/poster/vikingane",
+      "dizilinker": "https://dizist.co/vikingane"
+    },
+    {
+      "id": 1605291011068,
+      "diziad": "Mindhunter",
+      "diziresim": "https://dizist.co/upload/poster/mindhunter.jpg",
+      "dizilinker": "https://dizist.co/mindhunter"
+    },
+    {
+      "id": 1605291011073,
+      "diziad": "Riverdale",
+      "diziresim": "https://dizist.co/upload/poster/riverdale.jpg",
+      "dizilinker": "https://dizist.co/riverdale"
+    },
+    {
+      "id": 1605291011078,
+      "diziad": "Valor",
+      "diziresim": "https://dizist.co/upload/poster/valor.jpg",
+      "dizilinker": "https://dizist.co/valor"
+    },
+    {
+      "id": 1605291011083,
+      "diziad": "Ghost Wars",
+      "diziresim": "https://dizist.co/upload/poster/ghost-wars.jpg",
+      "dizilinker": "https://dizist.co/ghost-wars"
+    },
+    {
+      "id": 1605291011090,
+      "diziad": "Extinct",
+      "diziresim": "https://dizist.co/upload/poster/extinct.jpg",
+      "dizilinker": "https://dizist.co/extinct"
+    },
+    {
+      "id": 1605291011095,
+      "diziad": "The Gifted",
+      "diziresim": "https://dizist.co/upload/poster/the-gifted.jpg",
+      "dizilinker": "https://dizist.co/the-gifted"
+    },
+    {
+      "id": 1605291011100,
+      "diziad": "Wisdom of the Crowd",
+      "diziresim": "https://dizist.co/upload/poster/wisdom-of-the-crowd.jpg",
+      "dizilinker": "https://dizist.co/wisdom-of-the-crowd"
+    },
+    {
+      "id": 1605291011105,
+      "diziad": "Ten Days In The Valley",
+      "diziresim": "https://dizist.co/upload/poster/ten-days-in-the-valley.jpg",
+      "dizilinker": "https://dizist.co/ten-days-in-the-valley"
+    },
+    {
+      "id": 1605291011111,
+      "diziad": "Inhumans",
+      "diziresim": "https://dizist.co/upload/poster/inhumans.jpg",
+      "dizilinker": "https://dizist.co/inhumans"
+    },
+    {
+      "id": 1605291011116,
+      "diziad": "MacGyver",
+      "diziresim": "https://dizist.co/upload/poster/macgyver.jpg",
+      "dizilinker": "https://dizist.co/macgyver"
+    },
+    {
+      "id": 1605291011121,
+      "diziad": "Tin Star",
+      "diziresim": "https://dizist.co/upload/poster/tin-star.jpg",
+      "dizilinker": "https://dizist.co/tin-star"
+    },
+    {
+      "id": 1605291011125,
+      "diziad": "Absentia",
+      "diziresim": "https://dizist.co/upload/poster/absentia",
+      "dizilinker": "https://dizist.co/absentia"
+    },
+    {
+      "id": 1605291011130,
+      "diziad": "Spider-Man",
+      "diziresim": "https://dizist.co/upload/poster/spider-man.jpg",
+      "dizilinker": "https://dizist.co/spider-man"
+    },
+    {
+      "id": 1605291011135,
+      "diziad": "Channel Zero",
+      "diziresim": "https://dizist.co/upload/poster/channel-zero.jpg",
+      "dizilinker": "https://dizist.co/channel-zero"
+    },
+    {
+      "id": 1605291011139,
+      "diziad": "The Punisher",
+      "diziresim": "https://dizist.co/upload/poster/the-punisher.jpg",
+      "dizilinker": "https://dizist.co/the-punisher"
+    },
+    {
+      "id": 1605291011144,
+      "diziad": "Swedish Dicks",
+      "diziresim": "https://dizist.co/upload/poster/swedish-dicks.jpg",
+      "dizilinker": "https://dizist.co/swedish-dicks"
+    },
+    {
+      "id": 1605291011149,
+      "diziad": "Outlander",
+      "diziresim": "https://dizist.co/upload/poster/outlander.jpg",
+      "dizilinker": "https://dizist.co/outlander"
+    },
+    {
+      "id": 1605291011155,
+      "diziad": "American Vandal",
+      "diziresim": "https://dizist.co/upload/poster/american-vandal.jpg",
+      "dizilinker": "https://dizist.co/american-vandal"
+    },
+    {
+      "id": 1605291011160,
+      "diziad": "Evil Things",
+      "diziresim": "https://dizist.co/upload/poster/evil-things.jpg",
+      "dizilinker": "https://dizist.co/evil-things"
+    },
+    {
+      "id": 1605291011165,
+      "diziad": "Liar",
+      "diziresim": "https://dizist.co/upload/poster/liar.jpg",
+      "dizilinker": "https://dizist.co/liar"
+    },
+    {
+      "id": 1605291011170,
+      "diziad": "Rellik",
+      "diziresim": "https://dizist.co/upload/poster/rellik.jpg",
+      "dizilinker": "https://dizist.co/rellik"
+    },
+    {
+      "id": 1605291011438,
+      "diziad": "The Orville",
+      "diziresim": "https://dizist.co/upload/poster/the-orville.jpg",
+      "dizilinker": "https://dizist.co/the-orville"
+    },
+    {
+      "id": 1605291011445,
+      "diziad": "The State",
+      "diziresim": "https://dizist.co/upload/poster/the-state.jpg",
+      "dizilinker": "https://dizist.co/the-state"
+    },
+    {
+      "id": 1605291011451,
+      "diziad": "The Sinking of the Laconia",
+      "diziresim": "https://dizist.co/upload/poster/the-sinking-of-the-laconia.jpg",
+      "dizilinker": "https://dizist.co/the-sinking-of-the-laconia"
+    },
+    {
+      "id": 1605291011457,
+      "diziad": "Last Chance U",
+      "diziresim": "https://dizist.co/upload/poster/last-chance-u",
+      "dizilinker": "https://dizist.co/last-chance-u"
+    },
+    {
+      "id": 1605291011465,
+      "diziad": "Ultimate Beastmaster",
+      "diziresim": "https://dizist.co/upload/poster/ultimate-beastmaster.jpg",
+      "dizilinker": "https://dizist.co/ultimate-beastmaster"
+    },
+    {
+      "id": 1605291011471,
+      "diziad": "Strike",
+      "diziresim": "https://dizist.co/upload/poster/strike.jpg",
+      "dizilinker": "https://dizist.co/strike"
+    },
+    {
+      "id": 1605291011483,
+      "diziad": "The Standups",
+      "diziresim": "https://dizist.co/upload/poster/the-standups.jpg",
+      "dizilinker": "https://dizist.co/the-standups"
+    },
+    {
+      "id": 1605291011488,
+      "diziad": "The Tick",
+      "diziresim": "https://dizist.co/upload/poster/the-tick.jpg",
+      "dizilinker": "https://dizist.co/the-tick"
+    },
+    {
+      "id": 1605291011493,
+      "diziad": "Mr. Mercedes",
+      "diziresim": "https://dizist.co/upload/poster/mr-mercedes.jpg",
+      "dizilinker": "https://dizist.co/mr-mercedes"
+    },
+    {
+      "id": 1605291011499,
+      "diziad": "Chesapeake Shores",
+      "diziresim": "https://dizist.co/upload/poster/chesapeake-shores.jpg",
+      "dizilinker": "https://dizist.co/chesapeake-shores"
+    },
+    {
+      "id": 1605291011506,
+      "diziad": "The Defenders",
+      "diziresim": "https://dizist.co/upload/poster/the-defenders.jpg",
+      "dizilinker": "https://dizist.co/the-defenders"
+    },
+    {
+      "id": 1605291011514,
+      "diziad": "Marlon",
+      "diziresim": "https://dizist.co/upload/poster/marlon.jpg",
+      "dizilinker": "https://dizist.co/marlon"
+    },
+    {
+      "id": 1605291011521,
+      "diziad": "Atypical",
+      "diziresim": "https://dizist.co/upload/poster/atypical.jpg",
+      "dizilinker": "https://dizist.co/atypical"
+    },
+    {
+      "id": 1605291011530,
+      "diziad": "Wet Hot American Summer: 10 Years Later",
+      "diziresim": "https://dizist.co/upload/poster/wet-hot-american-summer-10-years-later.jpg",
+      "dizilinker": "https://dizist.co/wet-hot-american-summer-10-years-later"
+    },
+    {
+      "id": 1605291011536,
+      "diziad": "The Sinner",
+      "diziresim": "https://dizist.co/upload/poster/the-sinner.jpg",
+      "dizilinker": "https://dizist.co/the-sinner"
+    },
+    {
+      "id": 1605291011547,
+      "diziad": "21 Thunder",
+      "diziresim": "https://dizist.co/upload/poster/21-thunder.jpg",
+      "dizilinker": "https://dizist.co/21-thunder"
+    },
+    {
+      "id": 1605291011552,
+      "diziad": "Manhunt: Unabomber",
+      "diziresim": "https://dizist.co/upload/poster/manhunt-unabomber.jpg",
+      "dizilinker": "https://dizist.co/manhunt-unabomber"
+    },
+    {
+      "id": 1605291011558,
+      "diziad": "Casual",
+      "diziresim": "https://dizist.co/upload/poster/casual.jpg",
+      "dizilinker": "https://dizist.co/casual"
+    },
+    {
+      "id": 1605291011563,
+      "diziad": "Somewhere Between",
+      "diziresim": "https://dizist.co/upload/poster/somewhere-between.jpg",
+      "dizilinker": "https://dizist.co/somewhere-between"
+    },
+    {
+      "id": 1605291011568,
+      "diziad": "In the Dark",
+      "diziresim": "https://dizist.co/upload/poster/in-the-dark.jpg",
+      "dizilinker": "https://dizist.co/in-the-dark"
+    },
+    {
+      "id": 1605291011575,
+      "diziad": "Doubt",
+      "diziresim": "https://dizist.co/upload/poster/doubt.jpg",
+      "dizilinker": "https://dizist.co/doubt"
+    },
+    {
+      "id": 1605291011582,
+      "diziad": "Room 104",
+      "diziresim": "https://dizist.co/upload/poster/room-104.jpg",
+      "dizilinker": "https://dizist.co/room-104"
+    },
+    {
+      "id": 1605291011587,
+      "diziad": "Midnight, Texas",
+      "diziresim": "https://dizist.co/upload/poster/midnight-texas.jpg",
+      "dizilinker": "https://dizist.co/midnight-texas"
+    },
+    {
+      "id": 1605291011594,
+      "diziad": "Ozark",
+      "diziresim": "https://dizist.co/upload/poster/ozark.jpg",
+      "dizilinker": "https://dizist.co/ozark"
+    },
+    {
+      "id": 1605291011602,
+      "diziad": "Seven Types of Ambiguity",
+      "diziresim": "https://dizist.co/upload/poster/seven-types-of-ambiguity.jpg",
+      "dizilinker": "https://dizist.co/seven-types-of-ambiguity"
+    },
+    {
+      "id": 1605291011658,
+      "diziad": "Friends From College",
+      "diziresim": "https://dizist.co/upload/poster/friends-from-college.jpg",
+      "dizilinker": "https://dizist.co/friends-from-college"
+    },
+    {
+      "id": 1605291011663,
+      "diziad": "Salvation",
+      "diziresim": "https://dizist.co/upload/poster/salvation.jpg",
+      "dizilinker": "https://dizist.co/salvation"
+    },
+    {
+      "id": 1605291011669,
+      "diziad": "Valkyrien",
+      "diziresim": "https://dizist.co/upload/poster/valkyrien.jpg",
+      "dizilinker": "https://dizist.co/valkyrien"
+    },
+    {
+      "id": 1605291011676,
+      "diziad": "Castlevania",
+      "diziresim": "https://dizist.co/upload/poster/castlevania.jpg",
+      "dizilinker": "https://dizist.co/castlevania"
+    },
+    {
+      "id": 1605291011683,
+      "diziad": "Riviera",
+      "diziresim": "https://dizist.co/upload/poster/riviera.jpg",
+      "dizilinker": "https://dizist.co/riviera"
+    },
+    {
+      "id": 1605291011689,
+      "diziad": "Will",
+      "diziresim": "https://dizist.co/upload/poster/will.jpg",
+      "dizilinker": "https://dizist.co/will"
+    },
+    {
+      "id": 1605291011696,
+      "diziad": "Ackley Bridg",
+      "diziresim": "https://dizist.co/upload/poster/ackley-bridg.jpg",
+      "dizilinker": "https://dizist.co/ackley-bridg"
+    },
+    {
+      "id": 1605291011702,
+      "diziad": "You Are Wanted",
+      "diziresim": "https://dizist.co/upload/poster/you-are-wanted.jpg",
+      "dizilinker": "https://dizist.co/you-are-wanted"
+    },
+    {
+      "id": 1605291011708,
+      "diziad": "Gypsy",
+      "diziresim": "https://dizist.co/upload/poster/gypsy.jpg",
+      "dizilinker": "https://dizist.co/gypsy"
+    },
+    {
+      "id": 1605291011715,
+      "diziad": "Prey",
+      "diziresim": "https://dizist.co/upload/poster/prey.jpg",
+      "dizilinker": "https://dizist.co/prey"
+    },
+    {
+      "id": 1605291011894,
+      "diziad": "The Mist",
+      "diziresim": "https://dizist.co/upload/poster/the-mist.jpg",
+      "dizilinker": "https://dizist.co/the-mist"
+    },
+    {
+      "id": 1605291012001,
+      "diziad": "Nightcap",
+      "diziresim": "https://dizist.co/upload/poster/nightcap.jpg",
+      "dizilinker": "https://dizist.co/nightcap"
+    },
+    {
+      "id": 1605291012005,
+      "diziad": "Blood Drive",
+      "diziresim": "https://dizist.co/upload/poster/blood-drive.jpg",
+      "dizilinker": "https://dizist.co/blood-drive"
+    },
+    {
+      "id": 1605291012012,
+      "diziad": "Snatch",
+      "diziresim": "https://dizist.co/upload/poster/snatch.jpg",
+      "dizilinker": "https://dizist.co/snatch"
+    },
+    {
+      "id": 1605291012020,
+      "diziad": "Fearless",
+      "diziresim": "https://dizist.co/upload/poster/fearless.jpg",
+      "dizilinker": "https://dizist.co/fearless"
+    },
+    {
+      "id": 1605291012026,
+      "diziad": "Claws",
+      "diziresim": "https://dizist.co/upload/poster/claws.jpg",
+      "dizilinker": "https://dizist.co/claws"
+    },
+    {
+      "id": 1605291012032,
+      "diziad": "Queen of the South",
+      "diziresim": "https://dizist.co/upload/poster/queen-of-the-south.jpg",
+      "dizilinker": "https://dizist.co/queen-of-the-south"
+    },
+    {
+      "id": 1605291012037,
+      "diziad": "Captive",
+      "diziresim": "https://dizist.co/upload/poster/captive.jpg",
+      "dizilinker": "https://dizist.co/captive"
+    },
+    {
+      "id": 1605291012044,
+      "diziad": "Ice",
+      "diziresim": "https://dizist.co/upload/poster/ice.jpg",
+      "dizilinker": "https://dizist.co/ice"
+    },
+    {
+      "id": 1605291012049,
+      "diziad": "Jamestown",
+      "diziresim": "https://dizist.co/upload/poster/jamestown.jpg",
+      "dizilinker": "https://dizist.co/jamestown"
+    },
+    {
+      "id": 1605291012055,
+      "diziad": "Umbre",
+      "diziresim": "https://dizist.co/upload/poster/umbre.jpg",
+      "dizilinker": "https://dizist.co/umbre"
+    },
+    {
+      "id": 1605291012062,
+      "diziad": "Clique",
+      "diziresim": "https://dizist.co/upload/poster/clique.jpg",
+      "dizilinker": "https://dizist.co/clique"
+    },
+    {
+      "id": 1605291012067,
+      "diziad": "Cable Girls",
+      "diziresim": "https://dizist.co/upload/poster/cable-girls.jpg",
+      "dizilinker": "https://dizist.co/cable-girls"
+    },
+    {
+      "id": 1605291012073,
+      "diziad": "Flaked",
+      "diziresim": "https://dizist.co/upload/poster/flaked.jpg",
+      "dizilinker": "https://dizist.co/flaked"
+    },
+    {
+      "id": 1605291012082,
+      "diziad": "Private Eyes",
+      "diziresim": "https://dizist.co/upload/poster/private-eyes.jpg",
+      "dizilinker": "https://dizist.co/private-eyes"
+    },
+    {
+      "id": 1605291012339,
+      "diziad": "Still Star-Crossed",
+      "diziresim": "https://dizist.co/upload/poster/still-star-crossed.jpg",
+      "dizilinker": "https://dizist.co/still-star-crossed"
+    },
+    {
+      "id": 1605291012373,
+      "diziad": "White Gold",
+      "diziresim": "https://dizist.co/upload/poster/white-gold.jpg",
+      "dizilinker": "https://dizist.co/white-gold"
+    },
+    {
+      "id": 1605291012404,
+      "diziad": "Paula",
+      "diziresim": "https://dizist.co/upload/poster/paula.jpg",
+      "dizilinker": "https://dizist.co/paula"
+    },
+    {
+      "id": 1605291012426,
+      "diziad": "Anne",
+      "diziresim": "https://dizist.co/upload/poster/anne.jpg",
+      "dizilinker": "https://dizist.co/anne"
+    },
+    {
+      "id": 1605291012438,
+      "diziad": "Downward Dog",
+      "diziresim": "https://dizist.co/upload/poster/downward-dog.jpg",
+      "dizilinker": "https://dizist.co/downward-dog"
+    },
+    {
+      "id": 1605291012448,
+      "diziad": "Dark Net",
+      "diziresim": "https://dizist.co/upload/poster/dark-net.jpg",
+      "dizilinker": "https://dizist.co/dark-net"
+    },
+    {
+      "id": 1605291012455,
+      "diziad": "American Gods",
+      "diziresim": "https://dizist.co/upload/poster/american-gods.jpg",
+      "dizilinker": "https://dizist.co/american-gods"
+    },
+    {
+      "id": 1605291012464,
+      "diziad": "Genius",
+      "diziresim": "https://dizist.co/upload/poster/genius.jpg",
+      "dizilinker": "https://dizist.co/genius"
+    },
+    {
+      "id": 1605291012469,
+      "diziad": "Born to Kill",
+      "diziresim": "https://dizist.co/upload/poster/born-to-kill.jpg",
+      "dizilinker": "https://dizist.co/born-to-kill"
+    },
+    {
+      "id": 1605291012475,
+      "diziad": "Dear White People",
+      "diziresim": "https://dizist.co/upload/poster/dear-white-people.jpg",
+      "dizilinker": "https://dizist.co/dear-white-people"
+    },
+    {
+      "id": 1605291012480,
+      "diziad": "Shots Fired",
+      "diziresim": "https://dizist.co/upload/poster/shots-fired.jpg",
+      "dizilinker": "https://dizist.co/shots-fired"
+    },
+    {
+      "id": 1605291012485,
+      "diziad": "Girlboss",
+      "diziresim": "https://dizist.co/upload/poster/girlboss.jpg",
+      "dizilinker": "https://dizist.co/girlboss"
+    },
+    {
+      "id": 1605291012491,
+      "diziad": "The White Princess",
+      "diziresim": "https://dizist.co/upload/poster/the-white-princess.jpg",
+      "dizilinker": "https://dizist.co/the-white-princess"
+    },
+    {
+      "id": 1605291012496,
+      "diziad": "The Son",
+      "diziresim": "https://dizist.co/upload/poster/the-son.jpg",
+      "dizilinker": "https://dizist.co/the-son"
+    },
+    {
+      "id": 1605291012501,
+      "diziad": "13 Reasons Why",
+      "diziresim": "https://dizist.co/upload/poster/13-reasons-why.jpg",
+      "dizilinker": "https://dizist.co/13-reasons-why"
+    },
+    {
+      "id": 1605291012506,
+      "diziad": "Oasis",
+      "diziresim": "https://dizist.co/upload/poster/oasis.jpg",
+      "dizilinker": "https://dizist.co/oasis"
+    },
+    {
+      "id": 1605291012511,
+      "diziad": "Time After Time",
+      "diziresim": "https://dizist.co/upload/poster/time-after-time.jpg",
+      "dizilinker": "https://dizist.co/time-after-time"
+    },
+    {
+      "id": 1605291012519,
+      "diziad": "Taken",
+      "diziresim": "https://dizist.co/upload/poster/taken.jpg",
+      "dizilinker": "https://dizist.co/taken"
+    },
+    {
+      "id": 1605291012526,
+      "diziad": "Svartsjon",
+      "diziresim": "https://dizist.co/upload/poster/svartsjon.jpg",
+      "dizilinker": "https://dizist.co/svartsjon"
+    },
+    {
+      "id": 1605291012532,
+      "diziad": "Sweet/Vicious",
+      "diziresim": "https://dizist.co/upload/poster/sweetvicious.jpg",
+      "dizilinker": "https://dizist.co/sweetvicious"
+    },
+    {
+      "id": 1605291012537,
+      "diziad": "Legion",
+      "diziresim": "https://dizist.co/upload/poster/legion.jpg",
+      "dizilinker": "https://dizist.co/legion"
+    },
+    {
+      "id": 1605291012542,
+      "diziad": "Cardinal",
+      "diziresim": "https://dizist.co/upload/poster/cardinal.jpg",
+      "dizilinker": "https://dizist.co/cardinal"
+    },
+    {
+      "id": 1605291012548,
+      "diziad": "Emerald City",
+      "diziresim": "https://dizist.co/upload/poster/emerald-city.jpg",
+      "dizilinker": "https://dizist.co/emerald-city"
+    },
+    {
+      "id": 1605291012553,
+      "diziad": "24: Legacy",
+      "diziresim": "https://dizist.co/upload/poster/24-legacy.jpg",
+      "dizilinker": "https://dizist.co/24-legacy"
+    },
+    {
+      "id": 1605291012559,
+      "diziad": "The Slap",
+      "diziresim": "https://dizist.co/upload/poster/the-slap.jpg",
+      "dizilinker": "https://dizist.co/the-slap"
+    },
+    {
+      "id": 1605291012567,
+      "diziad": "Search Party",
+      "diziresim": "https://dizist.co/upload/poster/search-party.jpg",
+      "dizilinker": "https://dizist.co/search-party"
+    },
+    {
+      "id": 1605291012575,
+      "diziad": "Siberia",
+      "diziresim": "https://dizist.co/upload/poster/siberia.jpg",
+      "dizilinker": "https://dizist.co/siberia"
+    },
+    {
+      "id": 1605291012582,
+      "diziad": "This Is Us",
+      "diziresim": "https://dizist.co/upload/poster/this-is-us.jpg",
+      "dizilinker": "https://dizist.co/this-is-us"
+    },
+    {
+      "id": 1605291012590,
+      "diziad": "Once Upon A Time In Wonderland",
+      "diziresim": "https://dizist.co/upload/poster/once-upon-a-time-in-wonderland.jpg",
+      "dizilinker": "https://dizist.co/once-upon-a-time-in-wonderland"
+    },
+    {
+      "id": 1605291012595,
+      "diziad": "Bleak House",
+      "diziresim": "https://dizist.co/upload/poster/bleak-house.jpg",
+      "dizilinker": "https://dizist.co/bleak-house"
+    },
+    {
+      "id": 1605291012600,
+      "diziad": "SIX",
+      "diziresim": "https://dizist.co/upload/poster/six.jpg",
+      "dizilinker": "https://dizist.co/six"
+    },
+    {
+      "id": 1605291012605,
+      "diziad": "The Mick",
+      "diziresim": "https://dizist.co/upload/poster/the-mick.jpg",
+      "dizilinker": "https://dizist.co/the-mick"
+    },
+    {
+      "id": 1605291012611,
+      "diziad": "A Series of Unfortunate Events",
+      "diziresim": "https://dizist.co/upload/poster/a-series-of-unfortunate-events.jpg",
+      "dizilinker": "https://dizist.co/a-series-of-unfortunate-events"
+    },
+    {
+      "id": 1605291012616,
+      "diziad": "Taboo",
+      "diziresim": "https://dizist.co/upload/poster/taboo.jpg",
+      "dizilinker": "https://dizist.co/taboo"
+    },
+    {
+      "id": 1605291012622,
+      "diziad": "Beyond",
+      "diziresim": "https://dizist.co/upload/poster/beyond.jpg",
+      "dizilinker": "https://dizist.co/beyond"
+    },
+    {
+      "id": 1605291012627,
+      "diziad": "Man with a Plan",
+      "diziresim": "https://dizist.co/upload/poster/man-with-a-plan.jpg",
+      "dizilinker": "https://dizist.co/man-with-a-plan"
+    },
+    {
+      "id": 1605291012632,
+      "diziad": "Mars",
+      "diziresim": "https://dizist.co/upload/poster/mars.jpg",
+      "dizilinker": "https://dizist.co/mars"
+    },
+    {
+      "id": 1605291012637,
+      "diziad": "Doctor Foster",
+      "diziresim": "https://dizist.co/upload/poster/doctor-foster.jpg",
+      "dizilinker": "https://dizist.co/doctor-foster"
+    },
+    {
+      "id": 1605291012643,
+      "diziad": "Travelers",
+      "diziresim": "https://dizist.co/upload/poster/travelers.jpg",
+      "dizilinker": "https://dizist.co/travelers"
+    },
+    {
+      "id": 1605291012648,
+      "diziad": "Numb3rs",
+      "diziresim": "https://dizist.co/upload/poster/numb3rs.jpg",
+      "dizilinker": "https://dizist.co/numb3rs"
+    },
+    {
+      "id": 1605291012655,
+      "diziad": "White Rabbit Project",
+      "diziresim": "https://dizist.co/upload/poster/white-rabbit-project.jpg",
+      "dizilinker": "https://dizist.co/white-rabbit-project"
+    },
+    {
+      "id": 1605291012662,
+      "diziad": "The New Batman Adventures",
+      "diziresim": "https://dizist.co/upload/poster/the-new-batman-adventures.jpg",
+      "dizilinker": "https://dizist.co/the-new-batman-adventures"
+    },
+    {
+      "id": 1605291012667,
+      "diziad": "Agents of S.H.I.E.L.D.: Slingshot",
+      "diziresim": "https://dizist.co/upload/poster/agents-of-s-h-i-e-l-d-slingshot.jpg",
+      "dizilinker": "https://dizist.co/agents-of-s-h-i-e-l-d-slingshot"
+    },
+    {
+      "id": 1605291012673,
+      "diziad": "Hap and Leonard",
+      "diziresim": "https://dizist.co/upload/poster/hap-and-leonard.jpg",
+      "dizilinker": "https://dizist.co/hap-and-leonard"
+    },
+    {
+      "id": 1605291012680,
+      "diziad": "The OA",
+      "diziresim": "https://dizist.co/upload/poster/the-oa.jpg",
+      "dizilinker": "https://dizist.co/the-oa"
+    },
+    {
+      "id": 1605291012685,
+      "diziad": "Paranoid",
+      "diziresim": "https://dizist.co/upload/poster/paranoid.jpg",
+      "dizilinker": "https://dizist.co/paranoid"
+    },
+    {
+      "id": 1605291012690,
+      "diziad": "3% (Yüzde 3)",
+      "diziresim": "https://dizist.co/upload/poster/yuzde-3.jpg",
+      "dizilinker": "https://dizist.co/yuzde-3"
+    },
+    {
+      "id": 1605291012695,
+      "diziad": "Shooter",
+      "diziresim": "https://dizist.co/upload/poster/shooter.jpg",
+      "dizilinker": "https://dizist.co/shooter"
+    },
+    {
+      "id": 1605291012700,
+      "diziad": "Pure Genius",
+      "diziresim": "https://dizist.co/upload/poster/pure-genius.jpg",
+      "dizilinker": "https://dizist.co/pure-genius"
+    },
+    {
+      "id": 1605291012705,
+      "diziad": "The Crown",
+      "diziresim": "https://dizist.co/upload/poster/the-crown.jpg",
+      "dizilinker": "https://dizist.co/the-crown"
+    },
+    {
+      "id": 1605291012968,
+      "diziad": "The Ranch",
+      "diziresim": "https://dizist.co/upload/poster/the-ranch.jpg",
+      "dizilinker": "https://dizist.co/the-ranch"
+    },
+    {
+      "id": 1605291012974,
+      "diziad": "Iron Fist",
+      "diziresim": "https://dizist.co/upload/poster/iron-fist.jpg",
+      "dizilinker": "https://dizist.co/iron-fist"
+    },
+    {
+      "id": 1605291012992,
+      "diziad": "Class",
+      "diziresim": "https://dizist.co/upload/poster/class.jpg",
+      "dizilinker": "https://dizist.co/class"
+    },
+    {
+      "id": 1605291012997,
+      "diziad": "Torchwood",
+      "diziresim": "https://dizist.co/upload/poster/torchwood.jpg",
+      "dizilinker": "https://dizist.co/torchwood"
+    },
+    {
+      "id": 1605291013003,
+      "diziad": "Workaholics",
+      "diziresim": "https://dizist.co/upload/poster/workaholics.jpg",
+      "dizilinker": "https://dizist.co/workaholics"
+    },
+    {
+      "id": 1605291013009,
+      "diziad": "Frequency",
+      "diziresim": "https://dizist.co/upload/poster/frequency.jpg",
+      "dizilinker": "https://dizist.co/frequency"
+    },
+    {
+      "id": 1605291013015,
+      "diziad": "Timeless",
+      "diziresim": "https://dizist.co/upload/poster/timeless.jpg",
+      "dizilinker": "https://dizist.co/timeless"
+    },
+    {
+      "id": 1605291013027,
+      "diziad": "Westworld",
+      "diziresim": "https://dizist.co/upload/poster/westworld.jpg",
+      "dizilinker": "https://dizist.co/westworld"
+    },
+    {
+      "id": 1605291013032,
+      "diziad": "Behzat Ç.",
+      "diziresim": "https://dizist.co/upload/poster/behzat-c-.jpg",
+      "dizilinker": "https://dizist.co/behzat-c-"
+    },
+    {
+      "id": 1605291013037,
+      "diziad": "Speechless",
+      "diziresim": "https://dizist.co/upload/poster/speechless.jpg",
+      "dizilinker": "https://dizist.co/speechless"
+    },
+    {
+      "id": 1605291013043,
+      "diziad": "Luke Cage",
+      "diziresim": "https://dizist.co/upload/poster/luke-cage.jpg",
+      "dizilinker": "https://dizist.co/luke-cage"
+    },
+    {
+      "id": 1605291013048,
+      "diziad": "Designated Survivor",
+      "diziresim": "https://dizist.co/upload/poster/designated-survivor.jpg",
+      "dizilinker": "https://dizist.co/designated-survivor"
+    },
+    {
+      "id": 1605291013055,
+      "diziad": "Falling Water",
+      "diziresim": "https://dizist.co/upload/poster/falling-water.jpg",
+      "dizilinker": "https://dizist.co/falling-water"
+    },
+    {
+      "id": 1605291013063,
+      "diziad": "Aftermath",
+      "diziresim": "https://dizist.co/upload/poster/aftermath.jpg",
+      "dizilinker": "https://dizist.co/aftermath"
+    },
+    {
+      "id": 1605291013069,
+      "diziad": "Bull",
+      "diziresim": "https://dizist.co/upload/poster/bull.jpg",
+      "dizilinker": "https://dizist.co/bull"
+    },
+    {
+      "id": 1605291013074,
+      "diziad": "One Tree Hill",
+      "diziresim": "https://dizist.co/upload/poster/one-tree-hill.jpg",
+      "dizilinker": "https://dizist.co/one-tree-hill"
+    },
+    {
+      "id": 1605291013080,
+      "diziad": "Harley and the Davidsons",
+      "diziresim": "https://dizist.co/upload/poster/harley-and-the-davidsons.jpg",
+      "dizilinker": "https://dizist.co/harley-and-the-davidsons"
+    },
+    {
+      "id": 1605291013087,
+      "diziad": "Veep",
+      "diziresim": "https://dizist.co/upload/poster/veep.jpg",
+      "dizilinker": "https://dizist.co/veep"
+    },
+    {
+      "id": 1605291013092,
+      "diziad": "Damien",
+      "diziresim": "https://dizist.co/upload/poster/damien.jpg",
+      "dizilinker": "https://dizist.co/damien"
+    },
+    {
+      "id": 1605291013099,
+      "diziad": "Crossing Lines",
+      "diziresim": "https://dizist.co/upload/poster/crossing-lines.jpg",
+      "dizilinker": "https://dizist.co/crossing-lines"
+    },
+    {
+      "id": 1605291013104,
+      "diziad": "Do No Harm",
+      "diziresim": "https://dizist.co/upload/poster/do-no-harm.jpg",
+      "dizilinker": "https://dizist.co/do-no-harm"
+    },
+    {
+      "id": 1605291013109,
+      "diziad": "BrainDead",
+      "diziresim": "https://dizist.co/upload/poster/braindead.jpg",
+      "dizilinker": "https://dizist.co/braindead"
+    },
+    {
+      "id": 1605291013115,
+      "diziad": "Quarry",
+      "diziresim": "https://dizist.co/upload/poster/quarry.jpg",
+      "dizilinker": "https://dizist.co/quarry"
+    },
+    {
+      "id": 1605291013122,
+      "diziad": "Avatar: The Legend of Korra",
+      "diziresim": "https://dizist.co/upload/poster/avatar-the-legend-of-korra.jpg",
+      "dizilinker": "https://dizist.co/avatar-the-legend-of-korra"
+    },
+    {
+      "id": 1605291013129,
+      "diziad": "Doctor Who Klasik Seri (1963)",
+      "diziresim": "https://dizist.co/upload/poster/doctor-who-1963.jpg",
+      "dizilinker": "https://dizist.co/doctor-who-1963"
+    },
+    {
+      "id": 1605291013134,
+      "diziad": "46 Yok Olan",
+      "diziresim": "https://dizist.co/upload/poster/46-yok-olan.jpg",
+      "dizilinker": "https://dizist.co/46-yok-olan"
+    },
+    {
+      "id": 1605291013140,
+      "diziad": "The Girlfriend Experience",
+      "diziresim": "https://dizist.co/upload/poster/the-girlfriend-experience.jpg",
+      "dizilinker": "https://dizist.co/the-girlfriend-experience"
+    },
+    {
+      "id": 1605291013146,
+      "diziad": "The Living and the Dead",
+      "diziresim": "https://dizist.co/upload/poster/the-living-and-the-dead.jpg",
+      "dizilinker": "https://dizist.co/the-living-and-the-dead"
+    },
+    {
+      "id": 1605291013152,
+      "diziad": "Life on Mars",
+      "diziresim": "https://dizist.co/upload/poster/life-on-mars.jpg",
+      "dizilinker": "https://dizist.co/life-on-mars"
+    },
+    {
+      "id": 1605291013158,
+      "diziad": "The Get Down",
+      "diziresim": "https://dizist.co/upload/poster/the-get-down.jpg",
+      "dizilinker": "https://dizist.co/the-get-down"
+    },
+    {
+      "id": 1605291013163,
+      "diziad": "Van Helsing",
+      "diziresim": "https://dizist.co/upload/poster/van-helsing.jpg",
+      "dizilinker": "https://dizist.co/van-helsing"
+    },
+    {
+      "id": 1605291013171,
+      "diziad": "Stranger Things",
+      "diziresim": "https://dizist.co/upload/poster/stranger-things.jpg",
+      "dizilinker": "https://dizist.co/stranger-things"
+    },
+    {
+      "id": 1605291013176,
+      "diziad": "The Kettering Incident",
+      "diziresim": "https://dizist.co/upload/poster/the-kettering-incident.jpg",
+      "dizilinker": "https://dizist.co/the-kettering-incident"
+    },
+    {
+      "id": 1605291013182,
+      "diziad": "Containment",
+      "diziresim": "https://dizist.co/upload/poster/containment.jpg",
+      "dizilinker": "https://dizist.co/containment"
+    },
+    {
+      "id": 1605291013189,
+      "diziad": "The Night Of",
+      "diziresim": "https://dizist.co/upload/poster/the-night-of.jpg",
+      "dizilinker": "https://dizist.co/the-night-of"
+    },
+    {
+      "id": 1605291013196,
+      "diziad": "Star Wars Rebels",
+      "diziresim": "https://dizist.co/upload/poster/star-wars-rebels.jpg",
+      "dizilinker": "https://dizist.co/star-wars-rebels"
+    },
+    {
+      "id": 1605291013202,
+      "diziad": "Animal Kingdom",
+      "diziresim": "https://dizist.co/upload/poster/animal-kingdom.jpg",
+      "dizilinker": "https://dizist.co/animal-kingdom"
+    },
+    {
+      "id": 1605291013253,
+      "diziad": "American Gothic",
+      "diziresim": "https://dizist.co/upload/poster/american-gothic.jpg",
+      "dizilinker": "https://dizist.co/american-gothic"
+    },
+    {
+      "id": 1605291013260,
+      "diziad": "Looking",
+      "diziresim": "https://dizist.co/upload/poster/looking.jpg",
+      "dizilinker": "https://dizist.co/looking"
+    },
+    {
+      "id": 1605291013266,
+      "diziad": "Les Revenants",
+      "diziresim": "https://dizist.co/upload/poster/les-revenants.jpg",
+      "dizilinker": "https://dizist.co/les-revenants"
+    },
+    {
+      "id": 1605291013271,
+      "diziad": "Buffy the Vampire Slayer",
+      "diziresim": "https://dizist.co/upload/poster/buffy-the-vampire-slayer.jpg",
+      "dizilinker": "https://dizist.co/buffy-the-vampire-slayer"
+    },
+    {
+      "id": 1605291013277,
+      "diziad": "Roots",
+      "diziresim": "https://dizist.co/upload/poster/roots.jpg",
+      "dizilinker": "https://dizist.co/roots"
+    },
+    {
+      "id": 1605291013291,
+      "diziad": "Jericho (US)",
+      "diziresim": "https://dizist.co/upload/poster/jericho-us.jpg",
+      "dizilinker": "https://dizist.co/jericho-us"
+    },
+    {
+      "id": 1605291013308,
+      "diziad": "New Blood",
+      "diziresim": "https://dizist.co/upload/poster/new-blood.jpg",
+      "dizilinker": "https://dizist.co/new-blood"
+    },
+    {
+      "id": 1605291013316,
+      "diziad": "Cleverman",
+      "diziresim": "https://dizist.co/upload/poster/cleverman.jpg",
+      "dizilinker": "https://dizist.co/cleverman"
+    },
+    {
+      "id": 1605291013325,
+      "diziad": "Preacher",
+      "diziresim": "https://dizist.co/upload/poster/preacher.jpg",
+      "dizilinker": "https://dizist.co/preacher"
+    },
+    {
+      "id": 1605291013332,
+      "diziad": "Avatar: The Last Airbender",
+      "diziresim": "https://dizist.co/upload/poster/avatar-the-last-airbender.jpg",
+      "dizilinker": "https://dizist.co/avatar-the-last-airbender"
+    },
+    {
+      "id": 1605291013338,
+      "diziad": "Wolf Creek",
+      "diziresim": "https://dizist.co/upload/poster/wolf-creek.jpg",
+      "dizilinker": "https://dizist.co/wolf-creek"
+    },
+    {
+      "id": 1605291013344,
+      "diziad": "Outcast",
+      "diziresim": "https://dizist.co/upload/poster/outcast.jpg",
+      "dizilinker": "https://dizist.co/outcast"
+    },
+    {
+      "id": 1605291013350,
+      "diziad": "Slasher",
+      "diziresim": "https://dizist.co/upload/poster/slasher.jpg",
+      "dizilinker": "https://dizist.co/slasher"
+    },
+    {
+      "id": 1605291013356,
+      "diziad": "The Family",
+      "diziresim": "https://dizist.co/upload/poster/the-family.jpg",
+      "dizilinker": "https://dizist.co/the-family"
+    },
+    {
+      "id": 1605291013363,
+      "diziad": "Game of Silence",
+      "diziresim": "https://dizist.co/upload/poster/game-of-silence.jpg",
+      "dizilinker": "https://dizist.co/game-of-silence"
+    },
+    {
+      "id": 1605291013368,
+      "diziad": "The Intern",
+      "diziresim": "https://dizist.co/upload/poster/the-intern.jpg",
+      "dizilinker": "https://dizist.co/the-intern"
+    },
+    {
+      "id": 1605291013374,
+      "diziad": "House of Cards",
+      "diziresim": "https://dizist.co/upload/poster/house-of-cards.jpg",
+      "dizilinker": "https://dizist.co/house-of-cards"
+    },
+    {
+      "id": 1605291013382,
+      "diziad": "Love",
+      "diziresim": "https://dizist.co/upload/poster/love.jpg",
+      "dizilinker": "https://dizist.co/love"
+    },
+    {
+      "id": 1605291013388,
+      "diziad": "The Night Manager",
+      "diziresim": "https://dizist.co/upload/poster/the-night-manager.jpg",
+      "dizilinker": "https://dizist.co/the-night-manager"
+    },
+    {
+      "id": 1605291013395,
+      "diziad": "Vinyl",
+      "diziresim": "https://dizist.co/upload/poster/vinyl.jpg",
+      "dizilinker": "https://dizist.co/vinyl"
+    },
+    {
+      "id": 1605291013400,
+      "diziad": "American Crime Story",
+      "diziresim": "https://dizist.co/upload/poster/american-crime-story.jpg",
+      "dizilinker": "https://dizist.co/american-crime-story"
+    },
+    {
+      "id": 1605291013407,
+      "diziad": "Stan Lee's Lucky Man",
+      "diziresim": "https://dizist.co/upload/poster/stan-lees-lucky-man.jpg",
+      "dizilinker": "https://dizist.co/stan-lees-lucky-man"
+    },
+    {
+      "id": 1605291013414,
+      "diziad": "Baskets",
+      "diziresim": "https://dizist.co/upload/poster/baskets.jpg",
+      "dizilinker": "https://dizist.co/baskets"
+    },
+    {
+      "id": 1605291013420,
+      "diziad": "Angie Tribeca",
+      "diziresim": "https://dizist.co/upload/poster/angie-tribeca.jpg",
+      "dizilinker": "https://dizist.co/angie-tribeca"
+    },
+    {
+      "id": 1605291013427,
+      "diziad": "Star Trek: The Next Generation",
+      "diziresim": "https://dizist.co/upload/poster/star-trek-the-next-generation.jpg",
+      "dizilinker": "https://dizist.co/star-trek-the-next-generation"
+    },
+    {
+      "id": 1605291013433,
+      "diziad": "Star Trek",
+      "diziresim": "https://dizist.co/upload/poster/star-trek.jpg",
+      "dizilinker": "https://dizist.co/star-trek"
+    },
+    {
+      "id": 1605291013440,
+      "diziad": "Billions",
+      "diziresim": "https://dizist.co/upload/poster/billions.jpg",
+      "dizilinker": "https://dizist.co/billions"
+    },
+    {
+      "id": 1605291013448,
+      "diziad": "Shadowhunters",
+      "diziresim": "https://dizist.co/upload/poster/shadowhunters.jpg",
+      "dizilinker": "https://dizist.co/shadowhunters"
+    },
+    {
+      "id": 1605291013454,
+      "diziad": "Shades of Blue",
+      "diziresim": "https://dizist.co/upload/poster/shades-of-blue.jpg",
+      "dizilinker": "https://dizist.co/shades-of-blue"
+    },
+    {
+      "id": 1605291013460,
+      "diziad": "11.22.63",
+      "diziresim": "https://dizist.co/upload/poster/11-22-63.jpg",
+      "dizilinker": "https://dizist.co/11-22-63"
+    },
+    {
+      "id": 1605291013467,
+      "diziad": "The Path",
+      "diziresim": "https://dizist.co/upload/poster/the-path.jpg",
+      "dizilinker": "https://dizist.co/the-path"
+    },
+    {
+      "id": 1605291013474,
+      "diziad": "Farouk Omar ~ Hz. Ömer",
+      "diziresim": "https://dizist.co/upload/poster/farouk-omar-hz-omer.jpg",
+      "dizilinker": "https://dizist.co/farouk-omar-hz-omer"
+    },
+    {
+      "id": 1605291013480,
+      "diziad": "Angel From Hell",
+      "diziresim": "https://dizist.co/upload/poster/angel-from-hell.jpg",
+      "dizilinker": "https://dizist.co/angel-from-hell"
+    },
+    {
+      "id": 1605291013488,
+      "diziad": "Jericho",
+      "diziresim": "https://dizist.co/upload/poster/jericho.jpg",
+      "dizilinker": "https://dizist.co/jericho"
+    },
+    {
+      "id": 1605291013498,
+      "diziad": "Telenovela",
+      "diziresim": "https://dizist.co/upload/poster/telenovela.jpg",
+      "dizilinker": "https://dizist.co/telenovela"
+    },
+    {
+      "id": 1605291013510,
+      "diziad": "The Shannara Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/the-shannara-chronicles.jpg",
+      "dizilinker": "https://dizist.co/the-shannara-chronicles"
+    },
+    {
+      "id": 1605291013519,
+      "diziad": "War And Peace",
+      "diziresim": "https://dizist.co/upload/poster/war-and-peace.jpg",
+      "dizilinker": "https://dizist.co/war-and-peace"
+    },
+    {
+      "id": 1605291013527,
+      "diziad": "Cooper Barretts Guide to Surviving Life",
+      "diziresim": "https://dizist.co/upload/poster/cooper-barretts-guide-to-surviving-life.jpg",
+      "dizilinker": "https://dizist.co/cooper-barretts-guide-to-surviving-life"
+    },
+    {
+      "id": 1605291013535,
+      "diziad": "Beowulf: Return to the Shieldlands",
+      "diziresim": "https://dizist.co/upload/poster/beowulf-return-to-the-shieldlands.jpg",
+      "dizilinker": "https://dizist.co/beowulf-return-to-the-shieldlands"
+    },
+    {
+      "id": 1605291013543,
+      "diziad": "Second Chance",
+      "diziresim": "https://dizist.co/upload/poster/second-chance.jpg",
+      "dizilinker": "https://dizist.co/second-chance"
+    },
+    {
+      "id": 1605291013551,
+      "diziad": "Tripped",
+      "diziresim": "https://dizist.co/upload/poster/tripped.jpg",
+      "dizilinker": "https://dizist.co/tripped"
+    },
+    {
+      "id": 1605291013561,
+      "diziad": "Childhood's End",
+      "diziresim": "https://dizist.co/upload/poster/childhoods-end.jpg",
+      "dizilinker": "https://dizist.co/childhoods-end"
+    },
+    {
+      "id": 1605291013572,
+      "diziad": "Dickensian",
+      "diziresim": "https://dizist.co/upload/poster/dickensian.jpg",
+      "dizilinker": "https://dizist.co/dickensian"
+    },
+    {
+      "id": 1605291013581,
+      "diziad": "Star-Crossed",
+      "diziresim": "https://dizist.co/upload/poster/star-crossed.jpg",
+      "dizilinker": "https://dizist.co/star-crossed"
+    },
+    {
+      "id": 1605291013590,
+      "diziad": "Colony",
+      "diziresim": "https://dizist.co/upload/poster/colony.jpg",
+      "dizilinker": "https://dizist.co/colony"
+    },
+    {
+      "id": 1605291013599,
+      "diziad": "Parade's End",
+      "diziresim": "https://dizist.co/upload/poster/parades-end.jpg",
+      "dizilinker": "https://dizist.co/parades-end"
+    },
+    {
+      "id": 1605291013610,
+      "diziad": "Secret State",
+      "diziresim": "https://dizist.co/upload/poster/secret-state.jpg",
+      "dizilinker": "https://dizist.co/secret-state"
+    },
+    {
+      "id": 1605291013628,
+      "diziad": "Jekyll & Hyde",
+      "diziresim": "https://dizist.co/upload/poster/jekyll-hyde.jpg",
+      "dizilinker": "https://dizist.co/jekyll-hyde"
+    },
+    {
+      "id": 1605291013636,
+      "diziad": "Kampen Om Tungtvannet",
+      "diziresim": "https://dizist.co/upload/poster/kampen-om-tungtvannet.jpg",
+      "dizilinker": "https://dizist.co/kampen-om-tungtvannet"
+    },
+    {
+      "id": 1605291013644,
+      "diziad": "Borgen",
+      "diziresim": "https://dizist.co/upload/poster/borgen.jpg",
+      "dizilinker": "https://dizist.co/borgen"
+    },
+    {
+      "id": 1605291013650,
+      "diziad": "Entourage",
+      "diziresim": "https://dizist.co/upload/poster/entourage.jpg",
+      "dizilinker": "https://dizist.co/entourage"
+    },
+    {
+      "id": 1605291013656,
+      "diziad": "What Lives Inside",
+      "diziresim": "https://dizist.co/upload/poster/what-lives-inside.jpg",
+      "dizilinker": "https://dizist.co/what-lives-inside"
+    },
+    {
+      "id": 1605291013662,
+      "diziad": "The Magicians",
+      "diziresim": "https://dizist.co/upload/poster/the-magicians.jpg",
+      "dizilinker": "https://dizist.co/the-magicians"
+    },
+    {
+      "id": 1605291013668,
+      "diziad": "Flesh and Bone",
+      "diziresim": "https://dizist.co/upload/poster/flesh-and-bone.jpg",
+      "dizilinker": "https://dizist.co/flesh-and-bone"
+    },
+    {
+      "id": 1605291013675,
+      "diziad": "The Frankenstein Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/the-frankenstein-chronicles.jpg",
+      "dizilinker": "https://dizist.co/the-frankenstein-chronicles"
+    },
+    {
+      "id": 1605291013681,
+      "diziad": "The Expanse",
+      "diziresim": "https://dizist.co/upload/poster/the-expanse.jpg",
+      "dizilinker": "https://dizist.co/the-expanse"
+    },
+    {
+      "id": 1605291013687,
+      "diziad": "South of Hell",
+      "diziresim": "https://dizist.co/upload/poster/south-of-hell.jpg",
+      "dizilinker": "https://dizist.co/south-of-hell"
+    },
+    {
+      "id": 1605291013849,
+      "diziad": "Deadbeat",
+      "diziresim": "https://dizist.co/upload/poster/deadbeat.jpg",
+      "dizilinker": "https://dizist.co/deadbeat"
+    },
+    {
+      "id": 1605291013886,
+      "diziad": "London Spy",
+      "diziresim": "https://dizist.co/upload/poster/london-spy.jpg",
+      "dizilinker": "https://dizist.co/london-spy"
+    },
+    {
+      "id": 1605291013917,
+      "diziad": "Jessica Jones",
+      "diziresim": "https://dizist.co/upload/poster/jessica-jones.jpg",
+      "dizilinker": "https://dizist.co/jessica-jones"
+    },
+    {
+      "id": 1605291013934,
+      "diziad": "Into the Badlands",
+      "diziresim": "https://dizist.co/upload/poster/into-the-badlands.jpg",
+      "dizilinker": "https://dizist.co/into-the-badlands"
+    },
+    {
+      "id": 1605291013944,
+      "diziad": "Mad Men",
+      "diziresim": "https://dizist.co/upload/poster/mad-men.jpg",
+      "dizilinker": "https://dizist.co/mad-men"
+    },
+    {
+      "id": 1605291013955,
+      "diziad": "24 Live Another Day",
+      "diziresim": "https://dizist.co/upload/poster/24-live-another-day.jpg",
+      "dizilinker": "https://dizist.co/24-live-another-day"
+    },
+    {
+      "id": 1605291014243,
+      "diziad": "Tell Me You Love Me",
+      "diziresim": "https://dizist.co/upload/poster/tell-me-you-love-me.jpg",
+      "dizilinker": "https://dizist.co/tell-me-you-love-me"
+    },
+    {
+      "id": 1605291014249,
+      "diziad": "Master of None",
+      "diziresim": "https://dizist.co/upload/poster/master-of-none.jpg",
+      "dizilinker": "https://dizist.co/master-of-none"
+    },
+    {
+      "id": 1605291014256,
+      "diziad": "Agent X",
+      "diziresim": "https://dizist.co/upload/poster/agent-x.jpg",
+      "dizilinker": "https://dizist.co/agent-x"
+    },
+    {
+      "id": 1605291014262,
+      "diziad": "Ash vs Evil Dead",
+      "diziresim": "https://dizist.co/upload/poster/ash-vs-evil-dead.jpg",
+      "dizilinker": "https://dizist.co/ash-vs-evil-dead"
+    },
+    {
+      "id": 1605291014270,
+      "diziad": "Alias",
+      "diziresim": "https://dizist.co/upload/poster/alias.jpg",
+      "dizilinker": "https://dizist.co/alias"
+    },
+    {
+      "id": 1605291014277,
+      "diziad": "Truth Be Told",
+      "diziresim": "https://dizist.co/upload/poster/truth-be-told.jpg",
+      "dizilinker": "https://dizist.co/truth-be-told"
+    },
+    {
+      "id": 1605291014283,
+      "diziad": "The Romeo Section",
+      "diziresim": "https://dizist.co/upload/poster/the-romeo-section.jpg",
+      "dizilinker": "https://dizist.co/the-romeo-section"
+    },
+    {
+      "id": 1605291014289,
+      "diziad": "The Last Kingdom",
+      "diziresim": "https://dizist.co/upload/poster/the-last-kingdom.jpg",
+      "dizilinker": "https://dizist.co/the-last-kingdom"
+    },
+    {
+      "id": 1605291014301,
+      "diziad": "The Knick",
+      "diziresim": "https://dizist.co/upload/poster/the-knick.jpg",
+      "dizilinker": "https://dizist.co/the-knick"
+    },
+    {
+      "id": 1605291014307,
+      "diziad": "Quantico",
+      "diziresim": "https://dizist.co/upload/poster/quantico.jpg",
+      "dizilinker": "https://dizist.co/quantico"
+    },
+    {
+      "id": 1605291014314,
+      "diziad": "The Simpsons",
+      "diziresim": "https://dizist.co/upload/poster/the-simpsons.jpg",
+      "dizilinker": "https://dizist.co/the-simpsons"
+    },
+    {
+      "id": 1605291014322,
+      "diziad": "Heroes Reborn",
+      "diziresim": "https://dizist.co/upload/poster/heroes-reborn.jpg",
+      "dizilinker": "https://dizist.co/heroes-reborn"
+    },
+    {
+      "id": 1605291014329,
+      "diziad": "Empire",
+      "diziresim": "https://dizist.co/upload/poster/empire.jpg",
+      "dizilinker": "https://dizist.co/empire"
+    },
+    {
+      "id": 1605291014335,
+      "diziad": "Nashville",
+      "diziresim": "https://dizist.co/upload/poster/nashville.jpg",
+      "dizilinker": "https://dizist.co/nashville"
+    },
+    {
+      "id": 1605291014341,
+      "diziad": "Life in Pieces",
+      "diziresim": "https://dizist.co/upload/poster/life-in-pieces.jpg",
+      "dizilinker": "https://dizist.co/life-in-pieces"
+    },
+    {
+      "id": 1605291014348,
+      "diziad": "Dawson's Creek",
+      "diziresim": "https://dizist.co/upload/poster/dawsons-creek.jpg",
+      "dizilinker": "https://dizist.co/dawsons-creek"
+    },
+    {
+      "id": 1605291014354,
+      "diziad": "Transparent",
+      "diziresim": "https://dizist.co/upload/poster/transparent.jpg",
+      "dizilinker": "https://dizist.co/transparent"
+    },
+    {
+      "id": 1605291014361,
+      "diziad": "From Dusk Till Dawn: The Series",
+      "diziresim": "https://dizist.co/upload/poster/from-dusk-till-dawn-the-series.jpg",
+      "dizilinker": "https://dizist.co/from-dusk-till-dawn-the-series"
+    },
+    {
+      "id": 1605291014372,
+      "diziad": "Limitless",
+      "diziresim": "https://dizist.co/upload/poster/limitless.jpg",
+      "dizilinker": "https://dizist.co/limitless"
+    },
+    {
+      "id": 1605291014382,
+      "diziad": "Terminator : The Sarah Connor Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/terminator-the-sarah-connor-chronicles.jpg",
+      "dizilinker": "https://dizist.co/terminator-the-sarah-connor-chronicles"
+    },
+    {
+      "id": 1605291014391,
+      "diziad": "Weeds",
+      "diziresim": "https://dizist.co/upload/poster/weeds.jpg",
+      "dizilinker": "https://dizist.co/weeds"
+    },
+    {
+      "id": 1605291014397,
+      "diziad": "South Park",
+      "diziresim": "https://dizist.co/upload/poster/south-park.jpg",
+      "dizilinker": "https://dizist.co/south-park"
+    },
+    {
+      "id": 1605291014403,
+      "diziad": "In the Flesh",
+      "diziresim": "https://dizist.co/upload/poster/in-the-flesh.jpg",
+      "dizilinker": "https://dizist.co/in-the-flesh"
+    },
+    {
+      "id": 1605291014410,
+      "diziad": "The Bastard Executioner",
+      "diziresim": "https://dizist.co/upload/poster/the-bastard-executioner.jpg",
+      "dizilinker": "https://dizist.co/the-bastard-executioner"
+    },
+    {
+      "id": 1605291014417,
+      "diziad": "Wilfred",
+      "diziresim": "https://dizist.co/upload/poster/wilfred.jpg",
+      "dizilinker": "https://dizist.co/wilfred"
+    },
+    {
+      "id": 1605291014423,
+      "diziad": "The Take",
+      "diziresim": "https://dizist.co/upload/poster/the-take.jpg",
+      "dizilinker": "https://dizist.co/the-take"
+    },
+    {
+      "id": 1605291014431,
+      "diziad": "Blunt Talk",
+      "diziresim": "https://dizist.co/upload/poster/blunt-talk.jpg",
+      "dizilinker": "https://dizist.co/blunt-talk"
+    },
+    {
+      "id": 1605291014485,
+      "diziad": "Burn Notice",
+      "diziresim": "https://dizist.co/upload/poster/burn-notice.jpg",
+      "dizilinker": "https://dizist.co/burn-notice"
+    },
+    {
+      "id": 1605291014498,
+      "diziad": "Californication",
+      "diziresim": "https://dizist.co/upload/poster/californication.jpg",
+      "dizilinker": "https://dizist.co/californication"
+    },
+    {
+      "id": 1605291014511,
+      "diziad": "Dracula",
+      "diziresim": "https://dizist.co/upload/poster/dracula.jpg",
+      "dizilinker": "https://dizist.co/dracula"
+    },
+    {
+      "id": 1605291014521,
+      "diziad": "Camelot",
+      "diziresim": "https://dizist.co/upload/poster/camelot.jpg",
+      "dizilinker": "https://dizist.co/camelot"
+    },
+    {
+      "id": 1605291014534,
+      "diziad": "The Carmichael Show",
+      "diziresim": "https://dizist.co/upload/poster/the-carmichael-show.jpg",
+      "dizilinker": "https://dizist.co/the-carmichael-show"
+    },
+    {
+      "id": 1605291014546,
+      "diziad": "BoJack Horseman",
+      "diziresim": "https://dizist.co/upload/poster/bojack-horseman.jpg",
+      "dizilinker": "https://dizist.co/bojack-horseman"
+    },
+    {
+      "id": 1605291014557,
+      "diziad": "Public Morals",
+      "diziresim": "https://dizist.co/upload/poster/public-morals.jpg",
+      "dizilinker": "https://dizist.co/public-morals"
+    },
+    {
+      "id": 1605291014569,
+      "diziad": "Vixen",
+      "diziresim": "https://dizist.co/upload/poster/vixen.jpg",
+      "dizilinker": "https://dizist.co/vixen"
+    },
+    {
+      "id": 1605291014576,
+      "diziad": "Lonesome Dove",
+      "diziresim": "https://dizist.co/upload/poster/lonesome-dove.jpg",
+      "dizilinker": "https://dizist.co/lonesome-dove"
+    },
+    {
+      "id": 1605291014584,
+      "diziad": "The Kill Point",
+      "diziresim": "https://dizist.co/upload/poster/the-kill-point.jpg",
+      "dizilinker": "https://dizist.co/the-kill-point"
+    },
+    {
+      "id": 1605291014591,
+      "diziad": "Narcos",
+      "diziresim": "https://dizist.co/upload/poster/narcos.jpg",
+      "dizilinker": "https://dizist.co/narcos"
+    },
+    {
+      "id": 1605291014599,
+      "diziad": "Mildred Pierce",
+      "diziresim": "https://dizist.co/upload/poster/mildred-pierce.jpg",
+      "dizilinker": "https://dizist.co/mildred-pierce"
+    },
+    {
+      "id": 1605291014607,
+      "diziad": "Heroes Reborn: Dark Matters",
+      "diziresim": "https://dizist.co/upload/poster/heroes-reborn-dark-matters.jpg",
+      "dizilinker": "https://dizist.co/heroes-reborn-dark-matters"
+    },
+    {
+      "id": 1605291014615,
+      "diziad": "Last Resort",
+      "diziresim": "https://dizist.co/upload/poster/last-resort.jpg",
+      "dizilinker": "https://dizist.co/last-resort"
+    },
+    {
+      "id": 1605291014623,
+      "diziad": "Minority Report",
+      "diziresim": "https://dizist.co/upload/poster/minority-report.jpg",
+      "dizilinker": "https://dizist.co/minority-report"
+    },
+    {
+      "id": 1605291014630,
+      "diziad": "Glitch",
+      "diziresim": "https://dizist.co/upload/poster/glitch.jpg",
+      "dizilinker": "https://dizist.co/glitch"
+    },
+    {
+      "id": 1605291014636,
+      "diziad": "Kevin from Work",
+      "diziresim": "https://dizist.co/upload/poster/kevin-from-work.jpg",
+      "dizilinker": "https://dizist.co/kevin-from-work"
+    },
+    {
+      "id": 1605291014644,
+      "diziad": "The Jim Gaffigan Show",
+      "diziresim": "https://dizist.co/upload/poster/the-jim-gaffigan-show.jpg",
+      "dizilinker": "https://dizist.co/the-jim-gaffigan-show"
+    },
+    {
+      "id": 1605291014651,
+      "diziad": "Lucifer",
+      "diziresim": "https://dizist.co/upload/poster/lucifer.jpg",
+      "dizilinker": "https://dizist.co/lucifer"
+    },
+    {
+      "id": 1605291014659,
+      "diziad": "Sneaky Pete",
+      "diziresim": "https://dizist.co/upload/poster/sneaky-pete.jpg",
+      "dizilinker": "https://dizist.co/sneaky-pete"
+    },
+    {
+      "id": 1605291014666,
+      "diziad": "Frozen Planet",
+      "diziresim": "https://dizist.co/upload/poster/frozen-planet.jpg",
+      "dizilinker": "https://dizist.co/frozen-planet"
+    },
+    {
+      "id": 1605291014675,
+      "diziad": "Wet Hot American Summer: First Day of Camp",
+      "diziresim": "https://dizist.co/upload/poster/wet-hot-american-summer-first-day-of-camp.jpg",
+      "dizilinker": "https://dizist.co/wet-hot-american-summer-first-day-of-camp"
+    },
+    {
+      "id": 1605291014682,
+      "diziad": "Significant Mother",
+      "diziresim": "https://dizist.co/upload/poster/significant-mother.jpg",
+      "dizilinker": "https://dizist.co/significant-mother"
+    },
+    {
+      "id": 1605291014690,
+      "diziad": "Rick and Morty",
+      "diziresim": "https://dizist.co/upload/poster/rick-and-morty.jpg",
+      "dizilinker": "https://dizist.co/rick-and-morty"
+    },
+    {
+      "id": 1605291014697,
+      "diziad": "Tut",
+      "diziresim": "https://dizist.co/upload/poster/tut.jpg",
+      "dizilinker": "https://dizist.co/tut"
+    },
+    {
+      "id": 1605291014703,
+      "diziad": "Hell On Wheels",
+      "diziresim": "https://dizist.co/upload/poster/hell-on-wheels.jpg",
+      "dizilinker": "https://dizist.co/hell-on-wheels"
+    },
+    {
+      "id": 1605291014710,
+      "diziad": "Sex&Drugs&Rock&Roll",
+      "diziresim": "https://dizist.co/upload/poster/sexdrugsrockroll.jpg",
+      "dizilinker": "https://dizist.co/sexdrugsrockroll"
+    },
+    {
+      "id": 1605291014716,
+      "diziad": "Luther",
+      "diziresim": "https://dizist.co/upload/poster/luther.jpg",
+      "dizilinker": "https://dizist.co/luther"
+    },
+    {
+      "id": 1605291014723,
+      "diziad": "The Adventures of Puss in Boots",
+      "diziresim": "https://dizist.co/upload/poster/the-adventures-of-puss-in-boots.jpg",
+      "dizilinker": "https://dizist.co/the-adventures-of-puss-in-boots"
+    },
+    {
+      "id": 1605291014731,
+      "diziad": "Fear the Walking Dead",
+      "diziresim": "https://dizist.co/upload/poster/fear-the-walking-deadd.jpg",
+      "dizilinker": "https://dizist.co/fear-the-walking-deadd"
+    },
+    {
+      "id": 1605291014740,
+      "diziad": "The Shield",
+      "diziresim": "https://dizist.co/upload/poster/the-shield.jpg",
+      "dizilinker": "https://dizist.co/the-shield"
+    },
+    {
+      "id": 1605291014747,
+      "diziad": "Vicious",
+      "diziresim": "https://dizist.co/upload/poster/vicious.jpg",
+      "dizilinker": "https://dizist.co/vicious"
+    },
+    {
+      "id": 1605291014754,
+      "diziad": "Olive Kitteridge",
+      "diziresim": "https://dizist.co/upload/poster/olive-kitteridge.jpg",
+      "dizilinker": "https://dizist.co/olive-kitteridge"
+    },
+    {
+      "id": 1605291014762,
+      "diziad": "37 Days",
+      "diziresim": "https://dizist.co/upload/poster/37-days.jpg",
+      "dizilinker": "https://dizist.co/37-days"
+    },
+    {
+      "id": 1605291014769,
+      "diziad": "Chasing Life",
+      "diziresim": "https://dizist.co/upload/poster/chasing-life.jpg",
+      "dizilinker": "https://dizist.co/chasing-life"
+    },
+    {
+      "id": 1605291014929,
+      "diziad": "Backstrom",
+      "diziresim": "https://dizist.co/upload/poster/backstrom.jpg",
+      "dizilinker": "https://dizist.co/backstrom"
+    },
+    {
+      "id": 1605291014947,
+      "diziad": "The Making of the Mob:New York",
+      "diziresim": "https://dizist.co/upload/poster/the-making-of-the-mob.jpg",
+      "dizilinker": "https://dizist.co/the-making-of-the-mob"
+    },
+    {
+      "id": 1605291014956,
+      "diziad": "Hatfields & McCoys",
+      "diziresim": "https://dizist.co/upload/poster/hatfields-mccoys.jpg",
+      "dizilinker": "https://dizist.co/hatfields-mccoys"
+    },
+    {
+      "id": 1605291014963,
+      "diziad": "Carlos",
+      "diziresim": "https://dizist.co/upload/poster/carlos.jpg",
+      "dizilinker": "https://dizist.co/carlos"
+    },
+    {
+      "id": 1605291014971,
+      "diziad": "My Mad Fat Diary",
+      "diziresim": "https://dizist.co/upload/poster/my-mad-fat-diary.jpg",
+      "dizilinker": "https://dizist.co/my-mad-fat-diary"
+    },
+    {
+      "id": 1605291014978,
+      "diziad": "Scream",
+      "diziresim": "https://dizist.co/upload/poster/scream.jpg",
+      "dizilinker": "https://dizist.co/scream"
+    },
+    {
+      "id": 1605291014985,
+      "diziad": "Terra Nova",
+      "diziresim": "https://dizist.co/upload/poster/terra-nova.jpg",
+      "dizilinker": "https://dizist.co/terra-nova"
+    },
+    {
+      "id": 1605291014992,
+      "diziad": "Zoo",
+      "diziresim": "https://dizist.co/upload/poster/zoo.jpg",
+      "dizilinker": "https://dizist.co/zoo"
+    },
+    {
+      "id": 1605291015002,
+      "diziad": "Harper's Island",
+      "diziresim": "https://dizist.co/upload/poster/harpers-island.jpg",
+      "dizilinker": "https://dizist.co/harpers-island"
+    },
+    {
+      "id": 1605291015011,
+      "diziad": "Young Justice",
+      "diziresim": "https://dizist.co/upload/poster/young-justice.jpg",
+      "dizilinker": "https://dizist.co/young-justice"
+    },
+    {
+      "id": 1605291015018,
+      "diziad": "Kingdom",
+      "diziresim": "https://dizist.co/upload/poster/kingdom.jpg",
+      "dizilinker": "https://dizist.co/kingdom"
+    },
+    {
+      "id": 1605291015024,
+      "diziad": "Clipped",
+      "diziresim": "https://dizist.co/upload/poster/clipped.jpg",
+      "dizilinker": "https://dizist.co/clipped"
+    },
+    {
+      "id": 1605291015035,
+      "diziad": "The Brink",
+      "diziresim": "https://dizist.co/upload/poster/the-brink.jpg",
+      "dizilinker": "https://dizist.co/the-brink"
+    },
+    {
+      "id": 1605291015043,
+      "diziad": "Killjoys",
+      "diziresim": "https://dizist.co/upload/poster/killjoys.jpg",
+      "dizilinker": "https://dizist.co/killjoys"
+    },
+    {
+      "id": 1605291015054,
+      "diziad": "Complications",
+      "diziresim": "https://dizist.co/upload/poster/complications.jpg",
+      "dizilinker": "https://dizist.co/complications"
+    },
+    {
+      "id": 1605291015065,
+      "diziad": "The Astronaut Wives Club",
+      "diziresim": "https://dizist.co/upload/poster/the-astronaut-wives-club.jpg",
+      "dizilinker": "https://dizist.co/the-astronaut-wives-club"
+    },
+    {
+      "id": 1605291015074,
+      "diziad": "Ballers",
+      "diziresim": "https://dizist.co/upload/poster/ballers.jpg",
+      "dizilinker": "https://dizist.co/ballers"
+    },
+    {
+      "id": 1605291015082,
+      "diziad": "Ascension",
+      "diziresim": "https://dizist.co/upload/poster/ascension.jpg",
+      "dizilinker": "https://dizist.co/ascension"
+    },
+    {
+      "id": 1605291015090,
+      "diziad": "Scream Queens",
+      "diziresim": "https://dizist.co/upload/poster/scream-queens.jpg",
+      "dizilinker": "https://dizist.co/scream-queens"
+    },
+    {
+      "id": 1605291015098,
+      "diziad": "Dark Matter",
+      "diziresim": "https://dizist.co/upload/poster/dark-matter.jpg",
+      "dizilinker": "https://dizist.co/dark-matter"
+    },
+    {
+      "id": 1605291015140,
+      "diziad": "Proof",
+      "diziresim": "https://dizist.co/upload/poster/proof.jpg",
+      "dizilinker": "https://dizist.co/proof"
+    },
+    {
+      "id": 1605291015147,
+      "diziad": "Beauty and The Beast",
+      "diziresim": "https://dizist.co/upload/poster/beauty-and-the-beast.jpg",
+      "dizilinker": "https://dizist.co/beauty-and-the-beast"
+    },
+    {
+      "id": 1605291015154,
+      "diziad": "The Tomorrow People",
+      "diziresim": "https://dizist.co/upload/poster/the-tomorrow-people.jpg",
+      "dizilinker": "https://dizist.co/the-tomorrow-people"
+    },
+    {
+      "id": 1605291015160,
+      "diziad": "Gangland Undercover",
+      "diziresim": "https://dizist.co/upload/poster/gangland-undercover.jpg",
+      "dizilinker": "https://dizist.co/gangland-undercover"
+    },
+    {
+      "id": 1605291015167,
+      "diziad": "İşler Güçler",
+      "diziresim": "https://dizist.co/upload/poster/isler-gucler.jpg",
+      "dizilinker": "https://dizist.co/isler-gucler"
+    },
+    {
+      "id": 1605291015174,
+      "diziad": "Indian Summers",
+      "diziresim": "https://dizist.co/upload/poster/indian-summers.jpg",
+      "dizilinker": "https://dizist.co/indian-summers"
+    },
+    {
+      "id": 1605291015182,
+      "diziad": "Intelligence",
+      "diziresim": "https://dizist.co/upload/poster/intelligence.jpg",
+      "dizilinker": "https://dizist.co/intelligence"
+    },
+    {
+      "id": 1605291015192,
+      "diziad": "Kardeş Payı",
+      "diziresim": "https://dizist.co/upload/poster/kardes-payi.jpg",
+      "dizilinker": "https://dizist.co/kardes-payi"
+    },
+    {
+      "id": 1605291015203,
+      "diziad": "Power",
+      "diziresim": "https://dizist.co/upload/poster/power.jpg",
+      "dizilinker": "https://dizist.co/power"
+    },
+    {
+      "id": 1605291015213,
+      "diziad": "Grace and Frankie",
+      "diziresim": "https://dizist.co/upload/poster/grace-and-frankie.jpg",
+      "dizilinker": "https://dizist.co/grace-and-frankie"
+    },
+    {
+      "id": 1605291015221,
+      "diziad": "The White Queen",
+      "diziresim": "https://dizist.co/upload/poster/the-white-queen.jpg",
+      "dizilinker": "https://dizist.co/the-white-queen"
+    },
+    {
+      "id": 1605291015228,
+      "diziad": "The Man In The High Castle",
+      "diziresim": "https://dizist.co/upload/poster/the-man-in-the-high-castle.jpg",
+      "dizilinker": "https://dizist.co/the-man-in-the-high-castle"
+    },
+    {
+      "id": 1605291015236,
+      "diziad": "Sense8",
+      "diziresim": "https://dizist.co/upload/poster/sense8.jpg",
+      "dizilinker": "https://dizist.co/sense8"
+    },
+    {
+      "id": 1605291015243,
+      "diziad": "The Whispers",
+      "diziresim": "https://dizist.co/upload/poster/the-whispers.jpg",
+      "dizilinker": "https://dizist.co/the-whispers"
+    },
+    {
+      "id": 1605291015250,
+      "diziad": "Blindspot",
+      "diziresim": "https://dizist.co/upload/poster/blindspot.jpg",
+      "dizilinker": "https://dizist.co/blindspot"
+    },
+    {
+      "id": 1605291015257,
+      "diziad": "Humans",
+      "diziresim": "https://dizist.co/upload/poster/humans.jpg",
+      "dizilinker": "https://dizist.co/humans"
+    },
+    {
+      "id": 1605291015265,
+      "diziad": "Jonathan Strange & Mr Norrell",
+      "diziresim": "https://dizist.co/upload/poster/jonathan-strange-mr-norrell.jpg",
+      "dizilinker": "https://dizist.co/jonathan-strange-mr-norrell"
+    },
+    {
+      "id": 1605291015273,
+      "diziad": "Between",
+      "diziresim": "https://dizist.co/upload/poster/between.jpg",
+      "dizilinker": "https://dizist.co/between"
+    },
+    {
+      "id": 1605291015471,
+      "diziad": "Wayward Pines",
+      "diziresim": "https://dizist.co/upload/poster/wayward-pines.jpg",
+      "dizilinker": "https://dizist.co/wayward-pines"
+    },
+    {
+      "id": 1605291015481,
+      "diziad": "Aquarius",
+      "diziresim": "https://dizist.co/upload/poster/aquarius.jpg",
+      "dizilinker": "https://dizist.co/aquarius"
+    },
+    {
+      "id": 1605291015488,
+      "diziad": "Mr. Robot",
+      "diziresim": "https://dizist.co/upload/poster/mr-robot.jpg",
+      "dizilinker": "https://dizist.co/mr-robot"
+    },
+    {
+      "id": 1605291015497,
+      "diziad": "A Young Doctor's Notebook",
+      "diziresim": "https://dizist.co/upload/poster/a-young-doctors-notebook.jpg",
+      "dizilinker": "https://dizist.co/a-young-doctors-notebook"
+    },
+    {
+      "id": 1605291015505,
+      "diziad": "The Enfield Haunting",
+      "diziresim": "https://dizist.co/upload/poster/the-enfield-haunting.jpg",
+      "dizilinker": "https://dizist.co/the-enfield-haunting"
+    },
+    {
+      "id": 1605291015518,
+      "diziad": "Texas Rising",
+      "diziresim": "https://dizist.co/upload/poster/texas-rising.jpg",
+      "dizilinker": "https://dizist.co/texas-rising"
+    },
+    {
+      "id": 1605291015526,
+      "diziad": "Deadwood",
+      "diziresim": "https://dizist.co/upload/poster/deadwood.jpg",
+      "dizilinker": "https://dizist.co/deadwood"
+    },
+    {
+      "id": 1605291015532,
+      "diziad": "Stitchers",
+      "diziresim": "https://dizist.co/upload/poster/stitchers.jpg",
+      "dizilinker": "https://dizist.co/stitchers"
+    },
+    {
+      "id": 1605291015540,
+      "diziad": "Undateable",
+      "diziresim": "https://dizist.co/upload/poster/undateable.jpg",
+      "dizilinker": "https://dizist.co/undateable"
+    },
+    {
+      "id": 1605291015547,
+      "diziad": "That '70s Show",
+      "diziresim": "https://dizist.co/upload/poster/that-70s-show.jpg",
+      "dizilinker": "https://dizist.co/that-70s-show"
+    },
+    {
+      "id": 1605291015557,
+      "diziad": "DC's Legends of Tomorrow",
+      "diziresim": "https://dizist.co/upload/poster/dc-s-legends-of-tomorrow.jpg",
+      "dizilinker": "https://dizist.co/dc-s-legends-of-tomorrow"
+    },
+    {
+      "id": 1605291015565,
+      "diziad": "Supergirl",
+      "diziresim": "https://dizist.co/upload/poster/supergirl.jpg",
+      "dizilinker": "https://dizist.co/supergirl"
+    },
+    {
+      "id": 1605291015580,
+      "diziad": "Bosch",
+      "diziresim": "https://dizist.co/upload/poster/bosch.jpg",
+      "dizilinker": "https://dizist.co/bosch"
+    },
+    {
+      "id": 1605291015587,
+      "diziad": "Tyrant",
+      "diziresim": "https://dizist.co/upload/poster/tyrant.jpg",
+      "dizilinker": "https://dizist.co/tyrant"
+    },
+    {
+      "id": 1605291015594,
+      "diziad": "American Crime",
+      "diziresim": "https://dizist.co/upload/poster/american-crime.jpg",
+      "dizilinker": "https://dizist.co/american-crime"
+    },
+    {
+      "id": 1605291015674,
+      "diziad": "The Returned",
+      "diziresim": "https://dizist.co/upload/poster/the-returned.jpg",
+      "dizilinker": "https://dizist.co/the-returned"
+    },
+    {
+      "id": 1605291015688,
+      "diziad": "Almost Human",
+      "diziresim": "https://dizist.co/upload/poster/almost-human.jpg",
+      "dizilinker": "https://dizist.co/almost-human"
+    },
+    {
+      "id": 1605291015697,
+      "diziad": "The Missing",
+      "diziresim": "https://dizist.co/upload/poster/the-missing.jpg",
+      "dizilinker": "https://dizist.co/the-missing"
+    },
+    {
+      "id": 1605291015704,
+      "diziad": "Rome",
+      "diziresim": "https://dizist.co/upload/poster/rome.jpg",
+      "dizilinker": "https://dizist.co/rome"
+    },
+    {
+      "id": 1605291015712,
+      "diziad": "Crisis",
+      "diziresim": "https://dizist.co/upload/poster/crisis.jpg",
+      "dizilinker": "https://dizist.co/crisis"
+    },
+    {
+      "id": 1605291015721,
+      "diziad": "Allegiance",
+      "diziresim": "https://dizist.co/upload/poster/allegiance.jpg",
+      "dizilinker": "https://dizist.co/allegiance"
+    },
+    {
+      "id": 1605291015729,
+      "diziad": "Happyish",
+      "diziresim": "https://dizist.co/upload/poster/happyish.jpg",
+      "dizilinker": "https://dizist.co/happyish"
+    },
+    {
+      "id": 1605291015737,
+      "diziad": "Defiance",
+      "diziresim": "https://dizist.co/upload/poster/defiance.jpg",
+      "dizilinker": "https://dizist.co/defiance"
+    },
+    {
+      "id": 1605291015745,
+      "diziad": "The Tudors",
+      "diziresim": "https://dizist.co/upload/poster/the-tudors.jpg",
+      "dizilinker": "https://dizist.co/the-tudors"
+    },
+    {
+      "id": 1605291015752,
+      "diziad": "Battlestar Galactica",
+      "diziresim": "https://dizist.co/upload/poster/battlestar-galactica.jpg",
+      "dizilinker": "https://dizist.co/battlestar-galactica"
+    },
+    {
+      "id": 1605291015759,
+      "diziad": "Broadchurch",
+      "diziresim": "https://dizist.co/upload/poster/broadchurch.jpg",
+      "dizilinker": "https://dizist.co/broadchurch"
+    },
+    {
+      "id": 1605291015766,
+      "diziad": "The Messengers",
+      "diziresim": "https://dizist.co/upload/poster/the-messengers.jpg",
+      "dizilinker": "https://dizist.co/the-messengers"
+    },
+    {
+      "id": 1605291015774,
+      "diziad": "Episodes",
+      "diziresim": "https://dizist.co/upload/poster/episodes.jpg",
+      "dizilinker": "https://dizist.co/episodes"
+    },
+    {
+      "id": 1605291015783,
+      "diziad": "Human Target",
+      "diziresim": "https://dizist.co/upload/poster/human-target.jpg",
+      "dizilinker": "https://dizist.co/human-target"
+    },
+    {
+      "id": 1605291015792,
+      "diziad": "Tin Man",
+      "diziresim": "https://dizist.co/upload/poster/tin-man.jpg",
+      "dizilinker": "https://dizist.co/tin-man"
+    },
+    {
+      "id": 1605291015800,
+      "diziad": "Atlantis",
+      "diziresim": "https://dizist.co/upload/poster/atlantis.jpg",
+      "dizilinker": "https://dizist.co/atlantis"
+    },
+    {
+      "id": 1605291015807,
+      "diziad": "Weird Loners",
+      "diziresim": "https://dizist.co/upload/poster/weird-loners.jpg",
+      "dizilinker": "https://dizist.co/weird-loners"
+    },
+    {
+      "id": 1605291015814,
+      "diziad": "Top of the Lake",
+      "diziresim": "https://dizist.co/upload/poster/top-of-the-lake.jpg",
+      "dizilinker": "https://dizist.co/top-of-the-lake"
+    },
+    {
+      "id": 1605291015823,
+      "diziad": "The Comedians",
+      "diziresim": "https://dizist.co/upload/poster/the-comedians.jpg",
+      "dizilinker": "https://dizist.co/the-comedians"
+    },
+    {
+      "id": 1605291015831,
+      "diziad": "Daredevil",
+      "diziresim": "https://dizist.co/upload/poster/daredevil.jpg",
+      "dizilinker": "https://dizist.co/daredevil"
+    },
+    {
+      "id": 1605291015840,
+      "diziad": "Dig",
+      "diziresim": "https://dizist.co/upload/poster/dig.jpg",
+      "dizilinker": "https://dizist.co/dig"
+    },
+    {
+      "id": 1605291015850,
+      "diziad": "Poldark",
+      "diziresim": "https://dizist.co/upload/poster/poldark.jpg",
+      "dizilinker": "https://dizist.co/poldark"
+    },
+    {
+      "id": 1605291015858,
+      "diziad": "Gilmore Girls",
+      "diziresim": "https://dizist.co/upload/poster/gilmore-girls.jpg",
+      "dizilinker": "https://dizist.co/gilmore-girls"
+    },
+    {
+      "id": 1605291015866,
+      "diziad": "Halo: Nightfall",
+      "diziresim": "https://dizist.co/upload/poster/halo-nightfall.jpg",
+      "dizilinker": "https://dizist.co/halo-nightfall"
+    },
+    {
+      "id": 1605291015874,
+      "diziad": "The Lizzie Borden Chronicles",
+      "diziresim": "https://dizist.co/upload/poster/the-lizzie-borden-chronicles.jpg",
+      "dizilinker": "https://dizist.co/the-lizzie-borden-chronicles"
+    },
+    {
+      "id": 1605291015882,
+      "diziad": "American Odyssey",
+      "diziresim": "https://dizist.co/upload/poster/american-odyssey.jpg",
+      "dizilinker": "https://dizist.co/american-odyssey"
+    },
+    {
+      "id": 1605291015890,
+      "diziad": "Unbreakable Kimmy Schmidt",
+      "diziresim": "https://dizist.co/upload/poster/unbreakable-kimmy-schmidt.jpg",
+      "dizilinker": "https://dizist.co/unbreakable-kimmy-schmidt"
+    },
+    {
+      "id": 1605291015898,
+      "diziad": "Gallipoli",
+      "diziresim": "https://dizist.co/upload/poster/gallipoli.jpg",
+      "dizilinker": "https://dizist.co/gallipoli"
+    },
+    {
+      "id": 1605291015909,
+      "diziad": "Olympus",
+      "diziresim": "https://dizist.co/upload/poster/olympus.jpg",
+      "dizilinker": "https://dizist.co/olympus"
+    },
+    {
+      "id": 1605291015918,
+      "diziad": "Rectify",
+      "diziresim": "https://dizist.co/upload/poster/rectify.jpg",
+      "dizilinker": "https://dizist.co/rectify"
+    },
+    {
+      "id": 1605291015925,
+      "diziad": "Derek",
+      "diziresim": "https://dizist.co/upload/poster/derek.jpg",
+      "dizilinker": "https://dizist.co/derek"
+    },
+    {
+      "id": 1605291015933,
+      "diziad": "The Affair",
+      "diziresim": "https://dizist.co/upload/poster/the-affair.jpg",
+      "dizilinker": "https://dizist.co/the-affair"
+    },
+    {
+      "id": 1605291015940,
+      "diziad": "Chosen",
+      "diziresim": "https://dizist.co/upload/poster/chosen.jpg",
+      "dizilinker": "https://dizist.co/chosen"
+    },
+    {
+      "id": 1605291015952,
+      "diziad": "Blue Mountain State",
+      "diziresim": "https://dizist.co/upload/poster/blue-mountain-state.jpg",
+      "dizilinker": "https://dizist.co/blue-mountain-state"
+    },
+    {
+      "id": 1605291015962,
+      "diziad": "Bloodline",
+      "diziresim": "https://dizist.co/upload/poster/bloodline.jpg",
+      "dizilinker": "https://dizist.co/bloodline"
+    },
+    {
+      "id": 1605291015971,
+      "diziad": "Bates Motel",
+      "diziresim": "https://dizist.co/upload/poster/bates-motel.jpg",
+      "dizilinker": "https://dizist.co/bates-motel"
+    },
+    {
+      "id": 1605291015981,
+      "diziad": "Bitten",
+      "diziresim": "https://dizist.co/upload/poster/bitten.jpg",
+      "dizilinker": "https://dizist.co/bitten"
+    },
+    {
+      "id": 1605291015990,
+      "diziad": "iZombie",
+      "diziresim": "https://dizist.co/upload/poster/izombie.jpg",
+      "dizilinker": "https://dizist.co/izombie"
+    },
+    {
+      "id": 1605291015998,
+      "diziad": "Witches of East End",
+      "diziresim": "https://dizist.co/upload/poster/witches-of-east-end.jpg",
+      "dizilinker": "https://dizist.co/witches-of-east-end"
+    },
+    {
+      "id": 1605291016007,
+      "diziad": "Turn",
+      "diziresim": "https://dizist.co/upload/poster/turn.jpg",
+      "dizilinker": "https://dizist.co/turn"
+    },
+    {
+      "id": 1605291016014,
+      "diziad": "The Killing",
+      "diziresim": "https://dizist.co/upload/poster/the-killing.jpg",
+      "dizilinker": "https://dizist.co/the-killing"
+    },
+    {
+      "id": 1605291016022,
+      "diziad": "The Fall",
+      "diziresim": "https://dizist.co/upload/poster/the-fall.jpg",
+      "dizilinker": "https://dizist.co/the-fall"
+    },
+    {
+      "id": 1605291016029,
+      "diziad": "Peaky Blinders",
+      "diziresim": "https://dizist.co/upload/poster/peaky-blinders.jpg",
+      "dizilinker": "https://dizist.co/peaky-blinders"
+    },
+    {
+      "id": 1605291016037,
+      "diziad": "Ray Donovan",
+      "diziresim": "https://dizist.co/upload/poster/ray-donovan.jpg",
+      "dizilinker": "https://dizist.co/ray-donovan"
+    },
+    {
+      "id": 1605291016047,
+      "diziad": "Graceland",
+      "diziresim": "https://dizist.co/upload/poster/graceland.jpg",
+      "dizilinker": "https://dizist.co/graceland"
+    },
+    {
+      "id": 1605291016054,
+      "diziad": "Falling Skies",
+      "diziresim": "https://dizist.co/upload/poster/falling-skies.jpg",
+      "dizilinker": "https://dizist.co/falling-skies"
+    },
+    {
+      "id": 1605291016062,
+      "diziad": "Masters of Sex",
+      "diziresim": "https://dizist.co/upload/poster/masters-of-sex.jpg",
+      "dizilinker": "https://dizist.co/masters-of-sex"
+    },
+    {
+      "id": 1605291016070,
+      "diziad": "The Sopranos",
+      "diziresim": "https://dizist.co/upload/poster/the-sopranos.jpg",
+      "dizilinker": "https://dizist.co/the-sopranos"
+    },
+    {
+      "id": 1605291016077,
+      "diziad": "Utopia",
+      "diziresim": "https://dizist.co/upload/poster/utopia.jpg",
+      "dizilinker": "https://dizist.co/utopia"
+    },
+    {
+      "id": 1605291016086,
+      "diziad": "Six Feet Under",
+      "diziresim": "https://dizist.co/upload/poster/six-feet-under.jpg",
+      "dizilinker": "https://dizist.co/six-feet-under"
+    },
+    {
+      "id": 1605291016094,
+      "diziad": "Sons of Anarchy",
+      "diziresim": "https://dizist.co/upload/poster/sons-of-anarchy.jpg",
+      "dizilinker": "https://dizist.co/sons-of-anarchy"
+    },
+    {
+      "id": 1605291016102,
+      "diziad": "Resurrection",
+      "diziresim": "https://dizist.co/upload/poster/resurrection.jpg",
+      "dizilinker": "https://dizist.co/resurrection"
+    },
+    {
+      "id": 1605291016112,
+      "diziad": "Legends",
+      "diziresim": "https://dizist.co/upload/poster/legends.jpg",
+      "dizilinker": "https://dizist.co/legends"
+    },
+    {
+      "id": 1605291016119,
+      "diziad": "Hart Of Dixie",
+      "diziresim": "https://dizist.co/upload/poster/hart-of-dixie.jpg",
+      "dizilinker": "https://dizist.co/hart-of-dixie"
+    },
+    {
+      "id": 1605291016127,
+      "diziad": "Halt and Catch Fire",
+      "diziresim": "https://dizist.co/upload/poster/halt-and-catch-fire.jpg",
+      "dizilinker": "https://dizist.co/halt-and-catch-fire"
+    },
+    {
+      "id": 1605291016134,
+      "diziad": "Firefly",
+      "diziresim": "https://dizist.co/upload/poster/firefly.jpg",
+      "dizilinker": "https://dizist.co/firefly"
+    },
+    {
+      "id": 1605291016142,
+      "diziad": "Continuum",
+      "diziresim": "https://dizist.co/upload/poster/continuum.jpg",
+      "dizilinker": "https://dizist.co/continuum"
+    },
+    {
+      "id": 1605291016150,
+      "diziad": "24",
+      "diziresim": "https://dizist.co/upload/poster/24.jpg",
+      "dizilinker": "https://dizist.co/24"
+    },
+    {
+      "id": 1605291016158,
+      "diziad": "Haven",
+      "diziresim": "https://dizist.co/upload/poster/haven.jpg",
+      "dizilinker": "https://dizist.co/haven"
+    },
+    {
+      "id": 1605291016168,
+      "diziad": "Secrets & Lies",
+      "diziresim": "https://dizist.co/upload/poster/secrets-lies.jpg",
+      "dizilinker": "https://dizist.co/secrets-lies"
+    },
+    {
+      "id": 1605291016177,
+      "diziad": "Moone Boy",
+      "diziresim": "https://dizist.co/upload/poster/moone-boy.jpg",
+      "dizilinker": "https://dizist.co/moone-boy"
+    },
+    {
+      "id": 1605291016185,
+      "diziad": "Jordskott",
+      "diziresim": "https://dizist.co/upload/poster/jordskott.jpg",
+      "dizilinker": "https://dizist.co/jordskott"
+    },
+    {
+      "id": 1605291016192,
+      "diziad": "The Fosters",
+      "diziresim": "https://dizist.co/upload/poster/the-fosters.jpg",
+      "dizilinker": "https://dizist.co/the-fosters"
+    },
+    {
+      "id": 1605291016200,
+      "diziad": "Boss",
+      "diziresim": "https://dizist.co/upload/poster/boss.jpg",
+      "dizilinker": "https://dizist.co/boss"
+    },
+    {
+      "id": 1605291016207,
+      "diziad": "The Last Man on Earth",
+      "diziresim": "https://dizist.co/upload/poster/the-last-man-on-earth.jpg",
+      "dizilinker": "https://dizist.co/the-last-man-on-earth"
+    },
+    {
+      "id": 1605291016216,
+      "diziad": "Battle Creek",
+      "diziresim": "https://dizist.co/upload/poster/battle-creek.jpg",
+      "dizilinker": "https://dizist.co/battle-creek"
+    },
+    {
+      "id": 1605291016226,
+      "diziad": "Castle",
+      "diziresim": "https://dizist.co/upload/poster/castle.jpg",
+      "dizilinker": "https://dizist.co/castle"
+    },
+    {
+      "id": 1605291016238,
+      "diziad": "The O.C.",
+      "diziresim": "https://dizist.co/upload/poster/the-oc.jpg",
+      "dizilinker": "https://dizist.co/the-oc"
+    },
+    {
+      "id": 1605291016249,
+      "diziad": "Legend of the Seeker",
+      "diziresim": "https://dizist.co/upload/poster/legend-of-the-seeker.jpg",
+      "dizilinker": "https://dizist.co/legend-of-the-seeker"
+    },
+    {
+      "id": 1605291016261,
+      "diziad": "Leverage",
+      "diziresim": "https://dizist.co/upload/poster/leverage.jpg",
+      "dizilinker": "https://dizist.co/leverage"
+    },
+    {
+      "id": 1605291016272,
+      "diziad": "The Secret Circle",
+      "diziresim": "https://dizist.co/upload/poster/the-secret-circle.jpg",
+      "dizilinker": "https://dizist.co/the-secret-circle"
+    },
+    {
+      "id": 1605291016287,
+      "diziad": "Sex & the City",
+      "diziresim": "https://dizist.co/upload/poster/sex-the-city.jpg",
+      "dizilinker": "https://dizist.co/sex-the-city"
+    },
+    {
+      "id": 1605291016301,
+      "diziad": "Grey's Anatomy",
+      "diziresim": "https://dizist.co/upload/poster/greys-anatomy.jpg",
+      "dizilinker": "https://dizist.co/greys-anatomy"
+    },
+    {
+      "id": 1605291016315,
+      "diziad": "Arrested Development",
+      "diziresim": "https://dizist.co/upload/poster/arrested-development.jpg",
+      "dizilinker": "https://dizist.co/arrested-development"
+    },
+    {
+      "id": 1605291016325,
+      "diziad": "Justified",
+      "diziresim": "https://dizist.co/upload/poster/justified.jpg",
+      "dizilinker": "https://dizist.co/justified"
+    },
+    {
+      "id": 1605291016332,
+      "diziad": "Fortitude",
+      "diziresim": "https://dizist.co/upload/poster/fortitude.jpg",
+      "dizilinker": "https://dizist.co/fortitude"
+    },
+    {
+      "id": 1605291016340,
+      "diziad": "Cosmos: A SpaceTime Odyssey",
+      "diziresim": "https://dizist.co/upload/poster/cosmos-a-spacetime-odyssey.jpg",
+      "dizilinker": "https://dizist.co/cosmos-a-spacetime-odyssey"
+    },
+    {
+      "id": 1605291016349,
+      "diziad": "The Musketeers",
+      "diziresim": "https://dizist.co/upload/poster/the-musketeers.jpg",
+      "dizilinker": "https://dizist.co/the-musketeers"
+    },
+    {
+      "id": 1605291016358,
+      "diziad": "Carnivale",
+      "diziresim": "https://dizist.co/upload/poster/carnivale.jpg",
+      "dizilinker": "https://dizist.co/carnivale"
+    },
+    {
+      "id": 1605291016365,
+      "diziad": "Stalker",
+      "diziresim": "https://dizist.co/upload/poster/stalker.jpg",
+      "dizilinker": "https://dizist.co/stalker"
+    },
+    {
+      "id": 1605291016373,
+      "diziad": "The Leftovers",
+      "diziresim": "https://dizist.co/upload/poster/the-leftovers.jpg",
+      "dizilinker": "https://dizist.co/the-leftovers"
+    },
+    {
+      "id": 1605291016380,
+      "diziad": "Hemlock Grove",
+      "diziresim": "https://dizist.co/upload/poster/hemlock-grove.jpg",
+      "dizilinker": "https://dizist.co/hemlock-grove"
+    },
+    {
+      "id": 1605291016388,
+      "diziad": "Perception",
+      "diziresim": "https://dizist.co/upload/poster/perception.jpg",
+      "dizilinker": "https://dizist.co/perception"
+    },
+    {
+      "id": 1605291016397,
+      "diziad": "The Librarians",
+      "diziresim": "https://dizist.co/upload/poster/the-librarians.jpg",
+      "dizilinker": "https://dizist.co/the-librarians"
+    },
+    {
+      "id": 1605291016405,
+      "diziad": "Rizzoli & Isles",
+      "diziresim": "https://dizist.co/upload/poster/rizzoli-isles.jpg",
+      "dizilinker": "https://dizist.co/rizzoli-isles"
+    },
+    {
+      "id": 1605291016653,
+      "diziad": "Salem",
+      "diziresim": "https://dizist.co/upload/poster/salem.jpg",
+      "dizilinker": "https://dizist.co/salem"
+    },
+    {
+      "id": 1605291016661,
+      "diziad": "Dominion",
+      "diziresim": "https://dizist.co/upload/poster/dominion.jpg",
+      "dizilinker": "https://dizist.co/dominion"
+    },
+    {
+      "id": 1605291016670,
+      "diziad": "Extant",
+      "diziresim": "https://dizist.co/upload/poster/extant.jpg",
+      "dizilinker": "https://dizist.co/extant"
+    },
+    {
+      "id": 1605291016684,
+      "diziad": "Modern Family",
+      "diziresim": "https://dizist.co/upload/poster/modern-family.jpg",
+      "dizilinker": "https://dizist.co/modern-family"
+    },
+    {
+      "id": 1605291016693,
+      "diziad": "The Last Ship",
+      "diziresim": "https://dizist.co/upload/poster/the-last-ship.jpg",
+      "dizilinker": "https://dizist.co/the-last-ship"
+    },
+    {
+      "id": 1605291016701,
+      "diziad": "Brooklyn Nine-Nine",
+      "diziresim": "https://dizist.co/upload/poster/brooklyn-nine-nine.jpg",
+      "dizilinker": "https://dizist.co/brooklyn-nine-nine"
+    },
+    {
+      "id": 1605291016710,
+      "diziad": "The Odd Couple",
+      "diziresim": "https://dizist.co/upload/poster/the-odd-couple.jpg",
+      "dizilinker": "https://dizist.co/the-odd-couple"
+    },
+    {
+      "id": 1605291016718,
+      "diziad": "The Americans",
+      "diziresim": "https://dizist.co/upload/poster/the-americans.jpg",
+      "dizilinker": "https://dizist.co/the-americans"
+    },
+    {
+      "id": 1605291016730,
+      "diziad": "Awkward",
+      "diziresim": "https://dizist.co/upload/poster/awkward.jpg",
+      "dizilinker": "https://dizist.co/awkward"
+    },
+    {
+      "id": 1605291016741,
+      "diziad": "Boardwalk Empire",
+      "diziresim": "https://dizist.co/upload/poster/boardwalk-empire.jpg",
+      "dizilinker": "https://dizist.co/boardwalk-empire"
+    },
+    {
+      "id": 1605291016748,
+      "diziad": "Bones",
+      "diziresim": "https://dizist.co/upload/poster/bones.jpg",
+      "dizilinker": "https://dizist.co/bones"
+    },
+    {
+      "id": 1605291016761,
+      "diziad": "Nikita",
+      "diziresim": "https://dizist.co/upload/poster/nikita.jpg",
+      "dizilinker": "https://dizist.co/nikita"
+    },
+    {
+      "id": 1605291016768,
+      "diziad": "Heroes",
+      "diziresim": "https://dizist.co/upload/poster/heroes.jpg",
+      "dizilinker": "https://dizist.co/heroes"
+    },
+    {
+      "id": 1605291016776,
+      "diziad": "Smallville",
+      "diziresim": "https://dizist.co/upload/poster/smallville.jpg",
+      "dizilinker": "https://dizist.co/smallville"
+    },
+    {
+      "id": 1605291016783,
+      "diziad": "Merlin",
+      "diziresim": "https://dizist.co/upload/poster/merlin.jpg",
+      "dizilinker": "https://dizist.co/merlin"
+    },
+    {
+      "id": 1605291016791,
+      "diziad": "Gossip Girl",
+      "diziresim": "https://dizist.co/upload/poster/gossip-girl.jpg",
+      "dizilinker": "https://dizist.co/gossip-girl"
+    },
+    {
+      "id": 1605291016800,
+      "diziad": "Coupling",
+      "diziresim": "https://dizist.co/upload/poster/coupling.jpg",
+      "dizilinker": "https://dizist.co/coupling"
+    },
+    {
+      "id": 1605291016809,
+      "diziad": "The Lost Room",
+      "diziresim": "https://dizist.co/upload/poster/the-lost-room.jpg",
+      "dizilinker": "https://dizist.co/the-lost-room"
+    },
+    {
+      "id": 1605291016816,
+      "diziad": "The IT Crowd",
+      "diziresim": "https://dizist.co/upload/poster/the-it-crowd.jpg",
+      "dizilinker": "https://dizist.co/the-it-crowd"
+    },
+    {
+      "id": 1605291016825,
+      "diziad": "The X Files",
+      "diziresim": "https://dizist.co/upload/poster/the-x-files.jpg",
+      "dizilinker": "https://dizist.co/the-x-files"
+    },
+    {
+      "id": 1605291016832,
+      "diziad": "Downton Abbey",
+      "diziresim": "https://dizist.co/upload/poster/downton-abbey.jpg",
+      "dizilinker": "https://dizist.co/downton-abbey"
+    },
+    {
+      "id": 1605291016840,
+      "diziad": "Twin Peaks",
+      "diziresim": "https://dizist.co/upload/poster/twin-peaks.jpg",
+      "dizilinker": "https://dizist.co/twin-peaks"
+    },
+    {
+      "id": 1605291016847,
+      "diziad": "Freaks and Geeks",
+      "diziresim": "https://dizist.co/upload/poster/freaks-and-geeks.jpg",
+      "dizilinker": "https://dizist.co/freaks-and-geeks"
+    },
+    {
+      "id": 1605291016857,
+      "diziad": "Seinfeld",
+      "diziresim": "https://dizist.co/upload/poster/seinfeld.jpg",
+      "dizilinker": "https://dizist.co/seinfeld"
+    },
+    {
+      "id": 1605291016865,
+      "diziad": "Banshee",
+      "diziresim": "https://dizist.co/upload/poster/banshee.jpg",
+      "dizilinker": "https://dizist.co/banshee"
+    },
+    {
+      "id": 1605291016873,
+      "diziad": "Fresh Off the Boat",
+      "diziresim": "https://dizist.co/upload/poster/fresh-off-the-boat.jpg",
+      "dizilinker": "https://dizist.co/fresh-off-the-boat"
+    },
+    {
+      "id": 1605291016881,
+      "diziad": "Spartacus: Gods of the Arena",
+      "diziresim": "https://dizist.co/upload/poster/spartacus-gods-of-the-arena.jpg",
+      "dizilinker": "https://dizist.co/spartacus-gods-of-the-arena"
+    },
+    {
+      "id": 1605291016889,
+      "diziad": "Spartacus: Blood and Sand",
+      "diziresim": "https://dizist.co/upload/poster/spartacus-blood-and-sand.jpg",
+      "dizilinker": "https://dizist.co/spartacus-blood-and-sand"
+    },
+    {
+      "id": 1605291016897,
+      "diziad": "Sleepy Hollow",
+      "diziresim": "https://dizist.co/upload/poster/sleepy-hollow.jpg",
+      "dizilinker": "https://dizist.co/sleepy-hollow"
+    },
+    {
+      "id": 1605291016906,
+      "diziad": "Criminal Minds",
+      "diziresim": "https://dizist.co/upload/poster/criminal-minds.jpg",
+      "dizilinker": "https://dizist.co/criminal-minds"
+    },
+    {
+      "id": 1605291016919,
+      "diziad": "Chuck",
+      "diziresim": "https://dizist.co/upload/poster/chuck.jpg",
+      "dizilinker": "https://dizist.co/chuck"
+    },
+    {
+      "id": 1605291016930,
+      "diziad": "Orange Is the New Black",
+      "diziresim": "https://dizist.co/upload/poster/orange-is-the-new-black.jpg",
+      "dizilinker": "https://dizist.co/orange-is-the-new-black"
+    },
+    {
+      "id": 1605291016938,
+      "diziad": "How to Get Away with Murder",
+      "diziresim": "https://dizist.co/upload/poster/how-to-get-away-with-murder.jpg",
+      "dizilinker": "https://dizist.co/how-to-get-away-with-murder"
+    },
+    {
+      "id": 1605291016947,
+      "diziad": "Hawaii Five-0",
+      "diziresim": "https://dizist.co/upload/poster/hawaii-five-0.jpg",
+      "dizilinker": "https://dizist.co/hawaii-five-0"
+    },
+    {
+      "id": 1605291016954,
+      "diziad": "Orphan Black",
+      "diziresim": "https://dizist.co/upload/poster/orphan-black.jpg",
+      "dizilinker": "https://dizist.co/orphan-black"
+    },
+    {
+      "id": 1605291016965,
+      "diziad": "Better Call Saul",
+      "diziresim": "https://dizist.co/upload/poster/better-call-saul.jpg",
+      "dizilinker": "https://dizist.co/better-call-saul"
+    },
+    {
+      "id": 1605291016973,
+      "diziad": "Family Guy",
+      "diziresim": "https://dizist.co/upload/poster/family-guy.jpg",
+      "dizilinker": "https://dizist.co/family-guy"
+    },
+    {
+      "id": 1605291016982,
+      "diziad": "It's Always Sunny in Philadelphia",
+      "diziresim": "https://dizist.co/upload/poster/its-always-sunny-in-philadelphia.jpg",
+      "dizilinker": "https://dizist.co/its-always-sunny-in-philadelphia"
+    },
+    {
+      "id": 1605291016992,
+      "diziad": "Selfie",
+      "diziresim": "https://dizist.co/upload/poster/selfie.jpg",
+      "dizilinker": "https://dizist.co/selfie"
+    },
+    {
+      "id": 1605291017001,
+      "diziad": "Grimm",
+      "diziresim": "https://dizist.co/upload/poster/grimm.jpg",
+      "dizilinker": "https://dizist.co/grimm"
+    },
+    {
+      "id": 1605291017009,
+      "diziad": "Galavant",
+      "diziresim": "https://dizist.co/upload/poster/galavant.jpg",
+      "dizilinker": "https://dizist.co/galavant"
+    },
+    {
+      "id": 1605291017018,
+      "diziad": "Eye Candy",
+      "diziresim": "https://dizist.co/upload/poster/eye-candy.jpg",
+      "dizilinker": "https://dizist.co/eye-candy"
+    },
+    {
+      "id": 1605291017027,
+      "diziad": "12 Monkeys",
+      "diziresim": "https://dizist.co/upload/poster/12-monkeys.jpg",
+      "dizilinker": "https://dizist.co/12-monkeys"
+    },
+    {
+      "id": 1605291017037,
+      "diziad": "The Big Bang Theory",
+      "diziresim": "https://dizist.co/upload/poster/the-big-bang-theory.jpg",
+      "dizilinker": "https://dizist.co/the-big-bang-theory"
+    },
+    {
+      "id": 1605291017049,
+      "diziad": "New Girl",
+      "diziresim": "https://dizist.co/upload/poster/new-girl.jpg",
+      "dizilinker": "https://dizist.co/new-girl"
+    },
+    {
+      "id": 1605291017061,
+      "diziad": "Silicon Valley",
+      "diziresim": "https://dizist.co/upload/poster/silicon-valley.jpg",
+      "dizilinker": "https://dizist.co/silicon-valley"
+    },
+    {
+      "id": 1605291017069,
+      "diziad": "Helix",
+      "diziresim": "https://dizist.co/upload/poster/helix.jpg",
+      "dizilinker": "https://dizist.co/helix"
+    },
+    {
+      "id": 1605291017078,
+      "diziad": "Suits",
+      "diziresim": "https://dizist.co/upload/poster/suits.jpg",
+      "dizilinker": "https://dizist.co/suits"
+    },
+    {
+      "id": 1605291017179,
+      "diziad": "Leyla ile Mecnun",
+      "diziresim": "https://dizist.co/upload/poster/leyla-ile-mecnun.jpg",
+      "dizilinker": "https://dizist.co/leyla-ile-mecnun"
+    },
+    {
+      "id": 1605291017193,
+      "diziad": "OZ",
+      "diziresim": "https://dizist.co/upload/poster/oz.jpg",
+      "dizilinker": "https://dizist.co/oz"
+    },
+    {
+      "id": 1605291017202,
+      "diziad": "Friends",
+      "diziresim": "https://dizist.co/upload/poster/friends.jpg",
+      "dizilinker": "https://dizist.co/friends"
+    },
+    {
+      "id": 1605291017214,
+      "diziad": "The Wire",
+      "diziresim": "https://dizist.co/upload/poster/the-wire.jpg",
+      "dizilinker": "https://dizist.co/the-wire"
+    },
+    {
+      "id": 1605291017227,
+      "diziad": "Black Mirror",
+      "diziresim": "https://dizist.co/upload/poster/black-mirror.jpg",
+      "dizilinker": "https://dizist.co/black-mirror"
+    },
+    {
+      "id": 1605291017237,
+      "diziad": "Believe",
+      "diziresim": "https://dizist.co/upload/poster/believe.jpg",
+      "dizilinker": "https://dizist.co/believe"
+    },
+    {
+      "id": 1605291017246,
+      "diziad": "2 Broke Girls",
+      "diziresim": "https://dizist.co/upload/poster/2-broke-girls.jpg",
+      "dizilinker": "https://dizist.co/2-broke-girls"
+    },
+    {
+      "id": 1605291017253,
+      "diziad": "Misfits",
+      "diziresim": "https://dizist.co/upload/poster/misfits.jpg",
+      "dizilinker": "https://dizist.co/misfits"
+    },
+    {
+      "id": 1605291017262,
+      "diziad": "Elementary",
+      "diziresim": "https://dizist.co/upload/poster/elementary.jpg",
+      "dizilinker": "https://dizist.co/elementary"
+    },
+    {
+      "id": 1605291017270,
+      "diziad": "Penny Dreadful",
+      "diziresim": "https://dizist.co/upload/poster/penny-dreadful.jpg",
+      "dizilinker": "https://dizist.co/penny-dreadful"
+    },
+    {
+      "id": 1605291017279,
+      "diziad": "Skins",
+      "diziresim": "https://dizist.co/upload/poster/skins.jpg",
+      "dizilinker": "https://dizist.co/skins"
+    },
+    {
+      "id": 1605291017289,
+      "diziad": "Black Sails",
+      "diziresim": "https://dizist.co/upload/poster/black-sails.jpg",
+      "dizilinker": "https://dizist.co/black-sails"
+    },
+    {
+      "id": 1605291017298,
+      "diziad": "Glee",
+      "diziresim": "https://dizist.co/upload/poster/glee.jpg",
+      "dizilinker": "https://dizist.co/glee"
+    },
+    {
+      "id": 1605291017305,
+      "diziad": "Pretty Little Liars",
+      "diziresim": "https://dizist.co/upload/poster/pretty-little-liars.jpg",
+      "dizilinker": "https://dizist.co/pretty-little-liars"
+    },
+    {
+      "id": 1605291017314,
+      "diziad": "Revenge",
+      "diziresim": "https://dizist.co/upload/poster/revenge.jpg",
+      "dizilinker": "https://dizist.co/revenge"
+    },
+    {
+      "id": 1605291017322,
+      "diziad": "The Following",
+      "diziresim": "https://dizist.co/upload/poster/the-following.jpg",
+      "dizilinker": "https://dizist.co/the-following"
+    },
+    {
+      "id": 1605291017331,
+      "diziad": "Under The Dome",
+      "diziresim": "https://dizist.co/upload/poster/under-the-dome.jpg",
+      "dizilinker": "https://dizist.co/under-the-dome"
+    },
+    {
+      "id": 1605291017341,
+      "diziad": "Fringe",
+      "diziresim": "https://dizist.co/upload/poster/fringe.jpg",
+      "dizilinker": "https://dizist.co/fringe"
+    },
+    {
+      "id": 1605291017352,
+      "diziad": "Mom",
+      "diziresim": "https://dizist.co/upload/poster/mom.jpg",
+      "dizilinker": "https://dizist.co/mom"
+    },
+    {
+      "id": 1605291017362,
+      "diziad": "True Blood",
+      "diziresim": "https://dizist.co/upload/poster/true-blood.jpg",
+      "dizilinker": "https://dizist.co/true-blood"
+    },
+    {
+      "id": 1605291017371,
+      "diziad": "Agent Carter",
+      "diziresim": "https://dizist.co/upload/poster/agent-carter.jpg",
+      "dizilinker": "https://dizist.co/agent-carter"
+    },
+    {
+      "id": 1605291017381,
+      "diziad": "Africa",
+      "diziresim": "https://dizist.co/upload/poster/africa.jpg",
+      "dizilinker": "https://dizist.co/africa"
+    },
+    {
+      "id": 1605291017389,
+      "diziad": "Band of Brothers",
+      "diziresim": "https://dizist.co/upload/poster/band-of-brothers.jpg",
+      "dizilinker": "https://dizist.co/band-of-brothers"
+    },
+    {
+      "id": 1605291017397,
+      "diziad": "Shameless",
+      "diziresim": "https://dizist.co/upload/poster/shameless.jpg",
+      "dizilinker": "https://dizist.co/shameless"
+    },
+    {
+      "id": 1605291017408,
+      "diziad": "Forever",
+      "diziresim": "https://dizist.co/upload/poster/forever.jpg",
+      "dizilinker": "https://dizist.co/forever"
+    },
+    {
+      "id": 1605291017416,
+      "diziad": "House M.D.",
+      "diziresim": "https://dizist.co/upload/poster/house-m-d.jpg",
+      "dizilinker": "https://dizist.co/house-m-d"
+    },
+    {
+      "id": 1605291017426,
+      "diziad": "Hannibal",
+      "diziresim": "https://dizist.co/upload/poster/hannibal.jpg",
+      "dizilinker": "https://dizist.co/hannibal"
+    },
+    {
+      "id": 1605291017434,
+      "diziad": "How I Met Your Mother",
+      "diziresim": "https://dizist.co/upload/poster/how-i-met-your-mother.jpg",
+      "dizilinker": "https://dizist.co/how-i-met-your-mother"
+    },
+    {
+      "id": 1605291017442,
+      "diziad": "The Vampire Diaries",
+      "diziresim": "https://dizist.co/upload/poster/the-vampire-diaries.jpg",
+      "dizilinker": "https://dizist.co/the-vampire-diaries"
+    },
+    {
+      "id": 1605291017451,
+      "diziad": "True Detective",
+      "diziresim": "https://dizist.co/upload/poster/true-detective.jpg",
+      "dizilinker": "https://dizist.co/true-detective"
+    },
+    {
+      "id": 1605291017464,
+      "diziad": "The Mentalist",
+      "diziresim": "https://dizist.co/upload/poster/the-mentalist.jpg",
+      "dizilinker": "https://dizist.co/the-mentalist"
+    },
+    {
+      "id": 1605291017477,
+      "diziad": "Marco Polo",
+      "diziresim": "https://dizist.co/upload/poster/marco-polo.jpg",
+      "dizilinker": "https://dizist.co/marco-polo"
+    },
+    {
+      "id": 1605291017488,
+      "diziad": "RevolutionLostLie To MeDexter",
+      "diziresim": "https://dizist.co/upload/poster/revolution.jpg",
+      "dizilinker": "https://dizist.co/revolution"
+    },
+    {
+      "id": 1605291017622,
+      "diziad": "Prison Break",
+      "diziresim": "https://dizist.co/upload/poster/prison-break1.jpg",
+      "dizilinker": "https://dizist.co/prison-break1"
+    },
+    {
+      "id": 1605291017664,
+      "diziad": "Z Nation",
+      "diziresim": "https://dizist.co/upload/poster/z-nation.jpg",
+      "dizilinker": "https://dizist.co/z-nation"
+    },
+    {
+      "id": 1605291017682,
+      "diziad": "Fargo",
+      "diziresim": "https://dizist.co/upload/poster/fargo.jpg",
+      "dizilinker": "https://dizist.co/fargo"
+    },
+    {
+      "id": 1605291017695,
+      "diziad": "Vikings",
+      "diziresim": "https://dizist.co/upload/poster/vikings2.jpg",
+      "dizilinker": "https://dizist.co/vikings2"
+    },
+    {
+      "id": 1605291017705,
+      "diziad": "Once Upon A Time",
+      "diziresim": "https://dizist.co/upload/poster/once-upon-a-time.jpg",
+      "dizilinker": "https://dizist.co/once-upon-a-time"
+    },
+    {
+      "id": 1605291017714,
+      "diziad": "Homeland",
+      "diziresim": "https://dizist.co/upload/poster/homeland.jpg",
+      "dizilinker": "https://dizist.co/homeland"
+    },
+    {
+      "id": 1605291017722,
+      "diziad": "Gotham",
+      "diziresim": "https://dizist.co/upload/poster/gotham.jpg",
+      "dizilinker": "https://dizist.co/gotham"
+    },
+    {
+      "id": 1605291017730,
+      "diziad": "Doctor Who",
+      "diziresim": "https://dizist.co/upload/poster/doctor-who.jpg",
+      "dizilinker": "https://dizist.co/doctor-who"
+    },
+    {
+      "id": 1605291017738,
+      "diziad": "Da Vinci's Demons",
+      "diziresim": "https://dizist.co/upload/poster/da-vincis-demons.jpg",
+      "dizilinker": "https://dizist.co/da-vincis-demons"
+    },
+    {
+      "id": 1605291017746,
+      "diziad": "Constantine",
+      "diziresim": "https://dizist.co/upload/poster/constantine.jpg",
+      "dizilinker": "https://dizist.co/constantine"
+    },
+    {
+      "id": 1605291017758,
+      "diziad": "Agents of S.H.I.E.L.D.",
+      "diziresim": "https://dizist.co/upload/poster/agents-of-s-h-i-e-l-d.jpg",
+      "dizilinker": "https://dizist.co/agents-of-s-h-i-e-l-d"
+    },
+    {
+      "id": 1605291017769,
+      "diziad": "Person Of InterestTeen Wolf",
+      "diziresim": "https://dizist.co/upload/poster/person-of-interest.jpg",
+      "dizilinker": "https://dizist.co/person-of-interest"
+    },
+    {
+      "id": 1605291017780,
+      "diziad": "The Strain",
+      "diziresim": "https://dizist.co/upload/poster/the-strain.jpg",
+      "dizilinker": "https://dizist.co/the-strain"
+    },
+    {
+      "id": 1605291017788,
+      "diziad": "The Originals",
+      "diziresim": "https://dizist.co/upload/poster/the-originals.jpg",
+      "dizilinker": "https://dizist.co/the-originals"
+    },
+    {
+      "id": 1605291017796,
+      "diziad": "The 100",
+      "diziresim": "https://dizist.co/upload/poster/the-100.jpg",
+      "dizilinker": "https://dizist.co/the-100"
+    },
+    {
+      "id": 1605291017964,
+      "diziad": "The Flash",
+      "diziresim": "https://dizist.co/upload/poster/the-flash.jpg",
+      "dizilinker": "https://dizist.co/the-flash"
+    },
+    {
+      "id": 1605291017979,
+      "diziad": "Arrow",
+      "diziresim": "https://dizist.co/upload/poster/arrow.jpg",
+      "dizilinker": "https://dizist.co/arrow"
+    },
+    {
+      "id": 1605291017990,
+      "diziad": "Sherlock",
+      "diziresim": "https://dizist.co/upload/poster/sherlock.jpg",
+      "dizilinker": "https://dizist.co/sherlock"
+    },
+    {
+      "id": 1605291018000,
+      "diziad": "Game of Thrones",
+      "diziresim": "https://dizist.co/upload/poster/goth.jpg",
+      "dizilinker": "https://dizist.co/goth"
+    },
+    {
+      "id": 1605291018009,
+      "diziad": "Breaking Bad",
+      "diziresim": "https://dizist.co/upload/poster/breaking-bad.jpg",
+      "dizilinker": "https://dizist.co/breaking-bad"
+    },
+    {
+      "id": 1605291018017,
+      "diziad": "The Walking Dead",
+      "diziresim": "https://dizist.co/upload/poster/the-walking-dead1.jpg",
+      "dizilinker": "https://dizist.co/the-walking-dead"
+    },
+    {
+      "id": 1605291018025,
+      "diziad": "Supernatural",
+      "diziresim": "https://dizist.co/upload/poster/supernatural.jpg",
+      "dizilinker": "https://dizist.co/supernatural"
+    }
+  ]
+}
